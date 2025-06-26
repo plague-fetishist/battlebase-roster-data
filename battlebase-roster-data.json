@@ -22,7 +22,7 @@
     },
     {
       "id": "e1b649eb-e0a6-578b-a72c-39eaefdabd34",
-      "body": "If your Army Faction is T'AU EMPIRE, at the start of your Shooting phase you can select units from your army with this ability to become Observer units.\n\nFor each Observer unit that is eligible to shoot (excluding FORTIFICATION and Battle-shocked units) select one enemy unit that is visible to be marked as their Spotted unit until the end of the phase. \n\nUnits from your army (excluding Observer units) are Guided units while targeting one or more Spotted units.\n\nUntil the end of the phase, each time a model from your army with the For the Greater Good ability (excluding models in Observer units) makes an attack that targets a Spotted unit, improve the Ballistic Skill characteristic of that attack by 1 and, if the Spotted unit was marked by an Observer unit that has the Markerlight keyword, that attack has the IGNORES COVER ability.\nA unit of Stealth Battlesuits and a unit of Fire Warriors are pictured, along with a unit of Ork Boyz in a ruin and a Deff Dread not in the ruin. The T'au Empire player selects the Stealth Battlesuits unit to be the Observer unit and the Fire Warriors unit to be Guided by that unit. The Ork Boyz unit is selected to be those units' Spotted unit, meaning that the Fire Warriors improve their weapons' Ballistic Skill by 1 when targeting those Ork Boyz, but worsen it by 1 when targeting the Deff Dread unit. Because the Stealth Battlesuits have the Markerlight keyword, those attacks also have the [Ignores Cover] ability against that Spotted unit.\n"
+      "body": "If your Army Faction is T'AU EMPIRE, at the start of your Shooting phase you can select units from your army with this ability to become Observer units.\n\nFor each Observer unit that is eligible to shoot (excluding FORTIFICATION and Battle-shocked units) select one enemy unit that is visible to be marked as their Spotted unit until the end of the phase. \n\nUnits from your army (excluding Observer units) are Guided units while targeting one or more Spotted units.\n\nUntil the end of the phase, each time a model from your army with the For the Greater Good ability (excluding models in Observer units) makes an attack that targets a Spotted unit, improve the Ballistic Skill characteristic of that attack by 1 and, if the Spotted unit was marked by an Observer unit that has the Markerlight keyword, that attack has the IGNORES COVER ability."
     },
     {
       "id": "e74d6aaf-cf25-541a-adc9-28a54cbee819",
@@ -105,20 +105,12 @@
       "body": "• If an ADEPTUS ASTARTES unit has a second Faction keyword on its datasheet, that Faction keyword is the name of that unit's Chapter. For example, Asmodai has both the ADEPTUS ASTARTES and DARK ANGELS Faction keywords, and is therefore from the Dark Angels Chapter.\n• You cannot include units from more than one Chapter in your army.\n\nDesigner's Note: The rules presented in this section assume that the ADEPTUS ASTARTES units in your army are from the Dark Angels Chapter, but they can also be used to represent any Dark Angels successor Chapter, such as one described in the background section of this book, or even one of your own invention. However, players who wish to faithfully recreate the Dark Angels Chapter on the tabletop should only include DARK ANGELS EPIC HEROES if their collection is intended to represent the First Founding Chapter itself; Ezekiel is the Chief Librarian of the Dark Angels, for example, and not of any of their successors."
     },
     {
-      "id": "b8871277-ca23-57dd-b361-9f8ccc55949e",
-      "body": "If your Army Faction is CHAOS KNIGHTS, each model from your army with this ability has the following Dread abilities:\n\nDESPAIR (AURA)\n\nWhile an enemy unit is within 12\" of this model, each time that enemy unit takes a Battle-shock or Leadership test, subtract 1 from that test.\n\nDOOM AND DARKNESS\n\n• Each time this model makes an attack, if the target is Battle-shocked, add 1 to the Wound roll.\n• Each time an attack targets this model, if the attacking model's unit is Battle-shocked, subtract 1 from the Hit roll."
-    },
-    {
       "id": "09ec587b-a414-5d84-bc99-30def052dc40",
       "body": "If your Army Faction is LEAGUES OF VOTANN, each time an enemy unit destroys a LEAGUES OF VOTANN unit from your army, that enemy unit gains 1 Judgement token. An enemy unit can never have more than 2 Judgement tokens (any further Judgement tokens a unit would gain beyond this are ignored).\n\nEach time a model from your army with this ability makes an attack that targets a unit that has one or more Judgement tokens, until that model's attacks have been resolved, apply the relevant bonus from the table below to that attack.\n\nIn addition, at the start of the battle, select two units from your opponent's army; each of those units start the battle with 2 Judgement tokens.\nIf the target has one Judgement token, add 1 to the Hit roll. If the target has two Judgement tokens, add 1 to the Hit roll and add 1 to the Wound roll\nDesigner's Note: If a unit with Judgement tokens is removed from the battlefield, make a note of how many Judgement tokens it had when it was removed. If that unit is set up on the battlefield again, place the corresponding number of Judgement tokens next to it. If a unit with Judgement tokens splits up into two or more smaller units, each of those units gains a number of Judgement tokens equal to that of the original unit. If two units combine to form a single larger unit and either of those units had Judgement tokens, make a note of how many the unit with the most has, just before they combine - the new unit has a number of Judgement tokens equal to this."
     },
     {
       "id": "00dce0f8-bfa0-5e4c-9bcf-5733258b0f37",
       "body": "If your Army Faction is DRUKHARI, units from your army with this ability can become Empowered Through Pain. This is done using Pain tokens.\n\nGAINING PAIN TOKENS\n\nIf your Army Faction is DRUKHARI, you gain Pain tokens as follows:\n\n• At the start of the battle, depending on the battle size:\nIn a Combat Patrol battle, you start with one Pain token. In an Incursion battle, you start with two Pain tokens. In a Strike Force battle, you start with three Pain tokens. In an Onslaught battle, you start with four Pain tokens.\n• Each time an enemy unit is destroyed, you gain 1 Pain token.\n• Each time an enemy unit fails a Battle-shock test, you gain 1 Pain token.\n\nEach time you gain a Pain token, keep it to one side - this is your Pain token pool.\n\nEMPOWERED THROUGH PAIN\n\nAt the start of any phase, you can expend one or more Pain tokens from your Pain token pool. Each time you do, select one unit from your army with the Power from Pain ability. Until the end of the phase, that unit is Empowered, and gains the abilities listed below, depending on the phase.\n\n• Empowered in the Movement or Charge phase:\n◦ You can re-roll Advance or Charge rolls made for that unit.\n\n• Empowered in the Shooting or Fight phase:\n◦ Each time a model in that unit makes an attack, you can re-roll the Hit roll and, if it is a melee attack, improve the Armour Penetration characteristic of that attack by 1."
-    },
-    {
-      "id": "ea43f531-7645-52cb-b732-65aa815cf620",
-      "body": "If every model in your army has the CHAOS keyword, you can include either 1 TITANIC CHAOS KNIGHTS model or up to 3 WAR DOG models in your army, even if they do not have the Faction keyword you selected in the Select Army Faction step. None of these models can be your WARLORD, and they cannot be given Enhancements."
     },
     {
       "id": "78e7fea8-e343-59f4-a8ac-24a8938886df",
@@ -131,10 +123,6 @@
     {
       "id": "9c8a5fd4-9b2a-5d6b-9cf6-f5d31b3e7252",
       "body": "If your Army Faction is IMPERIAL KNIGHTS, at the end of the Read Mission Objectives step, you must select one of the Oaths below to be active for your army. Models from your army with this ability gain the associated Oath ability, and you gain the associated Deed to complete.\n\nIf, at the start of any of your Command phases, your selected Oath's Deed is completed, your army becomes Honoured for the rest of the battle and you gain 3CP (you can only gain CP in this way once per battle, and CP gained in this way are an exemption to the Core Rules that limit the maximum number of CP you can gain per battle round to 1).\n\nLAY LOW THE TYRANT\n\n• Oath Ability: Each time this model is selected to shoot or fight, you can re-roll one Hit roll and you can re-roll one Wound roll.\n• Deed: This deed is completed if the enemy WARLORD is destroyed.\n\nRECLAIM THE REALM\n\n• Oath Ability: Add 1\" to this model's Move characteristic and add 1 to Advance and Charge rolls made for this model.\n• Deed: This deed is completed if you control one or more objective markers in your opponent's deployment zone."
-    },
-    {
-      "id": "1c59b515-611f-5721-a351-e4b82c7a817e",
-      "body": "Each time a model with this ability makes a Normal, Advance or Fall Back move, it can move through models (excluding TITANIC models) and sections of terrain features that are 4\" or less in height. When doing so:\n\n• It can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them.\n• It can also move through sections of terrain features that are more than 4\" in height, but if it does, after it has moved, roll one D6: on a 1, that model is Battle-shocked."
     },
     {
       "id": "7f04fc4a-73ea-5e76-833e-c52b48af484c",
@@ -193,8 +181,20 @@
       "body": "When mustering your army, unless specifically stated otherwise, you cannot select PLAGUE LEGIONS as your Army Faction."
     },
     {
+      "id": "b8871277-ca23-57dd-b361-9f8ccc55949e",
+      "body": "If your Army Faction is CHAOS KNIGHTS, each unit from your army with this ability gains Dread abilities, depending which are active for your army (see below). The Deathly Terror ability is active for your army from the start of the battle. In addition, at the start of the first, third and fifth battle rounds, you can either select one of the other Dread abilities or randomly select two Dread abilities to apply by rolling two D6 and applying the results rolled, from those numbered 1-6 below.\n\nAny Dread abilities that have been selected are active until the end of the battle. You cannot select the same Dread ability more than once, and any duplicated Dread abilities (as a result of randomly selecting them) have no additional effect.\nWhile an enemy unit is within 9\" of this model, worsen the Leadership characteristic of models in that unit by 1\nWhile an enemy unit is within 9\" of this model, worsen the Leadership characteristic of models in that unit by 1. This is cumulative with the Deathly Terror ability [see above].\nEach time this model makes an attack, if the target of that attack is Battle-shocked, add 1 to the Wound roll.\nEach time an attack is made against this model, if the attacking unit is Battle-shocked or more than 18\" away, subtract 1 from the Hit roll\nIn the Battle-shock step of your opponent's Command phase, for each enemy unit that is below its Starting Strength and within 9\" of this model, that enemy unit must take a Battle-shock test.\nWhile an enemy unit that is Below Half-strength is within 9\" of this model, each time that unit fails a Battle-shock test, it suffers D3 mortal wounds.\nAdd 3\" to the range of this model's Aura abilities."
+    },
+    {
       "id": "10340f95-115f-5338-b7d3-cb1d06dc6289",
       "body": "If your Army Faction is THOUSAND SONS, at the start of your Shooting phase, one or more models from your army with this ability can attempt Rituals from those listed on the right. To do so, select one model from your army with this ability that has not yet attempted a Ritual this turn and select one Ritual no model from your army has manifested this turn, then take a Psychic test for that model by following the sequence below.\n\nPsychic Test Sequence\n\nRoll 2D6\nRoll 2D6\nChannel the Warp\n(Optional)\nOptionally, you can roll one additional D6.\nThen, if one or more doubles or triples were rolled during this test, that model's unit suffers D3 mortal wounds.\nIf that model is not destroyed, the combined total of all the dice rolled during this test is the Psychic test result. If this equals or exceeds the Warp Charge value of the Ritual being attempted, that model manifests that Ritual and you resolve its effects.\nSelect one enemy unit within 24\" of and visible to the manifesting model. Until the end of the phase, each time a THOUSAND SONS model from your army makes an attack that targets that unit, re-roll a Hit roll of 1. If the Psychic test result for this Ritual was 10+, you can re-roll the Hit roll instead.\nSelect one friendly THOUSAND SONS unit that is not within Engagement Range of one or more enemy units and is within 24\" of and visible to the manifesting model. That unit can make a Normal move of up to D6\". If the Psychic test result for this Ritual was 10+, that unit can make a Normal move of up to 6\" instead. In either case, until the end of the turn, that unit is not eligible to declare a charge.\nSelect one enemy unit within 24\" of and visible to the manifesting model (excluding units with the Lone Operative ability that are not part of an Attached unit and are not within 12\" of the manifesting model); that unit suffers D3 mortal wounds. If the Psychic test result for this Ritual was 11+, that unit suffers D3+3 mortal wounds instead.\nSelect one enemy unit within 24\" of and visible to the manifesting model. Until the end of the phase, each time a THOUSAND SONS model from your army makes an attack that targets that unit, improve the Armour Penetration characteristic of that attack by 1. If the Psychic test result for this Ritual was 12+, improve the Armour Penetration characteristic of that attack by 2 instead."
+    },
+    {
+      "id": "ea43f531-7645-52cb-b732-65aa815cf620",
+      "body": "If every model in your army has the CHAOS keyword, you can include either 1 TITANIC CHAOS KNIGHTS model or up to 3 WAR DOG models in your army, even if they do not have the Faction keyword you selected in the Select Army Faction step. None of these models can be your WARLORD, and they cannot be given Enhancements."
+    },
+    {
+      "id": "1c59b515-611f-5721-a351-e4b82c7a817e",
+      "body": "Each time a model with this ability makes a Normal, Advance or Fall Back move, it can move through models (excluding TITANIC models) and sections of terrain features that are 4\" or less in height. When doing so:\n\n• It can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them.\n• It can also move through sections of terrain features that are more than 4\" in height, but if it does, after it has moved, roll one D6: on a 1, that model is Battle-shocked."
     },
     {
       "id": "89612c71-13c1-50e5-b978-07757c4c944a",
@@ -207,9 +207,8 @@
   ],
   "datasheets": [
     {
-      "id": "e3880c68-4384-5c59-b3ea-1d17c8441959",
-      "damageBody": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Armiger Helverin\n\nThis model is equipped with: 2 Armiger autocannons; Questoris heavy stubber; armoured feet."
+      "id": "a8e37763-4c4c-59e6-bb16-5f2edc3441b9",
+      "compositionBody": "• 1 Lictor\n\nThis model is equipped with: Lictor claws and talons."
     },
     {
       "id": "4d6b5a2a-e25f-5c15-b64b-eb654a4c4125",
@@ -228,10 +227,6 @@
     {
       "id": "812c1144-6767-525f-a48c-169ea53a511a",
       "compositionBody": "• 1 Transcendent C'tan\n\nThis model is equipped with: seismic assault; crackling tendrils."
-    },
-    {
-      "id": "a8e37763-4c4c-59e6-bb16-5f2edc3441b9",
-      "compositionBody": "• 1 Lictor\n\nThis model is equipped with: Lictor claws and talons."
     },
     {
       "id": "c666ffaf-3f3d-5d1e-8b61-adf34b1de930",
@@ -313,6 +308,10 @@
     {
       "id": "7e568896-40e3-5e47-b6f0-28f361f29d2f",
       "compositionBody": "• 1 Patriarch\n\nThis model is equipped with: Patriarch's claws."
+    },
+    {
+      "id": "823a8828-14c7-579f-855b-dbace4573256",
+      "compositionBody": "• 1 Neurolictor\n\nThis model is equipped with: piercing claws and talons."
     },
     {
       "id": "7f49e101-9585-572d-a460-f28faf26eb46",
@@ -428,26 +427,6 @@
       "compositionBody": "• 1 Traitor Sergeant\n• 9 Traitor Guardsmen\n\nThe Traitor Sergeant is equipped with: corrupted pistol; close combat weapon.\nEvery Traitor Guardsman is equipped with: lasgun; close combat weapon."
     },
     {
-      "id": "7274010a-bd1e-5b50-a4ec-75f3ad8084dc",
-      "damageBody": "While this model has 1-8 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Cerastus Knight Acheron\n\nThis model is equipped with: Acheron flame cannon; twin heavy bolter; reaper chainfist."
-    },
-    {
-      "id": "ff216d8e-f9fc-504d-9aa8-54cd01dc17cb",
-      "damageBody": "While this model has 1-8 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Cerastus Knight Castigator\n\nThis model is equipped with: Castigator bolt cannon; tempest warblade."
-    },
-    {
-      "id": "44f8712b-9427-5804-aecf-7deb138f3c01",
-      "damageBody": "While this model has 1-8 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Cerastus Knight Lancer\n\nThis model is equipped with: Cerastus shock lance."
-    },
-    {
-      "id": "aac2e8ee-adf1-5b76-b9a8-8dd65e05df7a",
-      "damageBody": "While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Knight Crusader\n\nThis model is equipped with: avenger gatling cannon; heavy flamer; meltagun; thermal cannon; titanic feet."
-    },
-    {
       "id": "5c0f27b0-0ec7-59bc-ab95-b744f1be965e",
       "compositionBody": "• 1-2 Mucolid Spores\n\nEvery model is equipped with: nothing."
     },
@@ -458,6 +437,21 @@
     {
       "id": "97f0296f-b61d-5ee9-809f-2793c2b49d9a",
       "compositionBody": "• 1 Sir Hekhtur - EPIC HERO\n\nSir Hekhtur is equipped with: Hekhtur's pistol; close combat weapon."
+    },
+    {
+      "id": "7274010a-bd1e-5b50-a4ec-75f3ad8084dc",
+      "damageBody": "While this model has 1-10 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Cerastus Knight Acheron\n\nThis model is equipped with: Acheron flame cannon; twin heavy bolter; reaper chainfist."
+    },
+    {
+      "id": "ff216d8e-f9fc-504d-9aa8-54cd01dc17cb",
+      "damageBody": "While this model has 1-10 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Cerastus Knight Castigator\n\nThis model is equipped with: Castigator bolt cannon; tempest warblade."
+    },
+    {
+      "id": "44f8712b-9427-5804-aecf-7deb138f3c01",
+      "damageBody": "While this model has 1-10 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Cerastus Knight Lancer\n\nThis model is equipped with: Cerastus shock lance."
     },
     {
       "id": "1ce8451c-3f84-520e-8157-4abec08cbaad",
@@ -484,6 +478,10 @@
     {
       "id": "01e4a6c7-63c0-5c2f-9b56-f6e9a744e450",
       "compositionBody": "• 1 Bloodmaster\n\nThis model is equipped with: blade of blood."
+    },
+    {
+      "id": "c454bbcc-b156-55ea-b0ca-56e43f542637",
+      "compositionBody": "• 1 Neurotyrant\n\nThis model is equipped with: Psychic Scream; Neurotyrant claws and lashes."
     },
     {
       "id": "1eb45d6a-279d-598b-a451-a84f6c565b7e",
@@ -565,6 +563,11 @@
       "id": "564a1d22-ff10-52ab-9300-94ea1f53a008",
       "damageBody": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Wazbom Blastajet\n\nThis model is equipped with: smasha gun; twin wazbom mega-kannon; armoured hull."
+    },
+    {
+      "id": "fb6a008e-6930-5009-9187-f36c5e21a1c4",
+      "damageBody": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Norn Assimilator\n\nThis model is equipped with: toxinjector harpoon; monstrous scything talons."
     },
     {
       "id": "40743728-a835-5152-bfcd-b3289bf10ab6",
@@ -698,38 +701,8 @@
       "compositionBody": "• 1-2 Neurogaunt Nodebeasts*\n• 10-20 Neurogaunts\n\nEvery model is equipped with: chitinous claws and teeth.\n\n* *This unit can only contain 2 Neurogaunt Nodebeasts if it contains 20 Neurogaunts.*"
     },
     {
-      "id": "823a8828-14c7-579f-855b-dbace4573256",
-      "compositionBody": "• 1 Neurolictor\n\nThis model is equipped with: piercing claws and talons."
-    },
-    {
-      "id": "c454bbcc-b156-55ea-b0ca-56e43f542637",
-      "compositionBody": "• 1 Neurotyrant\n\nThis model is equipped with: Psychic Scream; Neurotyrant claws and lashes."
-    },
-    {
-      "id": "fb6a008e-6930-5009-9187-f36c5e21a1c4",
-      "damageBody": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Norn Assimilator\n\nThis model is equipped with: toxinjector harpoon; monstrous scything talons."
-    },
-    {
-      "id": "7ad3bcba-4dfe-5e34-95bb-1559b7f5c41f",
-      "compositionBody": "• 1 Parasite of Mortrex\n\nThis model is equipped with: barbed ovipositor; clawed limbs."
-    },
-    {
       "id": "7a32e545-8ee4-5889-a49e-3b0480f28cfb",
       "compositionBody": "• 1 Proctor-Exactant\n• 9 Exaction Vigilants\n• 1 Cyber-mastiff\n\nEvery Proctor-Exactant and Exaction Vigilant is equipped with: Arbites combat shotgun; Arbites shotpistol; close combat weapon.\n\nThe Cyber-mastiff is equipped with: mechanical bite."
-    },
-    {
-      "id": "cea18628-caae-5a02-8518-a6005aaca564",
-      "damageBody": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Tervigon\n\nThis model is equipped with: stinger salvoes; massive scything talons."
-    },
-    {
-      "id": "35d55c33-baf7-5ca9-baaa-c20fe23dfcad",
-      "compositionBody": "• 1 Tyranid Prime\n• 2-5 Tyranid Warriors\n\nEvery model is equipped with: Tyranid Warrior claws and talons."
-    },
-    {
-      "id": "a6da2711-c9d9-5641-ad5a-c1a2b41a5b6d",
-      "compositionBody": "• 1 Tyranid Prime\n• 2-5 Tyranid Warriors\n\nEvery model is equipped with: devourer; Tyranid Warrior claws and talons."
     },
     {
       "id": "50c6188b-eccf-5405-9f16-70a36645ac51",
@@ -760,6 +733,11 @@
     {
       "id": "a0802569-908a-592c-957f-7ec7cf6bf45f",
       "compositionBody": "• 1 The Swarmlord - EPIC HERO\n\nThis model is equipped with: Synaptic pulse; bone sabres."
+    },
+    {
+      "id": "cea18628-caae-5a02-8518-a6005aaca564",
+      "damageBody": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Tervigon\n\nThis model is equipped with: stinger salvoes; massive scything talons."
     },
     {
       "id": "a235a557-6393-5649-a4ca-8486456793f4",
@@ -818,26 +796,44 @@
       "compositionBody": "• 1 Jakhal Pack Leader, 1 Dishonoured and 8 Jakhals\n\nor:\n\n• 1 Jakhal Pack Leader, 2 Dishonoured and 17 Jakhals\n\nThe Jakhal Pack Leader and every Jakhal is equipped with: autopistol; chainblades.\n\nEvery Dishonoured is equipped with: paired manglers."
     },
     {
+      "id": "a360e3ba-1733-5032-8528-d2851dd80a93",
+      "compositionBody": "• 1 Judiciar\n\nThis model is equipped with: absolvor bolt pistol; executioner relic blade."
+    },
+    {
       "id": "cb648bf6-b5b8-591a-b853-369297251f72",
       "damageBody": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Skorpius Disintegrator\n\nThis model is equipped with: belleros energy cannon; 3 cognis heavy stubbers; disruptor missile launcher; armoured hull."
+    },
+    {
+      "id": "7e8db225-3178-526d-b5a5-5f9478ca7578",
+      "compositionBody": "• 1 Foul Blightspawn\n\nThis model is equipped with: plague sprayer; close combat weapon."
+    },
+    {
+      "id": "24a564b3-1548-56c0-813c-c39e1046f286",
+      "damageBody": "While this model has 1-9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Canis Rex - EPIC HERO\n\nCanis Rex is equipped with: Chainbreaker las-impulsor; Chainbreaker multi-laser; Freedom's Hand."
     },
     {
       "id": "8798846d-e3b6-5976-882c-69bf4dcb7746",
       "compositionBody": "• 1-3 Sydonian Dragoons\n\nEvery model is equipped with: phosphor serpenta; taser lance."
     },
     {
-      "id": "24a564b3-1548-56c0-813c-c39e1046f286",
-      "damageBody": "While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Canis Rex - EPIC HERO\n\nCanis Rex is equipped with: Chainbreaker las-impulsor; Chainbreaker multi-laser; Freedom's Hand."
-    },
-    {
       "id": "e9691d35-607a-54c7-bbf3-ad6fe87ccb9b",
       "compositionBody": "• 1 Fire Dragon Exarch\n• 4-9 Fire Dragons\n\nThe Fire Dragon Exarch is equipped with: Exarch's Dragon fusion gun; close combat weapon.\nEvery Fire Dragon is equipped with: Dragon fusion gun; close combat weapon."
     },
     {
+      "id": "704b9bd1-62af-5180-98fb-493dc171042c",
+      "damageBody": "While this model has 1-10 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Knight Tyrant\n\nThis model is equipped with: brimstone volcano lance; ectoplasma decimator; 2 gheiststrike missile launchers; 2 twin daemonbreath meltaguns; twin Desecrator cannon; titanic feet."
+    },
+    {
       "id": "2a3a28f2-1ae6-5c11-ae6a-26c6daf6c461",
       "compositionBody": "• 1 Shining Spear Exarch\n• 2-5 Shining Spears\n\nEvery model is equipped with: laser lance; twin shuriken catapult."
+    },
+    {
+      "id": "00485e6d-e244-5d8d-892f-63c684e626f1",
+      "damageBody": "While this model has 1‑9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Knight Ruinator\n\nThis model is equipped with: darkflame lance; terrorpulse missiles; fellbore."
     },
     {
       "id": "5f7e19a0-5257-536f-8b4a-6f516fdc9409",
@@ -864,8 +860,18 @@
       "compositionBody": "• 1 High Marshal Helbrecht - EPIC HERO\n\nThis model is equipped with: Ferocity; Sword of the High Marshals."
     },
     {
+      "id": "aac2e8ee-adf1-5b76-b9a8-8dd65e05df7a",
+      "damageBody": "While this model has 1-9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Knight Crusader\n\nThis model is equipped with: avenger gatling cannon; heavy flamer; meltagun; thermal cannon; titanic feet."
+    },
+    {
       "id": "a6ab29c2-5394-5c3e-8f8a-9ff7b4f43bc0",
       "compositionBody": "• 1 Primaris Sword Brother\n• 5-11 Primaris Initiates\n• 4-8 Primaris Neophytes\n\nThe Primaris Sword Brother is equipped with: heavy bolt pistol; power weapon.\n\nEvery Primaris Initiate is equipped with: bolt pistol; bolt rifle; close combat weapon.\n\nEvery Primaris Neophyte is equipped with: bolt pistol; Astartes chainsword."
+    },
+    {
+      "id": "e3880c68-4384-5c59-b3ea-1d17c8441959",
+      "damageBody": "While this model has 1‐5 wounds remaining, subtract 3 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Armiger Helverin\n\nThis model is equipped with: 2 Armiger autocannons; Questoris heavy stubber; armoured feet."
     },
     {
       "id": "aea60350-b06e-5f5b-a304-741f699b69ed",
@@ -876,16 +882,78 @@
       "compositionBody": "• 1 Sanguinary Priest\n\nThis model is equipped with: absolver bolt pistol; Astartes chainsword."
     },
     {
+      "id": "114103c1-cc08-58db-81c9-17382121204b",
+      "damageBody": "While this model has 1-9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Knight Despoiler\n\nThis model is equipped with: daemonbreath meltagun; reaper chainsword; titanic feet; warpstrike claw."
+    },
+    {
+      "id": "1a416d1e-c42a-5d89-bd08-1ffd8c7cf811",
+      "damageBody": "While this model has 1-9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Knight Rampager\n\nThis model is equipped with: diabolus heavy stubber; reaper chainsword; warpstrike claw."
+    },
+    {
+      "id": "e1c3832d-1bc2-56d3-9edf-6cf71c7266dc",
+      "damageBody": "While this model has 1‑5 wounds remaining, subtract 3 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 War Dog Brigand\n\nThis model is equipped with: avenger chaincannon; daemonbreath spear; diabolus heavy stubber; armoured feet."
+    },
+    {
+      "id": "edf58b6b-14c2-5e9b-adea-fb0fd909ea0e",
+      "damageBody": "While this model has 1‑5 wounds remaining, subtract 3 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 War Dog Karnivore\n\nThis model is equipped with: diabolus heavy stubber; reaper chaintalon; slaughterclaw."
+    },
+    {
+      "id": "a02123ec-5ae6-53a5-8897-646683008bdb",
+      "damageBody": "While this model has 1‑5 wounds remaining, subtract 3 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 War Dog Stalker\n\nThis model is equipped with: avenger chaincannon; diabolus heavy stubber; slaughterclaw."
+    },
+    {
+      "id": "b3d4d0e1-f91b-5069-b369-de366999c0af",
+      "damageBody": "While this model has 1-9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Knight Desecrator\n\nThis model is equipped with: desecrator laser destructor; diabolus heavy stubber; reaper chainsword."
+    },
+    {
       "id": "b5c78f0d-256c-5c4f-8173-f689e5218f74",
       "compositionBody": "• 1 Nightfiend\n• 4-9 Mandrakes\n\nEvery model is equipped with: baleblast; glimmersteel blade."
+    },
+    {
+      "id": "605e25cd-9633-5da2-903f-b85813cad370",
+      "compositionBody": "• 1 Ravener Prime\n• 4 Raveners\n\nThe Ravener Prime is equipped with: Prime claws and talons.\n3 Raveners are equipped with: Ravener heavy claws and talons.\n1 Ravener is equipped with: venom bolt; Ravener heavy claws and talons."
     },
     {
       "id": "01d189c9-9465-5f3f-bcb3-a70f44adcb43",
       "compositionBody": "• 4-8 Atalan Jackals\n• 1-2 Atalan Wolfquads*\nThis unit can only contain 2 Atalan Wolfquads if it also contains 8 Atalan Jackals.*\n\nEvery Atalan Jackal is equipped with: Atalan small arms; close combat weapon.\nEvery Atalan Wolfquad is equipped with: Atalan small arms; heavy stubber; close combat weapon."
     },
     {
+      "id": "689a1e29-9ad9-5cf4-a35f-96e4ac91cdd5",
+      "compositionBody": "• 1 Servitor Underseer\n• 2 Gun Servitors\n• 6 Combat Servitors\n\nThe Servitor Underseer is equipped with: Mechanicus pistol; dataspikes.\n1 Gun Servitor is equipped with: heavy arc rifle; servo-claw.\n1 Gun Servitor is equipped with: heavy bolter; servo-claw.\nEvery Combat Servitor is equipped with: phosphor blaster; servo-claw."
+    },
+    {
       "id": "0425f5bb-c6b4-504f-87ad-d83dd3434235",
       "compositionBody": "• 1 Aggressor Sergeant\n• 2-5 Aggressors\n\nEvery model is equipped with: flamestorm gauntlets; power fist."
+    },
+    {
+      "id": "6e970066-f124-5377-a183-1b1d7b50dec5",
+      "compositionBody": "• 1 Skitarii Vanguard Alpha\n• 9 Skitarii Vanguard\n\nEvery model is equipped with: radium carbine; close combat weapon."
+    },
+    {
+      "id": "e62822cc-ca88-506f-a1d6-a04f89f2815d",
+      "compositionBody": "• 1 Sydonian Skatros\n\nThis model is equipped with: Mechanicus pistol; radium jezzail; Sydonian feet."
+    },
+    {
+      "id": "71a1ddb7-2024-5cac-aad5-9294a3164d56",
+      "compositionBody": "• 1 Technoarcheologist\n\nThis model is equipped with: Mechanicus pistol; servo-arc claw."
+    },
+    {
+      "id": "a729e1ad-1ad9-54b1-9707-e07b70308e02",
+      "compositionBody": "• 1 Tech-Priest Dominus\n\nThis model is equipped with: macrostubber; volkite blaster; Omnissian axe."
+    },
+    {
+      "id": "9cf758fd-6fde-52de-bc3d-fd2a83bc137f",
+      "compositionBody": "• 1 Tech-Priest Enginseer\n\nThis model is equipped with: Mechanicus pistol; Omnissian axe; servo-arm."
+    },
+    {
+      "id": "b475dd45-cbe5-50a7-9c17-0deec8f13ee2",
+      "compositionBody": "• 1 Tech-Priest Manipulus\n\nThis model is equipped with: magnarail lance; Omnissian staff."
     },
     {
       "id": "58cad8d2-2151-54dd-9391-14438fc4413b",
@@ -896,12 +964,24 @@
       "compositionBody": "• 10 Pink Horrors\n\nEvery Pink Horror is equipped with: Coruscating Pink Flames; pink claws.\nEvery Blue Horror added to this unit using the Split ability is equipped with: Coruscating Blue Flames; blue claws.\nEvery Brimstone Horror added to this unit using the Split ability is equipped with: Coruscating Yellow Flames; yellow claws."
     },
     {
+      "id": "35d55c33-baf7-5ca9-baaa-c20fe23dfcad",
+      "compositionBody": "• 1 Tyranid Prime\n• 2-5 Tyranid Warriors\n\nEvery model is equipped with: Tyranid Warrior claws and talons."
+    },
+    {
+      "id": "a6da2711-c9d9-5641-ad5a-c1a2b41a5b6d",
+      "compositionBody": "• 1 Tyranid Prime\n• 2-5 Tyranid Warriors\n\nEvery model is equipped with: devourer; Tyranid Warrior claws and talons."
+    },
+    {
       "id": "2b57e115-9041-5974-8f20-8c6db1c896dd",
       "compositionBody": "• 2-4 Sekhetar Robots\n\nEvery model is equipped with: heavy warpflamer; hellfyre missile rack; pyreflux meltagun; close combat weapon"
     },
     {
       "id": "1b77ccd0-646e-5fae-8873-d058dedb8eef",
       "compositionBody": "• 1 Heavy Intercessor Sergeant\n• 4-9 Heavy Intercessors\n\nEvery model is equipped with: bolt pistol; heavy bolt rifle; close combat weapon."
+    },
+    {
+      "id": "7ad3bcba-4dfe-5e34-95bb-1559b7f5c41f",
+      "compositionBody": "• 1 Parasite of Mortrex\n\nThis model is equipped with: barbed ovipositor; clawed limbs."
     },
     {
       "id": "5ac7ece3-0c0a-5888-bfc0-b6b1ee29c3aa",
@@ -1103,10 +1183,6 @@
       "compositionBody": "• 1 Dreadnought\n\nThis model is equipped with: assault cannon; storm bolter; Dreadnought combat weapon."
     },
     {
-      "id": "16c72c04-cc64-519c-bd8f-ac5b09df7b4c",
-      "compositionBody": "• 1 Drop Pod\n\nThis model is equipped with: storm bolter."
-    },
-    {
       "id": "7a5884b0-f9c6-569d-9a4a-4c5927fd805a",
       "compositionBody": "• 1 Eliminator Sergeant\n• 2 Eliminators\n\nEvery model is equipped with: bolt pistol; bolt sniper rifle; close combat weapon."
     },
@@ -1137,6 +1213,10 @@
       "id": "8535018e-742a-5817-a95b-c75ed5073ea1",
       "damageBody": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Hammerfall Bunker\n\nThis model is equipped with: Hammerfall heavy bolter array; Hammerfall missile launcher."
+    },
+    {
+      "id": "16c72c04-cc64-519c-bd8f-ac5b09df7b4c",
+      "compositionBody": "• 1 Drop Pod\n\nThis model is equipped with: storm bolter."
     },
     {
       "id": "e8464c4d-f979-5eaf-8bd6-0f29e3a057d1",
@@ -1174,10 +1254,6 @@
     {
       "id": "51fb12cb-fdf0-5723-a5e5-4e1b1d938a82",
       "compositionBody": "• 1 Iron Father Feirros - EPIC HERO\n\nThis model is equipped with: bolt pistol; Gorgon's Wrath; Harrowhand; Medusan manipuli."
-    },
-    {
-      "id": "a360e3ba-1733-5032-8528-d2851dd80a93",
-      "compositionBody": "• 1 Judiciar\n\nThis model is equipped with: absolvor bolt pistol; executioner relic blade."
     },
     {
       "id": "cc65b178-4c6e-51ff-afcb-49114bcfd2c6",
@@ -1531,6 +1607,10 @@
       "compositionBody": "• 1 Serberys Sulphurhound Alpha\n• 2-5 Serberys Sulphurhounds\n\nThe Serberys Sulphurhound Alpha model is equipped with: Mechanicus pistol; sulphur breath; cavalry arc maul; clawed limbs.\n\nEvery Serberys Sulphurhound model is equipped with: 2 phosphor pistols; sulphur breath; clawed limbs."
     },
     {
+      "id": "f8f3ebc1-57b2-5068-8601-bbc2b4e6975f",
+      "compositionBody": "• 1 Skitarii Marshal\n\nThis model is equipped with: Mechanicus pistol; control stave."
+    },
+    {
       "id": "80913542-cfc0-59df-91e3-ccc13d469f0f",
       "compositionBody": "• 1 Sicarian Infiltrator Princeps\n• 4-9 Sicarian Infiltrators\n\nEvery model is equipped with: stubcarbine; power weapon."
     },
@@ -1539,40 +1619,12 @@
       "compositionBody": "• 1 Sicarian Ruststalker Princeps\n• 4-9 Sicarian Ruststalkers\n\nEvery model is equipped with: transonic razor and chordclaw."
     },
     {
-      "id": "f8f3ebc1-57b2-5068-8601-bbc2b4e6975f",
-      "compositionBody": "• 1 Skitarii Marshal\n\nThis model is equipped with: Mechanicus pistol; control stave."
-    },
-    {
-      "id": "6e970066-f124-5377-a183-1b1d7b50dec5",
-      "compositionBody": "• 1 Skitarii Vanguard Alpha\n• 9 Skitarii Vanguard\n\nEvery model is equipped with: radium carbine; close combat weapon."
-    },
-    {
       "id": "5354d9cb-83de-5d79-abf1-9858b0ae60c9",
       "compositionBody": "• 1 Skorpius Dunerider\n\nThis model is equipped with: cognis heavy stubber array; armoured hull."
     },
     {
       "id": "697b9834-0f87-5199-9b21-f123eb6ca1f6",
       "compositionBody": "• 1-3 Sydonian Dragoons\n\nEvery model is equipped with: phosphor serpenta; radium jezzail; Ironstrider feet."
-    },
-    {
-      "id": "e62822cc-ca88-506f-a1d6-a04f89f2815d",
-      "compositionBody": "• 1 Sydonian Skatros\n\nThis model is equipped with: Mechanicus pistol; radium jezzail; Sydonian feet."
-    },
-    {
-      "id": "71a1ddb7-2024-5cac-aad5-9294a3164d56",
-      "compositionBody": "• 1 Technoarcheologist\n\nThis model is equipped with: Mechanicus pistol; servo-arc claw."
-    },
-    {
-      "id": "a729e1ad-1ad9-54b1-9707-e07b70308e02",
-      "compositionBody": "• 1 Tech-Priest Dominus\n\nThis model is equipped with: macrostubber; volkite blaster; Omnissian axe."
-    },
-    {
-      "id": "9cf758fd-6fde-52de-bc3d-fd2a83bc137f",
-      "compositionBody": "• 1 Tech-Priest Enginseer\n\nThis model is equipped with: Mechanicus pistol; Omnissian axe; servo-arm."
-    },
-    {
-      "id": "b475dd45-cbe5-50a7-9c17-0deec8f13ee2",
-      "compositionBody": "• 1 Tech-Priest Manipulus\n\nThis model is equipped with: magnarail lance; Omnissian staff."
     },
     {
       "id": "729d87dc-4303-5f63-9b34-a2c55ccd0f28",
@@ -2137,74 +2189,34 @@
       "compositionBody": "• 5-10 Death Company Marines with Jump Packs\n\nEvery model is equipped with: heavy bolt pistol; Astartes chainsword."
     },
     {
+      "id": "a6149457-cf23-5e00-b532-26ddafddb782",
+      "damageBody": "While this model has 1‐5 wounds remaining, subtract 3 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 War Dog Moirax\n\nThis model is equipped with: graviton pulsar; volkite veuglaire; armoured feet."
+    },
+    {
       "id": "fb2213de-9166-5c2d-82bb-11817e8b5e84",
       "damageBody": "While this model has 1-10 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Chaos Acastus Knight Porphyrion\n\nThis model is equipped with: 2 Acastus autocannons; Acastus ironstorm missile pod; 2 twin magna lascannons; titanic feet."
     },
     {
+      "id": "dc1b1090-4ae9-5fd2-994d-209f69f9f9ae",
+      "damageBody": "While this model has 1-9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Chaos Questoris Knight Magaera\n\nThis model is equipped with: lightning cannon; phased plasma-fusil; reaper chainsword."
+    },
+    {
       "id": "d766eb52-a287-564c-aa4b-c9f5e4908aee",
-      "damageBody": "While this model has 1-8 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "damageBody": "While this model has 1-10 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Chaos Cerastus Knight Acheron\n\nThis model is equipped with: Acheron flame cannon; twin heavy bolter; reaper chainfist."
     },
     {
       "id": "95257e3e-6b77-5e25-bae4-1572c7af706c",
-      "damageBody": "While this model has 1-8 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "damageBody": "While this model has 1-10 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Chaos Cerastus Knight Castigator\n\nThis model is equipped with: Castigator bolt cannon; tempest warblade."
     },
     {
       "id": "cdb7b2a2-f677-5d82-b8b4-c1749c61b646",
-      "damageBody": "While this model has 1-8 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "damageBody": "While this model has 1-10 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Chaos Cerastus Knight Lancer\n\nThis model is equipped with: Cerastus shock lance."
-    },
-    {
-      "id": "dc1b1090-4ae9-5fd2-994d-209f69f9f9ae",
-      "damageBody": "While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Chaos Questoris Knight Magaera\n\nThis model is equipped with: lightning cannon; phased plasma-fusil; reaper chainsword."
-    },
-    {
-      "id": "a6149457-cf23-5e00-b532-26ddafddb782",
-      "damageBody": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 War Dog Moirax\n\nThis model is equipped with: graviton pulsar; volkite veuglaire; armoured feet."
-    },
-    {
-      "id": "e34a4fa9-3be1-543f-9ee9-7be2ac03f1ac",
-      "damageBody": "While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Knight Abominant\n\nThis model is equipped with: diabolus heavy stubber; volkite combustor; balemace; electroscourge."
-    },
-    {
-      "id": "b3d4d0e1-f91b-5069-b369-de366999c0af",
-      "damageBody": "While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Knight Desecrator\n\nThis model is equipped with: desecrator laser destructor; diabolus heavy stubber; reaper chainsword."
-    },
-    {
-      "id": "114103c1-cc08-58db-81c9-17382121204b",
-      "damageBody": "While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Knight Despoiler\n\nThis model is equipped with: daemonbreath meltagun; reaper chainsword; titanic feet; warpstrike claw."
-    },
-    {
-      "id": "1a416d1e-c42a-5d89-bd08-1ffd8c7cf811",
-      "damageBody": "While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Knight Rampager\n\nThis model is equipped with: diabolus heavy stubber; reaper chainsword; warpstrike claw."
-    },
-    {
-      "id": "704b9bd1-62af-5180-98fb-493dc171042c",
-      "damageBody": "While this model has 1-8 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Knight Tyrant\n\nThis model is equipped with: brimstone volcano lance; ectoplasma decimator; 2 gheiststrike missile launchers; 2 twin daemonbreath meltaguns; twin desecrator cannon; titanic feet."
-    },
-    {
-      "id": "e1c3832d-1bc2-56d3-9edf-6cf71c7266dc",
-      "damageBody": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 War Dog Brigand\n\nThis model is equipped with: avenger chaincannon; daemonbreath spear; diabolus heavy stubber; armoured feet."
-    },
-    {
-      "id": "edf58b6b-14c2-5e9b-adea-fb0fd909ea0e",
-      "damageBody": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 War Dog Karnivore\n\nThis model is equipped with: diabolus heavy stubber; reaper chaintalon; slaughterclaw."
-    },
-    {
-      "id": "a02123ec-5ae6-53a5-8897-646683008bdb",
-      "damageBody": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 War Dog Stalker\n\nThis model is equipped with: avenger chaincannon; diabolus heavy stubber; slaughterclaw."
     },
     {
       "id": "d3a28cfd-b674-581b-af56-40e14731f0ed",
@@ -2217,6 +2229,11 @@
     {
       "id": "fca6c96d-f286-5355-84d6-bfff081667ce",
       "compositionBody": "• 1 Belial - EPIC HERO\n\nThis model is equipped with: master-crafted storm bolter; the Sword of Silence."
+    },
+    {
+      "id": "e34a4fa9-3be1-543f-9ee9-7be2ac03f1ac",
+      "damageBody": "While this model has 1-9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Knight Abominant\n\nThis model is equipped with: diabolus heavy stubber; volkite combustor; balemace; electroscourge."
     },
     {
       "id": "79b4aba3-1e2d-5c37-abc9-17002c375069",
@@ -2256,10 +2273,6 @@
       "compositionBody": "• 1-2 Beasts of Nurgle\n\nEvery model is equipped with: putrid appendages."
     },
     {
-      "id": "891d736c-1489-5be1-8170-552a0b488796",
-      "compositionBody": "• 1 Biologus Putrifier\n\nThis model is equipped with: hyper blight grenades; injector pistol; plague knives."
-    },
-    {
       "id": "af9824fd-650f-5c46-9f1a-0ccd924817d5",
       "damageBody": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Chaos Land Raider\n\nThis model is equipped with: 2 soulshatter lascannons; twin heavy bolter; armoured tracks."
@@ -2272,6 +2285,10 @@
     {
       "id": "263cc84a-0055-5cc4-b5ca-ff1f059ef2bc",
       "compositionBody": "• 1 Chaos Rhino\n\nThis model is equipped with: combi-bolter; armoured tracks."
+    },
+    {
+      "id": "891d736c-1489-5be1-8170-552a0b488796",
+      "compositionBody": "• 1 Biologus Putrifier\n\nThis model is equipped with: hyper blight grenades; injector pistol; plague knives."
     },
     {
       "id": "d973df5f-eb1a-5805-b6cc-fea365a30e2c",
@@ -2288,10 +2305,6 @@
     {
       "id": "acb51bf9-8543-51e5-9444-28e7be5137f7",
       "compositionBody": "• 1 Deathshroud Champion\n• 2-5 Deathshroud Terminators\n\nEvery model is equipped with: plaguespurt gauntlet; manreaper."
-    },
-    {
-      "id": "7e8db225-3178-526d-b5a5-5f9478ca7578",
-      "compositionBody": "• 1 Foul Blightspawn\n\nThis model is equipped with: plague sprayer; close combat weapon."
     },
     {
       "id": "85b53889-4769-5c1b-a563-cbfab0b121d1",
@@ -2374,10 +2387,6 @@
       "compositionBody": "• 1 Catacomb Command Barge\n\nThis model is equipped with: gauss cannon; staff of light."
     },
     {
-      "id": "35d597d8-b344-59a9-b0aa-a037a60f5547",
-      "compositionBody": "• 1 Skitarii Ranger Alpha\n• 9 Skitarii Rangers\n\nEvery model is equipped with: galvanic rifle; close combat weapon."
-    },
-    {
       "id": "6a99d618-b2e3-531b-911f-9a91a2d16db6",
       "compositionBody": "• 3-6 Tomb Blades\n\nEvery model is equipped with: twin gauss blaster; close combat weapon."
     },
@@ -2385,6 +2394,10 @@
       "id": "25c581a6-3c5b-53b3-8f3f-1e532e42d54e",
       "damageBody": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Chaos Predator Destructor\n\nThis model is equipped with: Predator autocannon; armoured tracks."
+    },
+    {
+      "id": "35d597d8-b344-59a9-b0aa-a037a60f5547",
+      "compositionBody": "• 1 Skitarii Ranger Alpha\n• 9 Skitarii Rangers\n\nEvery model is equipped with: galvanic rifle; close combat weapon."
     },
     {
       "id": "7799332e-d318-565c-ae26-5b864c7af2c4",
@@ -2463,7 +2476,7 @@
     },
     {
       "id": "4a43acb5-b0d4-5165-b200-33c92d201dfb",
-      "damageBody": "While this model has 1-8 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "damageBody": "While this model has 1-10 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Chaos Cerastus Knight Atrapos\n\nThis model is equipped with: Atrapos lascutter; graviton singularity cannon."
     },
     {
@@ -2548,10 +2561,6 @@
       "compositionBody": "• 1 Warboss\n\nThis model is equipped with: kombi‑weapon; twin sluggas; big choppa."
     },
     {
-      "id": "3ad566bb-cd48-589a-938b-6bde1764d077",
-      "compositionBody": "• 1 Sporocyst\n\nThis model is equipped with: Sporocyst bio-weapons; flensing whips."
-    },
-    {
       "id": "ff9c421a-d9b2-5b4a-8e26-65b92bc329c3",
       "compositionBody": "• 1 Sagitaur\n\nThis model is equipped with: HYLas beam cannon; twin bolt cannon; armoured wheels."
     },
@@ -2564,16 +2573,16 @@
       "compositionBody": "• 1 Boss Nob\n• 9-19 Boyz\n\nThe Boss Nob is equipped with: slugga; big choppa.\nEvery Boy is equipped with: slugga; choppa."
     },
     {
+      "id": "3ad566bb-cd48-589a-938b-6bde1764d077",
+      "compositionBody": "• 1 Sporocyst\n\nThis model is equipped with: Sporocyst bio-weapons; flensing whips."
+    },
+    {
       "id": "7fe08fc6-cece-511f-b963-e9d6a1e51077",
       "compositionBody": "• 1 Hexmark Destroyer\n\nThis model is equipped with: enmitic disintegrator pistols; close combat weapon."
     },
     {
       "id": "16cfa2db-b48e-55de-aab1-23669cc20676",
       "compositionBody": "• 1 Helbrute\n\nThis model is equipped with: missile launcher; multi-melta; close combat weapon."
-    },
-    {
-      "id": "7f8c2afb-c770-5558-850c-a618ab354b58",
-      "compositionBody": "• 1-3 Ripper Swarms\n\nEvery model is equipped with: chitinous claws and teeth."
     },
     {
       "id": "a697dc23-709a-535f-83ec-f39d1aa1e451",
@@ -2590,6 +2599,10 @@
     {
       "id": "08f58650-eff2-5403-a906-63ce1a978cee",
       "compositionBody": "• 1 Chaos Lord\n\nThis model is equipped with: plasma pistol; daemon hammer."
+    },
+    {
+      "id": "7f8c2afb-c770-5558-850c-a618ab354b58",
+      "compositionBody": "• 1-3 Ripper Swarms\n\nEvery model is equipped with: chitinous claws and teeth."
     },
     {
       "id": "6ff1d187-fa34-547f-9cb9-50fdfcfee372",
@@ -2663,21 +2676,21 @@
       "compositionBody": "• 1 Wolf Guard Pack Leader\n• 4-9 Wolf Guard\n\nEvery model is equipped with: bolt pistol; heirloom weapon."
     },
     {
-      "id": "3ef42392-d359-5a78-8758-d0baab2fc6f5",
-      "damageBody": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 War Dog Executioner\n\nThis model is equipped with: diabolus heavy stubber; 2 War Dog autocannons; armoured feet."
-    },
-    {
       "id": "301725dc-f571-5dbc-99c4-1c9fc44bb439",
       "compositionBody": "• 1 Big Mek in Mega Armour\n\nThis model is equipped with: kustom‑mega blasta; power klaw."
     },
     {
-      "id": "756eea04-6d2d-519e-a013-3c44fbd05302",
-      "compositionBody": "• 1 Toxicrene\n\nThis model is equipped with: massive toxic lashes."
+      "id": "3ef42392-d359-5a78-8758-d0baab2fc6f5",
+      "damageBody": "While this model has 1‑5 wounds remaining, subtract 3 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 War Dog Executioner\n\nThis model is equipped with: diabolus heavy stubber; 2 War Dog autocannons; armoured feet."
     },
     {
       "id": "f193d692-1063-5ff2-980a-3b2985807318",
       "compositionBody": "• 1 Grand Master\n\nThis model is equipped with: storm bolter; Nemesis force weapon."
+    },
+    {
+      "id": "756eea04-6d2d-519e-a013-3c44fbd05302",
+      "compositionBody": "• 1 Toxicrene\n\nThis model is equipped with: massive toxic lashes."
     },
     {
       "id": "aa7b7487-4392-53d3-b745-d00468f24976",
@@ -2759,7 +2772,7 @@
     },
     {
       "id": "841255a0-3ad5-59f7-91c1-2098f3912663",
-      "compositionBody": "• 3-6 Raveners\n\nEvery model is equipped with: thoracic bio-weapon; Ravener claws and talons."
+      "compositionBody": "• 5 Raveners\n\nEvery model is equipped with: Ravener claws and talons."
     },
     {
       "id": "0eb8b444-185f-5137-8fef-005c73ff7c74",
@@ -2791,7 +2804,7 @@
     },
     {
       "id": "462a49a7-7fbc-5906-add6-76e08b5ab5b1",
-      "damageBody": "While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "damageBody": "While this model has 1-9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Knight Preceptor\n\nThis model is equipped with: las-impulsor; Preceptor multi-laser; reaper chainsword."
     },
     {
@@ -2950,19 +2963,19 @@
       "compositionBody": "• 1 Daemon Prince of Slaanesh with Wings\n\nThis model is equipped with: infernal cannon; hellforged weapons."
     },
     {
+      "id": "65ecffd2-19cf-5626-84cd-a31f9895108e",
+      "damageBody": "While this model has 1‐5 wounds remaining, subtract 3 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Armiger Moirax\n\nThis model is equipped with: graviton pulsar; volkite veuglaire; armoured feet."
+    },
+    {
       "id": "25c4446b-305a-5711-807a-544dbb4c0618",
       "damageBody": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Leman Russ Vanquisher\n\nThis model is equipped with: lascannon; vanquisher battle cannon; armoured tracks."
     },
     {
       "id": "d8221794-b71b-5f5b-a881-3d1d45e6d582",
-      "damageBody": "While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "damageBody": "While this model has 1-9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Chaos Questoris Knight Styrix\n\nThis model is equipped with: graviton crusher; volkite chierovile; reaper chainsword."
-    },
-    {
-      "id": "65ecffd2-19cf-5626-84cd-a31f9895108e",
-      "damageBody": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Armiger Moirax\n\nThis model is equipped with: graviton pulsar; volkite veuglaire; armoured feet."
     },
     {
       "id": "78a32e4f-5393-501b-a1a3-833578bc3e00",
@@ -2987,11 +3000,6 @@
       "compositionBody": "• 1 Death Company Dreadnought\n\nThis model is equipped with: twin Icarus ironhail heavy stubber; twin heavy bolter; blood fist bolt rifles; blood fists."
     },
     {
-      "id": "2020dfd9-3471-5e93-8102-cc0c215a04f7",
-      "damageBody": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Tyrannofex\n\nThis model is equipped with: fleshborer hive; stinger salvoes; powerful limbs."
-    },
-    {
       "id": "fbf5b49a-ca0c-59ad-b7bd-369a2eacf65b",
       "compositionBody": "• 1 Archon\n\nThis model is equipped with: splinter pistol; huskblade, shadow field."
     },
@@ -3008,14 +3016,19 @@
       "compositionBody": "• 1 Chaos Lord with Jump Pack\n\nThis model is equipped with: bolt pistol; accursed weapon."
     },
     {
+      "id": "7d03c88a-b438-5686-b34e-fd0da0291417",
+      "damageBody": "While this model has 1‑5 wounds remaining, subtract 3 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 War Dog Huntsman\n\nThis model is equipped with: daemonbreath spear; diabolus heavy stubber; reaper chaintalon."
+    },
+    {
       "id": "a01ebfe8-8f4a-5bbd-9ff1-2cb1b8044aae",
       "damageBody": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Gladiator Reaper\n\nThis model is equipped with: 2 tempest bolters; twin heavy onslaught gatling cannon; armoured hull."
     },
     {
-      "id": "7d03c88a-b438-5686-b34e-fd0da0291417",
-      "damageBody": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 War Dog Huntsman\n\nThis model is equipped with: daemonbreath spear; diabolus heavy stubber; reaper chaintalon."
+      "id": "2020dfd9-3471-5e93-8102-cc0c215a04f7",
+      "damageBody": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Tyrannofex\n\nThis model is equipped with: fleshborer hive; stinger salvoes; powerful limbs."
     },
     {
       "id": "ef73aead-3f2a-561d-972b-1214220ac000",
@@ -3090,13 +3103,13 @@
       "compositionBody": "• 1 Leman Russ Battle Tank\n\nThis model is equipped with: lascannon; Leman Russ battle cannon; armoured tracks."
     },
     {
-      "id": "3f858610-a7f0-52b4-8a11-bbed8e3ba82c",
-      "compositionBody": "• 1 Psychophage\n\nThis model is equipped with: psychoclastic torrent; talons and betentacled maw."
-    },
-    {
       "id": "9b02d93a-c425-5d1a-8169-2269e047b977",
       "damageBody": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Hydra\n\nThis model is equipped with: heavy bolter; Hydra autocannon; armoured tracks."
+    },
+    {
+      "id": "3f858610-a7f0-52b4-8a11-bbed8e3ba82c",
+      "compositionBody": "• 1 Psychophage\n\nThis model is equipped with: psychoclastic torrent; talons and betentacled maw."
     },
     {
       "id": "454fb8ac-82eb-538e-a72d-53fbba24c68d",
@@ -3181,7 +3194,7 @@
     },
     {
       "id": "46ec707d-dcfb-5ace-a5af-7facc6fbb60e",
-      "damageBody": "While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "damageBody": "While this model has 1-9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Knight Gallant\n\nThis model is equipped with: meltagun; thunderstrike gauntlet; reaper chainsword."
     },
     {
@@ -3287,13 +3300,13 @@
       "compositionBody": "• 1 Thunderwolf Cavalry Pack Leader\n• 2-5 Thunderwolf Cavalry\n\nEvery model is equipped with: bolt pistol; crushing teeth and claws; heirloom weapon."
     },
     {
-      "id": "33ab3737-5453-5f3c-93c9-bbd30a04c19a",
-      "compositionBody": "• 1 Abaddon the Despoiler - EPIC HERO\n\nThis model is equipped with: Talon of Horus; Drach'nyen."
-    },
-    {
       "id": "bae437b5-df8e-568a-9870-109f10e15ac2",
       "damageBody": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Norn Emissary\n\nThis model is equipped with: Psychic Tendril; monstrous scything talons; monstrous rending claws."
+    },
+    {
+      "id": "33ab3737-5453-5f3c-93c9-bbd30a04c19a",
+      "compositionBody": "• 1 Abaddon the Despoiler - EPIC HERO\n\nThis model is equipped with: Talon of Horus; Drach'nyen."
     },
     {
       "id": "ac381ae2-8929-502d-9b05-cf63c5d7e570",
@@ -3371,7 +3384,7 @@
     },
     {
       "id": "ecbaf9a9-5241-54d3-996e-71676da64669",
-      "damageBody": "While this model has 1-4 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
+      "damageBody": "While this model has 1‐5 wounds remaining, subtract 3 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Armiger Warglaive\n\nThis model is equipped with: Questoris heavy stubber; thermal spear; reaper chain-cleaver."
     },
     {
@@ -3408,12 +3421,12 @@
       "compositionBody": "• 1 Skarbrand - EPIC HERO\n\nThis model is equipped with: bellow of endless fury; Slaughter and Carnage."
     },
     {
-      "id": "00cc230d-1425-5bc3-8687-770b01ec7d92",
-      "compositionBody": "• 1 Royal Warden\n\nThis model is equipped with: relic gauss blaster; close combat weapon."
-    },
-    {
       "id": "3ed5eb0c-8e13-56a0-9fb1-4cab8c8f2c3b",
       "compositionBody": "• 3-6 Von Ryan's Leapers\n\nEvery model is equipped with: Leaper's talons."
+    },
+    {
+      "id": "00cc230d-1425-5bc3-8687-770b01ec7d92",
+      "compositionBody": "• 1 Royal Warden\n\nThis model is equipped with: relic gauss blaster; close combat weapon."
     },
     {
       "id": "0f97a7fb-fc3b-50f9-ba45-ece3f09e6689",
@@ -3609,16 +3622,16 @@
       "compositionBody": "• 1 Maleceptor\n\nThis model is equipped with: psychic overload; massive scything talons."
     },
     {
-      "id": "86bb817a-159c-55c5-9a95-657274a1df18",
-      "compositionBody": "• 1-3 Pyrovores\n\nEvery model is equipped with: flamespurt; chitin-barbed limbs."
-    },
-    {
       "id": "057fa9eb-301e-5b6d-b1d1-58e843163d34",
       "compositionBody": "• 1-3 Convergence of Dominion Starsteles\n\nEvery model is equipped with: transdimensional abductor."
     },
     {
       "id": "a4975027-8edb-5154-beb0-b9c4222666ec",
       "compositionBody": "• 1 Lokhust Lord\n\nThis model is equipped with: staff of light."
+    },
+    {
+      "id": "86bb817a-159c-55c5-9a95-657274a1df18",
+      "compositionBody": "• 1-3 Pyrovores\n\nEvery model is equipped with: flamespurt; chitin-barbed limbs."
     },
     {
       "id": "a268b1b5-8078-5851-a86f-201982eb6b1d",
@@ -3672,13 +3685,13 @@
       "compositionBody": "• 3-6 Skorpekh Destroyers\n\nEvery model is equipped with: Skorpekh hyperphase weapons."
     },
     {
+      "id": "a505d55b-79dc-5483-ac22-5d865b042cc0",
+      "compositionBody": "• 1 Brotherhood Champion\n\nThis model is equipped with: storm bolter; Nemesis force weapon."
+    },
+    {
       "id": "a66925c7-5054-5f79-8792-ec2fa562724e",
       "damageBody": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Mawloc\n\nThis model is equipped with: distensible jaw; Mawloc scything talons."
-    },
-    {
-      "id": "a505d55b-79dc-5483-ac22-5d865b042cc0",
-      "compositionBody": "• 1 Brotherhood Champion\n\nThis model is equipped with: storm bolter; Nemesis force weapon."
     },
     {
       "id": "1a8d1fdb-5f03-5f2f-bdca-9e2a990aa51e",
@@ -3793,16 +3806,16 @@
       "compositionBody": "• 1 Karanak - EPIC HERO\n\nThis model is equipped with: scalding roar; soul-rending fangs; Brass Collar of Bloody Vengeance."
     },
     {
-      "id": "9b10024f-d442-516b-a980-79fe88a39692",
-      "compositionBody": "• 10-20 Termagants\n\nEvery model is equipped with: fleshborer; chitinous claws and teeth."
-    },
-    {
       "id": "0ba0b1a7-16b2-5be9-a6b3-96b1348e26f7",
       "compositionBody": "• 1 Razorwing Jetfighter\n\nThis model is equipped with: 2 dark lances; Razorwing missiles; twin splinter rifle; bladed wings."
     },
     {
       "id": "90b960fc-9486-53fd-a3dd-1a97d04ba158",
       "compositionBody": "• 1 Poxbringer\n\nThis model is equipped with: foul balesword."
+    },
+    {
+      "id": "9b10024f-d442-516b-a980-79fe88a39692",
+      "compositionBody": "• 10-20 Termagants\n\nEvery model is equipped with: fleshborer; chitinous claws and teeth."
     },
     {
       "id": "8115e734-1fb5-513f-9abc-e680abfddf2a",
@@ -3823,10 +3836,6 @@
       "compositionBody": "• 1 Fire Warrior Shas'ui\n• 9 Fire Warriors\n\nEvery model is equipped with: pulse pistol; pulse rifle; close combat weapon."
     },
     {
-      "id": "d880491e-430c-58f8-8afa-4ad07d861bbc",
-      "compositionBody": "• 1 Old One Eye - EPIC HERO\n\nThis model is equipped with: Old One Eye's claws and talons."
-    },
-    {
       "id": "828d08d9-678b-53ee-875a-d6c4fa325175",
       "compositionBody": "• 1 Logan Grimnar on Stormrider - EPIC HERO\n\nThis model is equipped with: storm bolter; the Axe of Morkai; flurry of teeth and claws."
     },
@@ -3836,8 +3845,12 @@
     },
     {
       "id": "32f82181-c517-5179-8222-180cdd50edaf",
-      "damageBody": "While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "damageBody": "While this model has 1-9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Knight Errant\n\nThis model is equipped with: meltagun; thermal cannon; reaper chainsword."
+    },
+    {
+      "id": "d880491e-430c-58f8-8afa-4ad07d861bbc",
+      "compositionBody": "• 1 Old One Eye - EPIC HERO\n\nThis model is equipped with: Old One Eye's claws and talons."
     },
     {
       "id": "2422dd50-d28f-57cd-a35c-a165e4f4c490",
@@ -3852,13 +3865,13 @@
       "compositionBody": "• 1 Pyrocaster\n• 2-5 Flamers\n\nEvery model is equipped with: flickering flames; Flamer mouths."
     },
     {
-      "id": "88c18b48-7199-583b-9522-027699cd9a83",
-      "compositionBody": "• 1 D‐cannon Platform\n\nThis model is equipped with: D‐cannon; shuriken catapult; close combat weapon."
+      "id": "95f4e6ef-5cd4-563a-a89b-7a8181175108",
+      "damageBody": "While this model has 1-10 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Knight Valiant\n\nThis model is equipped with: conflagration cannon; 2 shieldbreaker missile launchers; thundercoil harpoon; 2 twin meltaguns; twin siegebreaker cannon, titanic feet."
     },
     {
-      "id": "95f4e6ef-5cd4-563a-a89b-7a8181175108",
-      "damageBody": "While this model has 1-8 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Knight Valiant\n\nThis model is equipped with: conflagration cannon; 2 shieldbreaker missile launchers; thundercoil harpoon; 2 twin meltaguns; twin siegebreaker cannon, titanic feet."
+      "id": "88c18b48-7199-583b-9522-027699cd9a83",
+      "compositionBody": "• 1 D‐cannon Platform\n\nThis model is equipped with: D‐cannon; shuriken catapult; close combat weapon."
     },
     {
       "id": "f3d21ee2-0a3d-5364-a51f-b2c53124754d",
@@ -3881,12 +3894,12 @@
       "compositionBody": "• 1 Daemon Prince of Tzeentch with Wings\n\nThis model is equipped with: Dark Blessing; infernal cannon; hellforged weapons."
     },
     {
-      "id": "435ef677-9944-5488-818b-99b6853711d3",
-      "compositionBody": "• 1 Tyrannocyte\n\nThis model is equipped with: Tyrannocyte bio-weapons; flensing whips."
-    },
-    {
       "id": "280cf577-561f-5783-abb0-26c9dd3376f3",
       "compositionBody": "• 1 Terminator Justicar\n• 4-9 Brotherhood Terminators\n\nEvery model is equipped with: storm bolter; Nemesis force weapon."
+    },
+    {
+      "id": "435ef677-9944-5488-818b-99b6853711d3",
+      "compositionBody": "• 1 Tyrannocyte\n\nThis model is equipped with: Tyrannocyte bio-weapons; flensing whips."
     },
     {
       "id": "d5f0e255-02fd-5280-baa4-0fa8ac370095",
@@ -3911,7 +3924,7 @@
     },
     {
       "id": "1ed146af-5bc2-59c1-8f9b-bc6e988f1203",
-      "damageBody": "While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "damageBody": "While this model has 1-9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Questoris Knight Styrix\n\nThis model is equipped with: graviton crusher; volkite chierovile; reaper chainsword."
     },
     {
@@ -4090,7 +4103,7 @@
     },
     {
       "id": "8700ac3a-bf7a-59a3-8436-43ec88447fa2",
-      "damageBody": "While this model has 1-8 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "damageBody": "While this model has 1-10 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Knight Castellan\n\nThis model is equipped with: plasma decimator; 2 shieldbreaker missile launchers; 2 twin meltaguns; twin siegebreaker cannon, volcano lance; titanic feet."
     },
     {
@@ -4144,6 +4157,11 @@
       "compositionBody": "• 1 Doomsday Ark\n\nThis model is equipped with: doomsday cannon; 2 gauss flayer arrays; armoured bulk."
     },
     {
+      "id": "ff7d20d0-414e-5d39-a66d-f3dfe763b2f7",
+      "damageBody": "While this model has 1-10 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Cerastus Knight Atrapos\n\nThis model is equipped with: Atrapos lascutter; graviton singularity cannon."
+    },
+    {
       "id": "2266a254-4d41-5ca3-bec2-41ed9bad9c71",
       "compositionBody": "• 1 Deathwatch Terminator Sergeant\n• 4‑9 Deathwatch Terminators\n\nEvery model is equipped with: power fist; storm bolter."
     },
@@ -4151,11 +4169,6 @@
       "id": "abf56aa5-9444-5a59-be30-4dd41985fb04",
       "damageBody": "While this model has 1-10 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Acastus Knight Asterius\n\nThis model is equipped with: 2 Asterius volkite culverins; karacnos mortar battery; 2 twin conversion beam cannons; titanic feet."
-    },
-    {
-      "id": "ff7d20d0-414e-5d39-a66d-f3dfe763b2f7",
-      "damageBody": "While this model has 1-8 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Cerastus Knight Atrapos\n\nThis model is equipped with: Atrapos lascutter; graviton singularity cannon."
     },
     {
       "id": "f756d320-5662-55f0-b194-887e2b4f448e",
@@ -4298,23 +4311,28 @@
       "compositionBody": "• 2 Chaos Spawn\n\nEvery model is equipped with: hideous mutations."
     },
     {
-      "id": "5fbcccce-ae30-5aeb-8542-b953ad69533b",
-      "damageBody": "While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Knight Paladin\n\nThis model is equipped with: meltagun; Questoris heavy stubber; rapid-fire battle cannon; reaper chainsword."
-    },
-    {
-      "id": "62e92473-c865-5e82-adf3-bceb0809844a",
-      "damageBody": "While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Knight Warden\n\nThis model is equipped with: avenger gatling cannon; heavy flamer; meltagun; reaper chainsword."
-    },
-    {
       "id": "7bc3d5eb-fe78-55eb-9209-e92fc7440b4c",
       "damageBody": "While this model has 1-5 wounds remaining, subtract 3 from this models Objective Control characteristic, and each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Stormsurge\n\nThis model is equipped with: cluster rocket system; destroyer missiles; pulse driver cannon; 2 twin smart missile system; twin T'au flamer; thunderous footfalls."
     },
     {
+      "id": "5fbcccce-ae30-5aeb-8542-b953ad69533b",
+      "damageBody": "While this model has 1-9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Knight Paladin\n\nThis model is equipped with: meltagun; Questoris heavy stubber; rapid-fire battle cannon; reaper chainsword."
+    },
+    {
+      "id": "62e92473-c865-5e82-adf3-bceb0809844a",
+      "damageBody": "While this model has 1-9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Knight Warden\n\nThis model is equipped with: avenger gatling cannon; heavy flamer; meltagun; reaper chainsword."
+    },
+    {
       "id": "d1ba246b-ebe5-512c-81f6-3cdd12aa9c7f",
       "compositionBody": "• 1 Defkilla Wartrike\n\nThis model is equipped with: boomstikks; killa jet; snagga klaw."
+    },
+    {
+      "id": "6c861e7f-46fb-5667-9951-ee21db7ebeb1",
+      "damageBody": "While this model has 1-9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
+      "compositionBody": "• 1 Questoris Knight Magaera\n\nThis model is equipped with: lightning cannon; phased plasma-fusil; reaper chainsword."
     },
     {
       "id": "d63e18bd-01ec-5e3b-bd7e-d49bde8d46ce",
@@ -4324,11 +4342,6 @@
     {
       "id": "74e58f49-934e-5b10-93c2-353b7ee492e4",
       "compositionBody": "• 1 Kaldor Draigo - EPIC HERO\n\nThis model is equipped with: Scourging; storm bolter; the Titansword."
-    },
-    {
-      "id": "6c861e7f-46fb-5667-9951-ee21db7ebeb1",
-      "damageBody": "While this model has 1-7 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
-      "compositionBody": "• 1 Questoris Knight Magaera\n\nThis model is equipped with: lightning cannon; phased plasma-fusil; reaper chainsword."
     },
     {
       "id": "d5feaa7f-317c-5797-905b-12b3c046c364",
@@ -4508,10 +4521,6 @@
     {
       "id": "00df1d89-4410-5aa9-9347-9e2da079b80b",
       "body": "You can include ASTRA MILITARUM units in your army, even though they do not have the GENESTEALER CULTS Faction keyword. The combined points cost of such units you can include in your army is:\n-\nA GENESTEALER CULTS model must be your WARLORD, and ASTRA MILITARUM models from your army lose the Voice of Command ability if they have it. You cannot include units with any of the following keywords in your army using this rule: AIRCRAFT; COMMISSAR; EPIC HERO; MILITARUM TEMPESTUS; OGRYN; RATLING; TECH-PRIEST ENGINSEER; MINISTORUM PRIEST."
-    },
-    {
-      "id": "f255c86b-07b7-5caa-b319-e3bc9e1fc89d",
-      "body": "In the Battle-shock step of your opponent's Command phase, if an enemy unit that is below its Starting Strength is within 12\" of a CHAOS KNIGHTS model from your army, that enemy unit must take a Battle- shock test. For the purposes of this ability, if a unit has a Starting Strength of 1, it is considered to be below its Starting Strength while it has lost one or more wounds.\nDesigner's Note: This means that all enemy units within range of this Aura ability that have lost one or more models must take a Battle-shock test in your opponent's Command phase, not just those that are Below Half-strength."
     },
     {
       "id": "c203b518-7c60-50fb-bfb6-64ad34d2514a",
@@ -4696,6 +4705,10 @@
     {
       "id": "85fd7cd9-3568-5572-bd1c-8965862d30cb",
       "body": "At the start of the first battle round, select one of the four Templar Vows below to be active for ADEPTUS ASTARTES units from your army until the end of the battle.\n\n• Suffer Not the Unclean to Live: Melee weapons equipped by models in this unit have the LETHAL HITS ability.\n\n• Uphold the Honour of the Emperor: Models in this unit have the Feel No Pain 6+ ability and a Leadership characteristic of 5+.\n\n• Abhor the Witch, Destroy the Witch: Models in this unit have a 4+ invulnerable save against Psychic Attacks and melee weapons equipped by models in this unit have the ANTI-PSYKER 4+ ability.\n\n• Accept Any Challenge, No Matter the Odds: Melee weapons equipped by models in this unit have the SUSTAINED HITS 1 ability."
+    },
+    {
+      "id": "f255c86b-07b7-5caa-b319-e3bc9e1fc89d",
+      "body": "At the start of the first battle round, after selecting one or more Dread abilities to be active for your army, you can select one additional Dread ability to be active for your army (this additional Dread ability cannot be randomly selected)."
     },
     {
       "id": "c67ec910-1114-5f99-ba18-c386d3de5053",
@@ -5038,6 +5051,18 @@
       "body": "Each time a unit from your army makes a Dark Pact, select one of the following abilities. Your unit has that ability until the end of the phase.\n\nLeaping Warpflame\nWhile this unit is within 9\" of one or more friendly HERETIC ASTARTES PSYKER models, improve the Strength characteristic of ranged weapons equipped by models in this unit by 1.\n\nMonstrous Manifestation\nWhile this unit is within 9\" of one or more friendly HERETIC ASTARTES DAEMON PRINCE or a HERETIC ASTARTES DAEMON PRINCE WITH WINGS models, improve the Armour Penetration characteristic of melee weapons equipped by models in this unit by 1."
     },
     {
+      "id": "d5133561-5384-52b3-854b-b489e977a5b0",
+      "body": "In your Command phase, one or more CHAOS KNIGHTS units from your army can make a Malefic Surge. Each one that does must first take a Leadership test; if that test is failed, that unit suffers D3 mortal wounds. Then, until the start of your next Command phase, that unit is Empowered. While a unit is Empowered it can use one of the Malefic Surge abilities below. Once that unit has used a Malefic Surge ability, it is no longer Empowered.\n\n• Unholy Hunger: When a model in this unit makes a Normal, Advance or Fall Back move, until the end of the phase, add 3\" to its Move characteristic.\n• Diabolic Power: When this unit is selected to shoot or fight, select either the LETHAL HITS or SUSTAINED HITS 1 ability. Until the end of the phase, weapons equipped by models in this unit have the selected ability.\n• Unnatural Fortitude: When this unit is selected as the target of an attack, until the end of the phase, models in this unit have a 5+ invulnerable save and the Feel No Pain 6+ ability.\n\nDesigner's Note: *We recommend placing a token next to Chaos Knights models that are Empowered, removing it once they have used a Malefic Surge ability, and removing all unused tokens at the start of your Command phase*"
+    },
+    {
+      "id": "fdb99bd0-2033-51aa-a013-800fc00e9a45",
+      "body": "Improve the Objective Control characteristic of CHAOS KNIGHTS CHARACTER models from your army by 2. In addition, once per battle round, if your WARLORD is on the battlefield, you can use the Claimed for the Dark Gods Stratagem for 0CP."
+    },
+    {
+      "id": "c30e8ea3-ab17-565b-92b6-41e9597fa296",
+      "body": "At the start of your Command phase, select one unit from your opponent's army. Until the start of your next Command phase, each time a WAR DOG model from your army makes an attack that targets that enemy unit, if that unit is visible to the attacking model, that attack has the SUSTAINED HITS 1 ability."
+    },
+    {
       "id": "62d6da16-5edc-5596-bfbf-ed1e51c28f02",
       "body": "If you select this Detachment, KROOT CARNIVORE units from your army have the BATTLELINE keyword."
     },
@@ -5208,6 +5233,10 @@
     {
       "id": "95d96801-03d7-5e4a-a651-8bcbf45fea26",
       "body": "MAWLOC and TRYGON units from your army have the BURROWER keyword.\n\nIn the Muster Armies step, you can select up to 2 TRYGON models from your army. The selected units gain the CHARACTER keyword.\n\nDesigner's Note: *This means that the selected models can be given Enhancements and one of them can be selected as your* WARLORD."
+    },
+    {
+      "id": "8645ddd9-673f-5e10-9d3b-6e5a6bd44545",
+      "body": "While using the Houndpack Lance Detachment, the following rules apply:\n\n• Your army must include three or more WAR DOG units.\n• WAR DOG units from your army have the BATTLELINE keyword.\n• When mustering your army, select three WAR DOG units from your army. Until the end of the battle, those units have the CHARACTER keyword.*\n\n*Designer's Note: *This means that the selected units can be given Enhancements and one of them can be selected as your* WARLORD."
     }
   ],
   "enhancements": [
@@ -5254,6 +5283,10 @@
     {
       "id": "0d4b2d6a-3df8-5053-9cd8-0d405d7a4b9c",
       "body": "ASURYANI PSYKER model only. Add 1 to the Damage characteristic of ranged Psychic weapons equipped by the bearer."
+    },
+    {
+      "id": "c489a24d-9836-588a-9a49-dd7e482ec92b",
+      "body": "WAR DOG model only. The bearer has the Super-heavy Walker ability."
     },
     {
       "id": "95888dc2-8aa4-51d1-b121-a7e71ae5f95f",
@@ -5412,10 +5445,6 @@
       "body": "EXALTED SORCERER model only. Once per battle, when selecting a Ritual for the bearer to attempt, you can select Doombolt, even if a model from your army has already manifested that Ritual this phase."
     },
     {
-      "id": "343afada-0595-5f63-b3ed-de1d46ecf754",
-      "body": "CHAOS KNIGHTS model only. At the start of the Fight phase, you can select one enemy unit within Engagement Range of the bearer; that enemy unit must take a Battle-shock test."
-    },
-    {
       "id": "5bcc055f-966f-54c5-9af9-65b63d7b3c2e",
       "body": "ASURYANI model only. The bearer has an Objective Control characteristic of 5."
     },
@@ -5548,6 +5577,10 @@
       "body": "DESTROYER CULT model only. Each time an enemy unit within Engagement Range of the bearer's unit is selected to Fall Back, roll one D6: on a 3+, that unit cannot Fall Back this phase and must Remain Stationary."
     },
     {
+      "id": "e3fb54b2-c0ca-5b1e-845f-ead075b2f11b",
+      "body": "CHAOS KNIGHTS model only. At the end of your Command phase, select one objective marker the bearer is within range of and that you control. That objective marker remains under your control until your opponent's Level of Control over that objective marker is greater than yours at the end of a phase. In addition, until you lose control of that objective marker, it has the Deathly Terror ability as if it were a CHAOS KNIGHTS model from your army."
+    },
+    {
       "id": "5f9bde8b-ac5f-5af5-9808-30bd14e1d4f8",
       "body": "WARBOSS IN MEGA ARMOUR model only. Models in the bearer's unit have the Deep Strike ability."
     },
@@ -5610,6 +5643,10 @@
     {
       "id": "d6a33dae-5b29-5440-a276-b872055d9a66",
       "body": "LEGIONES DAEMONICA KHORNE model only. While a friendly LEGIONES DAEMONICA KHORNE unit (excluding MONSTERS) is within 6\" of the bearer, weapons equipped by models in that unit have the LANCE ability."
+    },
+    {
+      "id": "66c3010d-9793-5024-8aa3-a89cb703040a",
+      "body": "CHAOS KNIGHTS model only. Each time you roll dice to randomly select which Dread abilities are active for your army, if the bearer is on the battlefield, you can re-roll one or both results rolled."
     },
     {
       "id": "1cd321a8-89c8-54bd-a713-48e9aa87b3e9",
@@ -5816,6 +5853,10 @@
       "body": "INFANTRY WARBOSS model only. Each time the bearer makes an attack that targets a unit that is below its Starting Strength, re‑roll a Wound roll of 1. If that unit is Below Half‑strength, you can re‑roll the Wound roll instead."
     },
     {
+      "id": "7157362c-bbf9-5b11-925d-d4b4d4c153e9",
+      "body": "CHAOS KNIGHTS model only. The bearer has a 4+ invulnerable save against ranged attacks, and a 5+ invulnerable save against melee attacks."
+    },
+    {
       "id": "738ba2d7-ed68-5efc-9b08-95f20dd11e86",
       "body": "T'au EMPIRE BATTLESUIT model only. At the end of your opponent's turn, if the bearer's unit is not within Engagement Range of one or more enemy units, you can remove that unit from the battlefield and place it into Strategic Reserves."
     },
@@ -5834,10 +5875,6 @@
     {
       "id": "6e9ff92e-ed0a-5d66-8ab6-4e1fc8c6bcf3",
       "body": "HAEMONCULUS model only. Once per battle, at the start of any Shooting phase, the bearer can use this Enhancement. When it does, every enemy unit within 12\" must take a Battle-shock test, subtracting 1 from that test if the bearer's unit is currently Empowered. Each time a PSYKER unit fails this test, it suffers D3 mortal wounds."
-    },
-    {
-      "id": "e7b971ed-8cc4-5e4a-9ede-33e301dca5e0",
-      "body": "CHAOS KNIGHTS model only. In your Movement phase, select one enemy unit within 12\" of the bearer. That enemy unit must take a Battle-shock test."
     },
     {
       "id": "12457f37-fc26-55db-ae27-155f4b12d40c",
@@ -5870,10 +5907,6 @@
     {
       "id": "4dc642fe-ffbd-5390-95bb-f4a513d526a3",
       "body": "TYRANIDS MONSTER model only. Add 3 to the bearer's Objective Control characteristic."
-    },
-    {
-      "id": "ba571e5a-6ca8-516f-a761-382409f36631",
-      "body": "CHAOS KNIGHTS model only. Each time an attack is made against the bearer, subtract 1 from the Armour Penetration characteristic of that attack."
     },
     {
       "id": "b2b642ca-79d8-5f2c-bba8-cd60ef796220",
@@ -6336,6 +6369,10 @@
       "body": "RAVENWING model only. You can re-roll Advance and Charge rolls made for the bearer's unit."
     },
     {
+      "id": "b2868219-2ebc-59c9-99b4-5d4541804c2e",
+      "body": "CHAOS KNIGHTS model only. Improve the Weapon Skill characteristic of the bearer's melee weapons by 1. While the bearer is using the Diabolic Power ability, its melee weapons have the LANCE ability"
+    },
+    {
       "id": "a42f8955-6101-5c60-b060-bf0661b44a90",
       "body": "ADEPTUS ASTARTES model only. The bearer has the Feel No Pain 4+ ability."
     },
@@ -6504,6 +6541,10 @@
       "body": "THOUSAND SONS INFANTRY model only. While the bearer is within 3\" of one or more friendly THOUSAND SONS VEHICLE units, the bearer has the Lone Operative ability"
     },
     {
+      "id": "f8ca7cfe-817f-53c5-82fd-b26bbc972b74",
+      "body": "CHAOS KNIGHTS model only. Add 2 to the bearer's Wounds characteristic. Each time the bearer's unit makes a Malefic Surge, you can re-roll the Leadership test taken to see if it suffers any mortal wounds."
+    },
+    {
       "id": "8596dbec-12a3-5796-bfbc-cf89de91fb82",
       "body": "WORLD EATERS model only. Each time you make a Blessings of Khorne roll, if the bearer is on the battlefield, you can re-roll up to two of the D6 rolled."
     },
@@ -6526,6 +6567,10 @@
     {
       "id": "a1b0edcb-8c5c-5720-a807-1f9723e12280",
       "body": "ADEPTUS ASTARTES JUMP PACK model only. Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of the bearer, if this bearer's unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\"."
+    },
+    {
+      "id": "f4ea901f-4c52-5faa-bf41-ea7273329015",
+      "body": "WAR DOG model only. The bearer's ranged weapons have the ASSAULT ability."
     },
     {
       "id": "5337b9b6-b32c-5851-9a3d-d51e704a889b",
@@ -6648,6 +6693,10 @@
       "body": "ADEPTUS ASTARTES model only.\n\n• Each time an attack is allocated to the bearer, halve the Damage characteristic of that attack.\n• While the bearer is leading a unit, if the Uphold the Honour of the Emperor vow is active for your army, models in that unit have the Feel No Pain 5+ ability."
     },
     {
+      "id": "878e53d9-82de-5ec2-85a4-47c0d0924a9e",
+      "body": "WAR DOG model only. Each time an attack targets the bearer, worsen the Armour Penetration characteristic of that attack by 1."
+    },
+    {
       "id": "149abf15-2aab-5901-b00a-536ddcbd64f6",
       "body": "CHAOS LORD model only (excluding TERMINATOR and JUMP PACK models). In the Declare Battle Formations step, you can set the bearer up in Reserves instead of setting it up on the battlefield. If you do, in the Reinforcements step of one of your Movement phases, you can select one model in a friendly LEGIONARIES or CHOSEN unit that has two or more models remaining and is on the battlefield (excluding Attached units). The selected model is destroyed (ignoring any rules that are triggered when a model is destroyed) and the bearer is set up as close as possible to where that model was destroyed and only within Engagement Range of any enemy units if the destroyed model was within Engagement Range of those units. The bearer now attaches to that unit as its Leader."
     },
@@ -6698,10 +6747,6 @@
     {
       "id": "c70944f4-9878-5e30-82de-6652c0dad15f",
       "body": "GREY KNIGHTS model only. Once per battle, in your opponent's Shooting phase, when the bearer's unit is selected as the target of a ranged attack, you can remove the bearer's unit from the battlefield and then set it back up again anywhere on the battlefield that is more than 9\" horizontally away from all enemy models. If the bearer is no longer an eligible target, your opponent can then select new targets for any attacks that had targeted the bearer's unit."
-    },
-    {
-      "id": "1e8a0ccd-fbda-5e33-9eb8-4084c2e17089",
-      "body": "CHAOS KNIGHTS model only. If you control an objective marker at the end of your Command phase, and the bearer is within range of that objective marker, that objective marker is said to be Tainted and remains under your control until your opponent's Level of Control over that objective marker is greater than yours at the end of a phase. In addition, while an objective marker is Tainted and under your control, that objective marker has the Despair Dread ability as if it was a CHAOS KNIGHTS model from your army (so subtract 1 from Battle-shock and Leadership tests taken for enemy units within 12\" of it)."
     },
     {
       "id": "8bba7598-f9d9-5ab9-a616-db8f53093f25",
@@ -6794,6 +6839,14 @@
     {
       "id": "3f5a65a4-9ec4-547f-9c4e-674e8d582c71",
       "body": "ADEPTUS CUSTODES VEHICLE model only. While a friendly ADEPTUS CUSTODES INFANTRY or ADEPTUS CUSTODES MOUNTED unit is within 6\" of the bearer, each time a model in that unit makes an attack, re‑roll a Hit roll of 1."
+    },
+    {
+      "id": "dd0ec9b6-ac23-5aa9-9ed8-79cea1a813e8",
+      "body": "CHAOS KNIGHTS model only. Each time the bearer makes a Dark Sacrifice, the maximum number of models are destroyed in the selected DAMNED unit (i.e. 3 if the unit's Leadership test is passed, or 6 if it is failed) but, until the end of the phase, the bearer's weapons have both LETHAL HITS and SUSTAINED HITS 1."
+    },
+    {
+      "id": "a2328861-c758-5405-b228-792f17c7b072",
+      "body": "CHAOS KNIGHTS model only. You can re-roll Charge rolls made for the bearer's unit. In addition, once per battle, in your Charge phase, the bearer can use this Enhancement. If it does, until the end of the phase, the bearer's unit is eligible to declare a charge in a turn in which it Advanced."
     },
     {
       "id": "4be1078f-33fe-5eb4-b121-c14475165895",
@@ -7096,20 +7149,16 @@
       "body": "WINGED HIVE TYRANT model only. Improve the Strength and Armour Penetration characteristics of melee weapons equipped by the bearer by 1."
     },
     {
+      "id": "db5efe38-576c-5c45-9abb-646374dac7b1",
+      "body": "CHAOS KNIGHTS model only. The bearer's ranged weapons have the ASSAULT ability. In addition, once per battle, in the Fight phase, the bearer can use this Enhancement. If it does, until the end of the phase, models in the bearer's unit have the Fights First ability."
+    },
+    {
+      "id": "47d2a36a-8047-5820-86be-92eada4facf7",
+      "body": "WAR DOG model only. While a friendly WAR DOG model is within 6\" of the bearer, each time that model makes an attack, re-roll a Wound roll of 1."
+    },
+    {
       "id": "0b879349-bd25-582f-849d-3404e27b2fc5",
       "body": "CHAPLAIN model only. The bearer's melee weapons have the [DEVASTATING WOUNDS] ability."
-    },
-    {
-      "id": "dd0ec9b6-ac23-5aa9-9ed8-79cea1a813e8",
-      "body": "CHAOS KNIGHTS model only. Each time the bearer makes a Dark Sacrifice, the maximum number of models are destroyed in the selected DAMNED unit (i.e. 3 if the unit's Leadership test is passed, or 6 if it is failed) but, until the end of the phase, the bearer's weapons have both LETHAL HITS and SUSTAINED HITS 1."
-    },
-    {
-      "id": "6cd50652-ae40-5fd8-baf4-149dd26eb5e4",
-      "body": "CHAOS KNIGHTS model only. At the start of the Declare Battle Formations step, you can select up to three DAMNED units from your army. The selected units have the Scouts 6\" ability."
-    },
-    {
-      "id": "9f75af2d-7303-5f87-9acb-6ff363204762",
-      "body": "CHAOS KNIGHTS model only. The bearer has the Feel No Pain 6+ ability and you can ignore any or all modifiers to its Move characteristic and/or to any Advance or Charge rolls made for it."
     },
     {
       "id": "05ffebf7-97ee-5061-9c96-b0d32c93e953",
@@ -7138,6 +7187,14 @@
     {
       "id": "eb1810a7-1203-54f5-b653-847d86a70823",
       "body": "WATCH MASTER or CAPTAIN model only. Once per battle, after you have selected your Oath of Moment target, the bearer can use this Enhancement. If it does, select a second enemy unit to be an Oath of Moment target.\n\nDesigner's Note: *This means that each time a model with the Oath of Moment ability makes an attack that targets either of your Oath of Moment targets, you can re-roll the Hit roll.*"
+    },
+    {
+      "id": "9f75af2d-7303-5f87-9acb-6ff363204762",
+      "body": "CHAOS KNIGHTS model only. The bearer has the Feel No Pain 6+ ability and you can ignore any or all modifiers to its Move characteristic and/or to any Advance or Charge rolls made for it."
+    },
+    {
+      "id": "6cd50652-ae40-5fd8-baf4-149dd26eb5e4",
+      "body": "CHAOS KNIGHTS model only. At the start of the Declare Battle Formations step, you can select up to three DAMNED units from your army. The selected units have the Scouts 6\" ability."
     },
     {
       "id": "a87f7078-9efd-5f76-9a97-aaddcefbf6e8",
@@ -7316,6 +7373,10 @@
       "body": "VEHICLE OFFICER model only. Each time a model in the bearer's unit makes a ranged attack, re-roll a Hit roll of 1."
     },
     {
+      "id": "e13883c5-5494-55d0-b934-45503aaaf556",
+      "body": "CHAOS KNIGHTS model only. The bearer has a Save characteristic of 2+. In addition, once per battle, at the start of either player's Command phase, the bearer can use this Enhancement. If it does, the bearer regains up to D6 lost wounds."
+    },
+    {
       "id": "090c98c5-4456-509e-8e97-dc8eb4c65037",
       "body": "ASTRA MILITARUM INFANTRY model only. Once per battle, at the start of any phase, the bearer can use this Enhancement. If it does, select one enemy unit within 8\" of the bearer's unit (excluding MONSTER and VEHICLE units); that unit must take a Battle-shock test."
     },
@@ -7338,6 +7399,14 @@
     {
       "id": "5753afea-c822-5b6e-9829-3dd5ebf6e5a6",
       "body": "WORLD EATERS DAEMON model only. The bearer's Deadly Demise ability inflicts mortal wounds on a D6 roll of 2+ instead of on a 6. In addition, the bearer has the Deadly Demise D3+1 ability, instead of the Deadly Demise D3 ability."
+    },
+    {
+      "id": "482ae0a1-e72d-555e-bded-a2855536ec20",
+      "body": "CHAOS KNIGHTS model only. Once per battle round, you can target the bearer's unit with the Command Re-roll Stratagem for 0CP, and can do so even if another unit from your army has already been targeted by that Stratagem this phase. In addition, once per battle, just after your opponent uses a Stratagem, if the bearer is on the battlefield, it can use this Enhancement. If it does, until the end of the battle, the CP cost your opponent must pay to use that Stratagem again is increased by 1CP."
+    },
+    {
+      "id": "7871b22b-d9de-5240-9c51-2692383a23ea",
+      "body": "CHAOS KNIGHTS model only. Add 1 to the bearer's Toughness characteristic. While the bearer is using the Unnatural Fortitude ability, each time an attack with a Damage characteristic of 1 is allocated to the bearer, add 1 to any armour saving throw made against that attack."
     },
     {
       "id": "4371c0a3-b9a2-5709-b5e4-9e227af7ece5",
@@ -7408,6 +7477,10 @@
       "body": "SHADOW LEGION model only. Models in the bearer's unit have the Scouts 9” ability."
     },
     {
+      "id": "22514f81-0cda-5d21-8581-ba2c24c4e147",
+      "body": "CHAOS KNIGHTS model only. The bearer has the Stealth ability. In addition, once per battle, after you make a saving throw for the bearer, you can change the Damage characteristic of that attack to 0."
+    },
+    {
       "id": "9c27b868-0cee-52ed-b2e3-f19dec9573c2",
       "body": "SHADOW LEGION model only. While an enemy unit is within Engagement Range of the bearer's unit, subtract 1 from the Objective Control characteristic of models in that enemy unit."
     },
@@ -7454,6 +7527,10 @@
     {
       "id": "3edd7a32-644d-5ea6-843e-8f7ac05ee3bf",
       "body": "WORLD EATERS model only. In the Declare Battle Formations step, if the bearer starts the battle embarked within a DEDICATED TRANSPORT, that DEDICATED TRANSPORT has the Scouts 9\" ability."
+    },
+    {
+      "id": "f9cd90ab-b74a-55d8-8ee6-415920ee2f7a",
+      "body": "CHAOS KNIGHTS model only. The bearer has the Deep Strike ability. In addition, once per battle, at the end of your opponent's turn, if the bearer is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves."
     },
     {
       "id": "359bdbda-5de8-5b90-bd34-88786830f63e",
@@ -7518,6 +7595,14 @@
     {
       "id": "a634af42-f798-5dbe-828c-06ea8084b3a3",
       "body": "WORLD EATERS model only. Once per battle, at the start of the Fight phase, the bearer can use this Enhancement. If it does, until the end of the phase, the bearer's unit has the Fights First ability."
+    },
+    {
+      "id": "28c96e63-bff3-521a-a62f-5d2fee413805",
+      "body": "CHAOS KNIGHTS model only. At the start of the Fight phase, each enemy unit within Engagement Range of the bearer must take a Battle-shock test."
+    },
+    {
+      "id": "253b8eb4-cbf9-5e51-a74f-bf9dfac898fe",
+      "body": "CHAOS KNIGHTS model only. The bearer's ranged weapons have the ASSAULT ability. While the bearer is using the Unholy Hunger ability, it can ignore any or all modifiers to its Move characteristic and/or to Advance rolls made for its unit."
     }
   ],
   "stratagems": [
@@ -7815,12 +7900,6 @@
       "effectBody": "Until the end of the phase, each time a model in your unit makes an attack, re-roll a Wound roll of 1. If your unit is within range of your Vowed objective marker, you can re-roll the Wound roll instead."
     },
     {
-      "id": "e6aa8fc6-6139-5521-8698-1de405e815d6",
-      "whenBody": "Any phase, just after an enemy unit fails a Battle-shock test.",
-      "targetBody": "One CHAOS KNIGHTS unit from your army that is within 12\" of that enemy unit.",
-      "effectBody": "Roll six D6. For each 4+, that enemy unit suffers 1 mortal wound and this model regains up to 1 lost wound."
-    },
-    {
       "id": "60152fdf-9a75-505b-a3e3-4d0a9611be3d",
       "whenBody": "Start of any phase.",
       "targetBody": "One ARCHON, one SUCCUBUS and one HAEMONCULUS from your army.",
@@ -7994,12 +8073,6 @@
       "effectBody": "Until the end of the phase, your unit is treated as containing fewer than five models for the purpose of the BLAST ability."
     },
     {
-      "id": "01567587-9ebc-5d29-be26-99b95112b712",
-      "whenBody": "Fight phase, just after an enemy unit has selected its targets.",
-      "targetBody": "One CHAOS KNIGHTS unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-      "effectBody": "Until the end of the phase, your model has the Feel No Pain 6+ ability, and the Feel No Pain 5+ ability against attacks made by Battle-shocked models."
-    },
-    {
       "id": "39164914-14f3-58fc-a779-d6c7e41a4838",
       "whenBody": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
       "targetBody": "One LEAGUES OF VOTANN unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
@@ -8091,16 +8164,16 @@
       "effectBody": "That objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of any turn."
     },
     {
-      "id": "b692507f-18fc-59f3-a93b-391963dc4a63",
-      "whenBody": "Your Shooting phase.",
-      "targetBody": "One ASTRA MILITARUM and one GENESTEALER CULTS unit from your army that have not been selected to shoot this phase.",
-      "effectBody": "Select one enemy unit that is visible to both of those selected units and within range of at least one ranged weapon from each of those units. Until the end of the phase, models in those units can only make attacks that target that enemy unit (and only if it is an eligible target). When doing so, each time such a model makes an attack, re-roll a Wound roll of 1."
-    },
-    {
       "id": "12a99789-e475-592e-9c30-5fc3e00b9d8e",
       "whenBody": "Fight phase, just after a CHAOS KNIGHTS unit from your army has fought.",
       "targetBody": "That CHAOS KNIGHTS unit.",
       "effectBody": "If one or more models were destroyed as a result of those attacks, your unit regains up to D3 lost wounds. If one or more models from Battle‑shocked units were destroyed as a result of those attacks, your unit regains up to D3+2 lost wounds instead."
+    },
+    {
+      "id": "b692507f-18fc-59f3-a93b-391963dc4a63",
+      "whenBody": "Your Shooting phase.",
+      "targetBody": "One ASTRA MILITARUM and one GENESTEALER CULTS unit from your army that have not been selected to shoot this phase.",
+      "effectBody": "Select one enemy unit that is visible to both of those selected units and within range of at least one ranged weapon from each of those units. Until the end of the phase, models in those units can only make attacks that target that enemy unit (and only if it is an eligible target). When doing so, each time such a model makes an attack, re-roll a Wound roll of 1."
     },
     {
       "id": "25625664-2e07-5a15-9675-5aa0c383565f",
@@ -8286,12 +8359,6 @@
       "effectBody": "Roll one D6 for each enemy unit within range of that objective marker. On a 4+, that unit suffers 1 mortal wound and must take a Battle-shock test."
     },
     {
-      "id": "f678013c-c1b9-5f79-9b7e-15ea02eebf31",
-      "whenBody": "Your Command phase.",
-      "targetBody": "One ABHORRENT model from your army and up to three WAR DOG models from your army.",
-      "effectBody": "Until the start of your next Command phase, those WAR DOG models count as being within range of any Aura abilities that ABHORRENT model has."
-    },
-    {
       "id": "fb9f6899-adae-5fb8-874c-178e79cf73ea",
       "whenBody": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
       "targetBody": "One NOBZ or MEGANOBZ unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
@@ -8322,6 +8389,12 @@
       "effectBody": "Until the end of the phase, each time a model in your unit makes a melee attack, you can re-roll the Hit roll and, if your unit is Below Half-strength, you can re-roll the Wound roll as well."
     },
     {
+      "id": "f678013c-c1b9-5f79-9b7e-15ea02eebf31",
+      "whenBody": "Your Command phase.",
+      "targetBody": "One ABHORRENT model from your army and up to two friendly WAR DOG units.",
+      "effectBody": "Until the start of your next Command phase, those WAR DOG units are treated as being within range of any Aura abilities your ABHORRENT unit has."
+    },
+    {
       "id": "7a07b649-2513-53af-8a91-cc9dd78f4ef0",
       "whenBody": "Fight phase.",
       "targetBody": "One BEAST SNAGGA unit from your army that has not been selected to fight this phase.",
@@ -8338,12 +8411,6 @@
       "whenBody": "Fight phase.",
       "targetBody": "One TYRANIDS unit from your army that has not been selected to fight this phase.",
       "effectBody": "Until the end of the phase, melee weapons equipped by models in your unit have the LETHAL HITS ability. If your unit is a HARVESTER unit, each time a model in that unit makes a melee attack, a successful unmodified Hit roll of 5+ scores a Critical Hit as well."
-    },
-    {
-      "id": "5130b144-391c-5c98-a012-97d71b3265c1",
-      "whenBody": "The start of your Shooting phase or the start of the Fight phase.",
-      "targetBody": "Two or more WAR DOG units from your army and one enemy unit that is an eligible target for each of those selected WAR DOG units.",
-      "effectBody": "Until the end of the phase, the selected WAR DOG units can only target that enemy unit, but all weapons equipped by those WAR DOG models gain the SUSTAINED HITS 1 ability. In addition, if that enemy unit is Battle-shocked, until the end of the phase, each time a selected WAR DOG model makes an attack against that enemy unit, an unmodified Hit roll of 5+ scores a Critical Hit."
     },
     {
       "id": "be921d61-dee3-5d2a-a6c7-74be677ba1c2",
@@ -8578,12 +8645,6 @@
       "targetBody": "One ADEPTUS ASTARTES unit from your army.",
       "effectBody": "Select one enemy unit within Engagement Range of your unit. That enemy unit must take a Battle‑shock test. When doing so, if your unit has the DEATHWING or RAVENWING keyword, subtract 1 from the result.",
       "restrictionBody": "You can only use this Stratagem once per battle round."
-    },
-    {
-      "id": "004d4e59-55e0-52d0-9ad9-8cddd4202ec0",
-      "whenBody": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
-      "targetBody": "One CHAOS KNIGHTS unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-      "effectBody": "Until the end of the phase, that CHAOS KNIGHTS model has a 4+ invulnerable save against ranged attacks."
     },
     {
       "id": "8ddd2534-f84c-5ffd-b5d2-682aea26d7ae",
@@ -9183,12 +9244,6 @@
       "whenBody": "Fight phase.",
       "targetBody": "One LEAGUES OF VOTANN unit from your army, and one enemy unit that has one or more Judgement tokens and is within Engagement Range of that LEAGUES OF VOTANN unit.",
       "effectBody": "Until the end of the phase, each time a model in your unit makes a melee attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1 for each Judgement token that enemy unit has."
-    },
-    {
-      "id": "bf624a20-95fb-5860-b119-c258dcfe68fc",
-      "whenBody": "Your Movement phase or your Charge phase.",
-      "targetBody": "Up to two WAR DOG models from your army or one TITANIC CHAOS KNIGHTS model from your army.",
-      "effectBody": "Until the end of the phase, the selected models can move horizontally through models and terrain features as if they were not there."
     },
     {
       "id": "78b253cf-3633-5f9a-bbd0-279de4a1ac5b",
@@ -11095,12 +11150,6 @@
       "effectBody": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 to the result if your unit has the WALKER keyword. On a 4+, do not remove it from play; The destroyed model can fight after the attacking unit has finished making its attacks (when doing so, it is assumed to have 1 wound remaining), and is then removed from play."
     },
     {
-      "id": "aa456502-26ed-51ca-8c44-712c26cebeb9",
-      "whenBody": "Any phase.",
-      "targetBody": "One CHAOS KNIGHTS unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed.",
-      "effectBody": "Until the end of the battle, the enemy unit that destroyed your unit is Marked. Each time a DAMNED model from your army makes an attack that targets a Marked unit, that attack has the LETHAL HITS ability."
-    },
-    {
       "id": "7197cf98-925b-5f63-b905-525991f7293e",
       "whenBody": "Any phase.",
       "targetBody": "One IMPERIAL KNIGHTS unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed.",
@@ -11147,6 +11196,12 @@
       "whenBody": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
       "targetBody": "One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
       "effectBody": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    },
+    {
+      "id": "aa456502-26ed-51ca-8c44-712c26cebeb9",
+      "whenBody": "Any phase.",
+      "targetBody": "One CHAOS KNIGHTS unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed.",
+      "effectBody": "Until the end of the battle, the enemy unit that destroyed your unit is Marked. Each time a DAMNED model from your army makes an attack that targets a Marked unit, that attack has the LETHAL HITS ability."
     },
     {
       "id": "76cb93ce-fc17-53eb-9f4d-48190bc03a59",
@@ -12531,6 +12586,12 @@
       "effectBody": "Select one visible enemy unit within 12\" of your unit. Roll one D6: on a 1, that enemy unit suffers 1 mortal wound; on a 2-4, that enemy unit suffers D3 mortal wounds; on a 5-6, that enemy unit suffers 2D3 mortal wounds."
     },
     {
+      "id": "9bfb741b-1294-5773-ad19-0aa23019608a",
+      "whenBody": "Your Shooting phase.",
+      "targetBody": "One CHAOS KNIGHTS unit from your army that has not been selected to shoot this phase.",
+      "effectBody": "Until the end of the phase, ranged weapons equipped by models in your unit have the IGNORES COVER ability."
+    },
+    {
       "id": "e5d7f9be-40a2-5eb1-9a9d-3cb32192f3bb",
       "whenBody": "Your opponent's Shooting phase, just after an enemy unit has shot.",
       "targetBody": "One WORLD EATERS RHINO model from your army that has one or more wounds remaining and was hit by one or more of the attacking unit's attacks.",
@@ -12821,6 +12882,141 @@
       "whenBody": "Start of your opponent's Shooting phase.",
       "targetBody": "One HERETIC ASTARTES PSYKER, HERETIC ASTARTES DAEMON PRINCE or HERETIC ASTARTES DAEMON PRINCE WITH WINGS unit from your army.",
       "effectBody": "Until the end of the phase, your unit has the following ability:\n\nShroud of Chaos (Aura): Models in friendly HERETIC ASTARTES units within 6\" of this unit have the Stealth ability."
+    },
+    {
+      "id": "6e29676b-4674-5235-a6d4-a9d596f46ae0",
+      "whenBody": "Your Movement phase or your Charge phase.",
+      "targetBody": "Up to two WAR DOG units from your army or one TITANIC CHAOS KNIGHTS unit from your army.",
+      "effectBody": "Until the end of the phase, each time a model in one of your units makes a move, it can move through models and terrain features. When doing so, it can move within Engagement Range of such models but cannot end that move within Engagement Range of them, and any Desperate Escape test is automatically passed (the Super-heavy Walker ability does not apply while using this Stratagem)."
+    },
+    {
+      "id": "004d4e59-55e0-52d0-9ad9-8cddd4202ec0",
+      "whenBody": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
+      "targetBody": "One CHAOS KNIGHTS unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
+    },
+    {
+      "id": "01567587-9ebc-5d29-be26-99b95112b712",
+      "whenBody": "Fight phase, just after an enemy unit has selected its targets.",
+      "targetBody": "One CHAOS KNIGHTS unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Until the end of the phase, your model has the Feel No Pain 6+ ability, and the Feel No Pain 5+ ability against attacks made by Battle-shocked models."
+    },
+    {
+      "id": "2ccfa3bd-98bf-5946-8ae7-e392f8e5cb87",
+      "whenBody": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
+      "targetBody": "One CHAOS KNIGHTS unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Until the end of the phase, models in your unit have the Stealth ability, and each time an attack targets your unit, models in it have the Benefit of Cover against that attack."
+    },
+    {
+      "id": "e6aa8fc6-6139-5521-8698-1de405e815d6",
+      "whenBody": "Any phase, just after an enemy unit fails a Battle-shock test.",
+      "targetBody": "One CHAOS KNIGHTS unit from your army that is within 12\" of that enemy unit.",
+      "effectBody": "Roll six D6. For each 4+, that enemy unit suffers 1 mortal wound and one model in your unit regains up to 1 lost wound.",
+      "restrictionBody": "You can only use this Stratagem once per battle round."
+    },
+    {
+      "id": "f72b4698-7038-5341-9ea3-9c6dc3aaa6d4",
+      "whenBody": "Fight phase.",
+      "targetBody": "One CHAOS KNIGHTS model from your army that made a Charge move this turn and has not been selected to fight this phase.",
+      "effectBody": "Until the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by your model by 1. After your model has finished making its attacks this phase, if it destroyed one or more enemy units this phase, each enemy unit within 6\" of your model must take a Battle-shock test."
+    },
+    {
+      "id": "ac6c09b7-b59a-5c00-86a6-e79ab686094e",
+      "whenBody": "Your Command phase, just after a CHAOS KNIGHTS CHARACTER unit from your army makes a Malefic Surge.",
+      "targetBody": "That CHAOS KNIGHTS CHARACTER unit.",
+      "effectBody": "Select one objective marker your unit is within range of that you control. That objective marker remains under your control until your opponent's Level of Control over that objective marker is greater than yours at the end of a phase."
+    },
+    {
+      "id": "384adeb0-9c66-56b1-9429-eed933664197",
+      "whenBody": "Your Shooting phase.",
+      "targetBody": "One CHAOS KNIGHTS unit from your army that has not been selected to shoot this phase.",
+      "effectBody": "After your unit has shot, select one enemy unit hit by one or more of those attacks. That enemy unit must take a Battle-shock test; if the test is failed, until the end of your opponent's next turn, it is aflame. While a unit is aflame, subtract 2\" from its Move characteristic and subtract 2 from Charge rolls made for it."
+    },
+    {
+      "id": "48c021a2-969f-52db-9c39-a5d1fe6e370c",
+      "whenBody": "Start of any phase.",
+      "targetBody": "One CHAOS KNIGHTS CHARACTER unit from your army that is within range of one or more objective markers you control.",
+      "effectBody": "Select one of those objective markers. That objective marker remains under your control, with a Level of Control of 5 (unless it would otherwise be higher), until your opponent's Level of Control over that objective marker is greater than yours at the end of a phase."
+    },
+    {
+      "id": "62888812-0fc7-55b6-8306-d11e0a74c77c",
+      "whenBody": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+      "targetBody": "One CHAOS KNIGHTS CHARACTER unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
+    },
+    {
+      "id": "674a3506-1e28-50c2-8992-e4bb1293c508",
+      "whenBody": "Your Shooting phase or the Fight phase.",
+      "targetBody": "One CHAOS KNIGHTS CHARACTER unit from your army that has not been selected to shoot or fight this phase.",
+      "effectBody": "Select one enemy MONSTER or VEHICLE unit. Until the end of the phase, each time a model in your unit makes an attack that targets that enemy unit, re-roll a Hit roll of 1 and re-roll a Wound roll of 1. Each time a model in your unit makes an attack that targets that enemy unit, if that enemy unit is TITANIC, you can re-roll the Hit roll and you can re-roll the Wound roll instead."
+    },
+    {
+      "id": "6693ae02-9e4c-5c48-90be-a11e51d5cb70",
+      "whenBody": "Any phase, just after a CHAOS KNIGHTS CHARACTER unit from your army is destroyed.",
+      "targetBody": "That CHAOS KNIGHTS CHARACTER unit. You can use this Stratagem on that unit even though it was just destroyed.",
+      "effectBody": "When rolling to determine whether mortal wounds are inflicted by your unit's Deadly Demise ability, that model's Deadly Demise ability inflicts mortal wounds on a D6 roll of a 4+ instead of on a 6."
+    },
+    {
+      "id": "105288e7-2b66-5071-8037-3dea5e1674a2",
+      "whenBody": "Fight phase, just before a CHAOS KNIGHTS CHARACTER unit from your army consolidates.",
+      "targetBody": "That CHAOS KNIGHTS CHARACTER unit.",
+      "effectBody": "Until the end of the phase, each time your unit Consolidates, models in it can move an additional 3\" as long as your unit can end that move within Engagement Range of one or more enemy units."
+    },
+    {
+      "id": "3813c8be-f5c8-50df-aa6b-0159a29ad06c",
+      "whenBody": "Your Movement phase, just after a CHAOS KNIGHTS CHARACTER unit from your army ends a Normal move.",
+      "targetBody": "That CHAOS KNIGHTS CHARACTER unit.",
+      "effectBody": "Select one enemy unit (excluding MONSTERS and VEHICLES) that your unit moved over during that move and roll six D6: for each 4+, that enemy unit suffers 1 mortal wound. If one or more models are destroyed as a result of this Stratagem, that enemy unit must take a Battle-shock test."
+    },
+    {
+      "id": "90d4fb42-7609-58d9-80b0-2ab45428ea86",
+      "whenBody": "Start of the Shooting phase or the start of the Fight phase.",
+      "targetBody": "One WAR DOG CHARACTER unit from your army.",
+      "effectBody": "Each enemy unit within 6\" of your unit must take a Battle-shock test. Each friendly WAR DOG unit that is within 6\" of your unit and is Battle-shocked must take a Leadership test; if that test is passed, that unit is no longer Battle-shocked.",
+      "restrictionBody": "You can only use this Stratagem once per turn."
+    },
+    {
+      "id": "9fd1b637-9844-5bf2-9fe1-2fae298fdaaf",
+      "whenBody": "Your opponent's Shooting phase or the Fight phase, just after a WAR DOG unit from your army is destroyed.",
+      "targetBody": "That WAR DOG unit. You can use this Stratagem on that unit even though it was just destroyed.",
+      "effectBody": "Before resolving your unit's Deadly Demise ability, it can either shoot or fight. When doing so, it must target only the enemy unit that just destroyed it, and can only do so if that enemy unit is an eligible target. After it has done so and after any Consolidation moves have been made, resolve your unit's Deadly Demise ability as normal."
+    },
+    {
+      "id": "42444857-8424-51ca-86a3-f1f0e7138ab8",
+      "whenBody": "Your opponent's Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
+      "targetBody": "One WAR DOG unit from your army that is within 9\" of that enemy unit.",
+      "effectBody": "Your unit can make a Normal move of up to 6\"."
+    },
+    {
+      "id": "461df41c-f16b-5051-a8d5-41122b9f1228",
+      "whenBody": "End of your opponent's Fight phase.",
+      "targetBody": "One WAR DOG unit from your army that is wholly within 12\" of one or more battlefield edges and not within Engagement Range of one or more enemy units.",
+      "effectBody": "Remove your unit from the battlefield and place it into Strategic Reserves."
+    },
+    {
+      "id": "ff201fe2-13e9-5208-9c48-437b2fa9fae3",
+      "whenBody": "End of any phase.",
+      "targetBody": "One CHAOS KNIGHTS unit from your army that is not Empowered.",
+      "effectBody": "Your unit makes a Malefic Surge.",
+      "restrictionBody": "You cannot select the same unit as the target of this Stratagem more than once per battle round."
+    },
+    {
+      "id": "a5eb6618-e7b0-5534-9395-98e1bd0f3ca8",
+      "whenBody": "Your Movement phase, just after a WAR DOG unit from your army Falls Back",
+      "targetBody": "That WAR DOG unit.",
+      "effectBody": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
+    },
+    {
+      "id": "022a51fd-5099-57ac-a0ec-657a5b5636c1",
+      "whenBody": "Fight phase, just after an enemy unit has selected its targets.",
+      "targetBody": "One CHAOS KNIGHTS unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    },
+    {
+      "id": "fe2e2e6a-02fc-572c-ad15-1bd7b3f56a21",
+      "whenBody": "Start of the Fight phase.",
+      "targetBody": "Two or more WAR DOG units from your army within Engagement Range of the same enemy unit.",
+      "effectBody": "Select one enemy unit within Engagement Range of those WAR DOG units. Until the end of the phase, models in those WAR DOG units can only target that enemy unit, but each time a model in one of those WAR DOG units makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
     }
   ],
   "datasheetAbilities": [
@@ -12849,10 +13045,6 @@
       "body": "At the start of the battle, select one unit from your opponent's army. Until the end of the battle, each time a model in this unit makes an attack that targets that unit, you can re-roll the Hit roll."
     },
     {
-      "id": "890bc5e9-f441-5d2c-bfe1-b1a1f2d85186",
-      "body": "While a friendly WAR DOG model is within 6\" of this model, each time that WAR DOG model makes a ranged attack, you can ignore any or all modifiers to that attack's Ballistic Skill characteristic and/or to the Hit roll."
-    },
-    {
       "id": "c03b0d42-9b06-58d2-96f0-6a1fc2343ae2",
       "body": "Each time a model in this unit targets an enemy unit with a melee attack, re-roll a Wound roll of 1. If that enemy unit is within range of an objective marker, you can re-roll the Wound roll instead."
     },
@@ -12867,6 +13059,10 @@
     {
       "id": "6a4a0dd9-8069-5278-ba80-0fb5dc162e80",
       "body": "Each time a model in this model's unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    },
+    {
+      "id": "890bc5e9-f441-5d2c-bfe1-b1a1f2d85186",
+      "body": "While a friendly WAR DOG model is within 6\" of this model, ranged weapons equipped by that WAR DOG model have the ASSAULT ability."
     },
     {
       "id": "34a4706e-683e-5505-b9e9-7aa69e333211",
@@ -14129,6 +14325,10 @@
       "body": "In your Shooting phase, after this unit has shot, select one enemy unit hit by one or more of those attacks. Until the end of the turn, each time a friendly PLAGUE LEGIONS unit makes an attack that targets that unit, you can re-roll the Wound roll."
     },
     {
+      "id": "e22cbcc0-ae63-5af3-a043-ff902f4ea1b8",
+      "body": "At the start of the first battle round, select one unit from your opponent's army to be this model's victim. Each time this model makes an attack that targets its victim, you can re‑roll the Wound roll. Each time this model's victim is destroyed, select one new enemy unit to be this model's victim."
+    },
+    {
       "id": "c6f263bf-ba5b-5a71-a0b8-6ff63337fd06",
       "body": "While this model is within 3\" of one or more other friendly ADEPTUS MECHANICUS units, this model has the Lone Operative ability."
     },
@@ -14159,6 +14359,10 @@
     {
       "id": "37e92ea0-9081-50a9-a076-6170b56b9990",
       "body": "When rolling for this model's Deadly Demise ability, units within 6\" suffer mortal wounds on a 4+, instead of on a 6."
+    },
+    {
+      "id": "6a44a40c-c3f5-5dd7-bdbe-5d823a2125f0",
+      "body": "While a friendly WAR DOG model is within 9\" of this model, each time that WAR DOG model makes an attack that targets the closest eligible target, improve the Armour Penetration characteristic of that attack by 1."
     },
     {
       "id": "a0dd3c9e-3787-5f48-93a4-766d1182a46b",
@@ -14215,6 +14419,10 @@
     {
       "id": "a9c927b9-a166-5f44-a5ad-35a941424b27",
       "body": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the turn, each time a friendly model that disembarked from this TRANSPORT this turn makes an attack that targets that enemy unit, you can re-roll the Wound roll."
+    },
+    {
+      "id": "d57cf0cf-6f7b-5d75-bfe0-fba48dfea31c",
+      "body": "Each time this model makes an attack that targets a unit Below Half‑strength, add 1 to the Hit roll. Each time an enemy unit is destroyed as the result of this model's attacks, before removing the last model in that unit from the battlefield, each other unit from your opponent's army that is within 3\" of it must take a Battle‑shock test."
     },
     {
       "id": "56cab37e-dfc9-52ce-8e22-31ed53e4f8ed",
@@ -14377,6 +14585,10 @@
       "body": "Each time this model makes an attack with a belleros energy cannon that targets an INFANTRY unit, add 1 to the Hit roll. Each time this model makes an attack with a ferrumite cannon that targets a MONSTER or VEHICLE unit, add 1 to the Hit roll."
     },
     {
+      "id": "c8c3c3ca-f3d4-590c-a4c7-1f9e491a7719",
+      "body": "Weapons equipped by models in this unit have the SUSTAINED HITS 1 ability."
+    },
+    {
       "id": "2b2ecdd0-d769-5698-8dff-5442e6d577e2",
       "body": "Some units have 'Scouts x\"' listed in their abilities. If every model in a unit has this ability, then at the start of the first battle round, before the first turn begins, it can make a Normal move of up to x\" as if it were your Movement phase - as can any DEDICATED TRANSPORT model such a unit starts the battle embarked within (provided only models with this ability are embarked within that DEDICATED TRANSPORT model). A unit that moves using this ability must end that move more than 9\" horizontally away from all enemy models. If both players have units that can do this, the player who is taking the first turn moves their units first."
     },
@@ -14421,12 +14633,20 @@
       "body": "In your opponent's Shooting phase, each time an enemy unit has shot, if any models from this unit were destroyed as a result of those attacks, this unit can make a Blood Surge move. To do so, roll one D6 and add 2 to the roll: models in this unit move a number of inches up to this result, but this unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit. This unit cannot make a Blood Surge move while it is Battle-shocked or within Engagement Range of one or more enemy units, and can only make one Blood Surge move per phase."
     },
     {
+      "id": "fd5c8f35-4a26-54f3-a8ec-3c9205b98ddb",
+      "body": "Once per battle round, you can target this unit with the Rapid Ingress or Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this turn."
+    },
+    {
       "id": "fff42f3f-642a-54d4-972f-ce11296b2fd3",
       "body": "While this model is leading a unit, models in that unit have the Scouts 6\" ability and ranged weapons equipped by models in that unit have the ASSAULT ability."
     },
     {
       "id": "547c6fdc-a8c6-5466-b8a2-2872b692b671",
       "body": "This model has the Feel No Pain 4+ ability against mortal wounds."
+    },
+    {
+      "id": "ec675f4b-0dfa-590c-ac00-797f0c691070",
+      "body": "While this unit contains one or more TECH-PRIEST models, this unit is:\n\n• Eligible to perform an Action in a turn in which it Advanced.\n• Eligible to shoot in a turn in which it started an Action."
     },
     {
       "id": "7ffd38d4-f36f-5d16-a1e7-51966e15115d",
@@ -14447,6 +14667,10 @@
     {
       "id": "7afef088-3c8d-52d0-a816-f541d41742dc",
       "body": "This unit is eligible to declare a charge in a turn in which it Advanced."
+    },
+    {
+      "id": "a3df2b14-9d3f-5004-99dd-29c030245f42",
+      "body": "While a friendly WAR DOG model is within 6\" of this model, ranged weapons equipped by that WAR DOG model have the IGNORES COVER ability."
     },
     {
       "id": "03b74acd-d173-5353-a799-c5ab35f3210b",
@@ -14529,16 +14753,16 @@
       "body": "Each time this model makes a melee attack that targets an enemy unit that is below its Starting Strength, add 1 to the Hit roll and, if that attack targets an enemy unit that is Below Half-strength, add 1 to the Wound roll as well."
     },
     {
+      "id": "d4715a5a-1f32-5819-94fa-9a04c112edf8",
+      "body": "In your Shooting phase, after this model has shot, if an enemy INFANTRY unit was hit by one or more of those attacks made with a graviton crusher, until the end of your opponent's next turn, that enemy unit is grav-pinned. While a unit is grav-pinned, subtract 2 from that unit's Move characteristic and subtract 2 from Charge rolls made for that unit."
+    },
+    {
       "id": "e59588d9-d0c3-505c-b030-b45466aab7e1",
       "body": "In your Command phase, you can select one friendly ADEPTUS ASTARTES VEHICLE model within 3\" of this model. That model regains up to D3 lost wounds and, until the start of your next Command phase, each time that VEHICLE model makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per turn."
     },
     {
       "id": "e960bce8-480d-5b02-9b95-cfe471b9acec",
       "body": "While an enemy unit (excluding VEHICLE units) is within 3\" of this unit, subtract 1 from the Objective Control characteristic of models in that enemy unit."
-    },
-    {
-      "id": "d4715a5a-1f32-5819-94fa-9a04c112edf8",
-      "body": "In your Shooting phase, after this model has shot, if an enemy INFANTRY unit was hit by one or more of those attacks made with a graviton crusher, until the end of your opponent's next turn, that enemy unit is grav-pinned. While a unit is grav-pinned, subtract 2 from that unit's Move characteristic and subtract 2 from Advance and Charge rolls made for that unit."
     },
     {
       "id": "a8f04f69-ae1a-5abf-b3c0-b8383d6a20f4",
@@ -14634,7 +14858,7 @@
     },
     {
       "id": "3cd21d8c-1818-55e8-9407-633ae99d6cd6",
-      "body": "While a model is affected by this ability, ranged weapons equipped by that model have the IGNORES COVER ability."
+      "body": "While a model is affected by this ability, each time that model makes a ranged attack that targets the closest eligible target, improve the Strength and Armour Penetration characteristics of that attack by 1."
     },
     {
       "id": "87699fca-3e5d-5b89-9c41-76516343c8ca",
@@ -14717,12 +14941,12 @@
       "body": "At the start of your Shooting phase, select one visible enemy VEHICLE unit. Until the end of the phase, each time a friendly HERETIC ASTARTES model makes an attack that targets that unit, re‐roll a Wound roll of 1."
     },
     {
-      "id": "49142be2-9e61-5147-b201-ba50451ae0e9",
-      "body": "Each time a model in this unit makes a ranged attack, re-roll a Hit roll of 1. If that attack targets a unit that is at its Starting Strength, you can re-roll the Hit roll instead."
+      "id": "8a8a5ba9-ba73-5f79-8cbc-d290d5ccd431",
+      "body": "You can re‑roll Advance and Charge rolls made for this unit."
     },
     {
-      "id": "8a8a5ba9-ba73-5f79-8cbc-d290d5ccd431",
-      "body": "You can re-roll Charge rolls made for this model."
+      "id": "49142be2-9e61-5147-b201-ba50451ae0e9",
+      "body": "Each time a model in this unit makes a ranged attack, re-roll a Hit roll of 1. If that attack targets a unit that is at its Starting Strength, you can re-roll the Hit roll instead."
     },
     {
       "id": "c38ae118-b9c1-5a56-90ba-4910b0e33248",
@@ -14762,7 +14986,7 @@
     },
     {
       "id": "66cd8a9e-df97-5799-993d-5d79ffb828aa",
-      "body": "While a model is affected by this ability, ranged weapons equipped by that model have the IGNORES COVER ability."
+      "body": "While a model is affected by this ability, each time that model is selected to shoot or fight, after it has resolved all of its attacks, select one enemy unit hit by one or more of those attacks - that unit must take a Battle-shock test, subtracting one from the test when doing so."
     },
     {
       "id": "24e9bb6f-cb60-59ea-8a18-25c78bf2e10c",
@@ -14965,10 +15189,6 @@
       "body": "In your Shooting phase, ranged weapons equipped by models in this unit have the INDIRECT FIRE ability, provided the target of that weapon is visible to one or more other friendly GREY KNIGHTS PSYKER units."
     },
     {
-      "id": "0b6e6a24-c316-5cfb-b139-cde25862196a",
-      "body": "Each time this model is selected to shoot or fight, you can re-roll one Hit roll or you can re-roll one Wound roll when resolving those attacks."
-    },
-    {
       "id": "35912128-006b-5161-8f1e-6faaabdbf32b",
       "body": "In your Shooting phase, after this model has shot, select one enemy unit that was hit by one or more of those attacks. That unit must take a Battle-shock test."
     },
@@ -15015,6 +15235,10 @@
     {
       "id": "5e83cbe9-1ad2-5cb4-b98f-90861c6c625d",
       "body": "Each time a model in this unit makes a ranged attack, re‐roll a Hit roll of 1. If the target of that attack is the closest eligible target, you can re‐roll the Hit roll instead."
+    },
+    {
+      "id": "0b6e6a24-c316-5cfb-b139-cde25862196a",
+      "body": "Each time this unit is selected to shoot or fight, you can re‑roll one Hit roll or you can re‑roll one Wound roll when resolving those attacks."
     },
     {
       "id": "e45022f2-7437-5397-a1e1-e3b1fb1883eb",
@@ -15149,10 +15373,6 @@
       "body": "You can re-roll Advance and Charge rolls made for this unit."
     },
     {
-      "id": "b4120e5e-855c-5eeb-a582-7e5224886dc9",
-      "body": "At the start of your Shooting phase, select one enemy unit within 12\" of this model. That enemy unit must take a Battle-shock test."
-    },
-    {
       "id": "f3234c72-f171-5102-b9b5-26dbb8a8442c",
       "body": "In your Shooting phase, after this unit has shot, it can make a Normal move of up to 6\". If it does, until the end of the turn, this unit is not eligible to declare a charge."
     },
@@ -15191,6 +15411,10 @@
     {
       "id": "59b3fd64-20dd-5b0c-b455-dabcc308da09",
       "body": "Each time an enemy unit (excluding TITANIC units) within Engagement Range of one or more units with this ability is selected to fight, until the end of the phase, each time a model in that enemy unit makes a melee attack, subtract 1 from the Hit roll."
+    },
+    {
+      "id": "b4120e5e-855c-5eeb-a582-7e5224886dc9",
+      "body": "At the start of your Shooting phase, select one enemy unit within 24\" of and visible to this model. That enemy unit must take a Battle‑shock test."
     },
     {
       "id": "46e890e2-3715-505d-9c1c-1192b0a6402d",
@@ -15493,6 +15717,10 @@
       "body": "Each time an attack targets this unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of this unit, subtract 1 from the Wound roll."
     },
     {
+      "id": "5b2c9201-ce8e-59dd-baf4-fa92bdfb11c3",
+      "body": "While a friendly WAR DOG model is within 9\" of this model, each time that WAR DOG model makes a melee attack, re‑roll a Hit roll of 1."
+    },
+    {
       "id": "0df173c9-bb15-5ecc-aa50-606ab74a19fb",
       "body": "While this model is leading a unit, each time a ranged attack targets that unit, worsen the Armour Penetration characteristic of that attack by 1."
     },
@@ -15519,10 +15747,6 @@
     {
       "id": "cf5d8647-df0e-53ac-9ab6-e45202287414",
       "body": "Each time a model in this unit makes a ranged attack that targets the closest eligible target, or makes a melee attack in a turn in which it made a Charge move, improve the Strength characteristic of that attack by 2."
-    },
-    {
-      "id": "5b2c9201-ce8e-59dd-baf4-fa92bdfb11c3",
-      "body": "While a friendly WAR DOG model is within 9\" of this model, each time that WAR DOG model makes a melee attack, re-roll a Hit roll of 1."
     },
     {
       "id": "19ce18e2-1a49-55e4-b866-383163caa623",
@@ -15897,16 +16121,16 @@
       "body": "While a friendly SLAANESH LEGIONES DAEMONICA unit is within 6\" of this model, melee weapons in that unit have the SUSTAINED HITS 1 ability."
     },
     {
-      "id": "ba1deaf2-3352-5eed-968c-a73ad0092bcb",
-      "body": "Each time this model makes a ranged attack against a MONSTER or VEHICLE unit, that attack has the DEVASTATING WOUNDS ability."
+      "id": "da93c699-c7cb-5582-918d-057d39a39282",
+      "body": "Each time this model makes a Charge move, until the end of the turn, its melee weapons have the DEVASTATING WOUNDS ability."
     },
     {
       "id": "798f5dd2-a6ec-5256-b5a5-c9c2ba84b943",
       "body": "In your Command phase, select one friendly HERETIC ASTARTES VEHICLE model within 3\" of this model. That VEHICLE model regains up to D3 lost wounds and, until the start of your next Command phase, each time that VEHICLE makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per Command phase."
     },
     {
-      "id": "da93c699-c7cb-5582-918d-057d39a39282",
-      "body": "Each time this model makes a Charge move, until the end of the turn, its melee weapons have the SUSTAINED HITS 1 ability. In addition, once per battle, this model is eligible to declare a charge in a turn in which it Advanced."
+      "id": "ba1deaf2-3352-5eed-968c-a73ad0092bcb",
+      "body": "Each time this model makes a ranged attack that targets a MONSTER or VEHICLE unit, that attack has the DEVASTATING WOUNDS ability."
     },
     {
       "id": "74c806ab-3a95-5acc-8529-50f0328e2765",
@@ -16073,10 +16297,6 @@
       "body": "At the end of the Fight phase, if there are no models currently embarked within this TRANSPORT, you can select one friendly NECRONS INFANTRY unit wholly within 6\" of this TRANSPORT. Unless that unit is within Engagement Range of one or more enemy units, it can embark within this TRANSPORT."
     },
     {
-      "id": "ccc06695-8603-5b5b-8144-c7c569fa82bb",
-      "body": "While a friendly WAR DOG model is within 6\" of this model, that WAR DOG model has the Benefit of Cover."
-    },
-    {
       "id": "bb75f315-d365-5a1b-91c6-bc4b24cd5cdf",
       "body": "While a friendly AELDARI unit is within 6\" of this model, add 1 to Advance and Charge rolls made for that unit."
     },
@@ -16087,6 +16307,10 @@
     {
       "id": "cf14cc02-7b54-53e8-8a0c-57e1ac710674",
       "body": "Each time a model in this unit makes a ranged attack, re‑roll a Wound roll of 1. If that attack targets a unit within range of an objective marker you do not control, you can re‑roll the Wound roll instead."
+    },
+    {
+      "id": "ccc06695-8603-5b5b-8144-c7c569fa82bb",
+      "body": "While a friendly WAR DOG unit is within 6\" of this model, each time an attack targets that WAR DOG unit, models in it have the Benefit of Cover against that attack."
     },
     {
       "id": "0fef1149-3fb5-5d0f-838a-4ad20481ab22",
@@ -16493,10 +16717,6 @@
       "body": "While an enemy unit is within Engagement Range of this model, halve the Objective Control characteristic of models in that enemy unit."
     },
     {
-      "id": "c6a06fa8-0c7c-5c0c-a074-1d4ba6cea300",
-      "body": "Each time this model makes a ranged attack that targets the closest eligible enemy unit, improve the Armour Penetration characteristic of that attack by 1."
-    },
-    {
       "id": "1c9e79c6-4255-5296-870a-d084e7c3a368",
       "body": "Each time a model in this unit makes a ranged attack that targets an enemy unit within range of an objective marker, you can re-roll the Wound roll."
     },
@@ -16535,6 +16755,10 @@
     {
       "id": "1101da97-a9a2-5617-93dc-f3ff0932db04",
       "body": "Each time an enemy unit within 18\" of this model targets this model, subtract 1 from the Hit roll and, until the end of the phase, that enemy unit's ranged weapons have the HAZARDOUS ability."
+    },
+    {
+      "id": "c6a06fa8-0c7c-5c0c-a074-1d4ba6cea300",
+      "body": "Each time this model makes a ranged attack that targets a unit that is within range of one or more objective markers, that attack has the IGNORES COVER ability."
     },
     {
       "id": "1ed54f75-2c4d-5085-84ce-dccf4dd2f4aa",
@@ -16818,7 +17042,7 @@
     },
     {
       "id": "302ab93a-37f2-53ac-9696-b9529ae00311",
-      "body": "While a friendly WAR DOG model is within 9\" of this model, each time that WAR DOG model makes a ranged attack, re-roll a Hit roll of 1."
+      "body": "While a friendly WAR DOG model is within 9\" of this model, each time that WAR DOG model makes a ranged attack, re‑roll a Hit roll of 1."
     },
     {
       "id": "0b554e52-b41a-52f4-a31a-b3ef029d7302",
@@ -17093,10 +17317,6 @@
       "body": "You can target this unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
     },
     {
-      "id": "9fa5b433-f5c1-5b3e-8b79-2a0c7b62a67d",
-      "body": "While a friendly WAR DOG is within 9\" of this model, each time that WAR DOG takes a Battle-shock test, add 1 to that test."
-    },
-    {
       "id": "28d4f5a7-9471-5fbb-af12-a8c12a4815fb",
       "body": "Once per battle, at the end of your opponent's turn, if this unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves."
     },
@@ -17115,6 +17335,10 @@
     {
       "id": "eee5d750-dbe6-502f-9da7-305b5801c32f",
       "body": "This model can attempt up to two Rituals per turn instead of one, and each time this model attempts a Ritual, add 2 to the Psychic test result."
+    },
+    {
+      "id": "9fa5b433-f5c1-5b3e-8b79-2a0c7b62a67d",
+      "body": "While a friendly WAR DOG model is within 9\" of this model, improve that WAR DOG model's Leadership and Objective Control characteristics by 1."
     },
     {
       "id": "90729c80-51fd-5509-b00d-7cd52bdac4fd",
@@ -17353,10 +17577,6 @@
       "body": "At the end of each phase, if a Beasts of Nurgle model in this unit has lost any wounds but is not destroyed, that model regains all of its lost wounds."
     },
     {
-      "id": "92d9a3fd-34d1-5b8a-9a2c-7859c3f87fa1",
-      "body": "At the end of your Movement phase, roll one D6 for each enemy unit within 9\" of this model: on a 3+, that enemy unit suffers D3 mortal wounds."
-    },
-    {
       "id": "a1f6a514-5c31-537d-87e1-25d1407f31ee",
       "body": "While this unit contains a Celestine model, in your Command phase, if this unit is below its Starting Strength, either one destroyed Geminae Superia model or up to D3 other Bodyguard models are returned to this unit."
     },
@@ -17383,6 +17603,10 @@
     {
       "id": "f6121782-2246-5a28-9d08-5711977e81f5",
       "body": "While this unit contains one or more Geminae Superia models, Celestine has the Feel No Pain 4+ ability."
+    },
+    {
+      "id": "92d9a3fd-34d1-5b8a-9a2c-7859c3f87fa1",
+      "body": "At the end of your Movement phase, roll one D6 for each enemy unit within 9\" of this model: on a 3+, that enemy unit suffers D3 mortal wounds."
     },
     {
       "id": "72fcc0d1-9996-5a01-ad7d-8d4983ea6b14",
@@ -17413,10 +17637,6 @@
       "body": "While a friendly ORKS unit is within 12\" of this model, each time you take a Battle‑shock test for that unit, add 1 to that test."
     },
     {
-      "id": "82cae940-090a-5fd0-a331-4acd2925386d",
-      "body": "Each time this model makes an attack against a MONSTER or VEHICLE unit, re-roll a Wound roll of 1 and re-roll a Damage roll of 1."
-    },
-    {
       "id": "7a7567cf-323f-5aba-b282-03ec9604bffd",
       "body": "While this model is leading a unit, each time a model in that unit makes an attack that targets a unit that is Afflicted, that attack has the SUSTAINED HITS 1 ability."
     },
@@ -17427,6 +17647,10 @@
     {
       "id": "61a82c5d-7597-5e76-91de-152192fdb3e1",
       "body": "While this model is leading a unit, weapons equipped by models in that unit have the LETHAL HITS ability."
+    },
+    {
+      "id": "82cae940-090a-5fd0-a331-4acd2925386d",
+      "body": "Each time this model makes an attack that targets a MONSTER or VEHICLE unit, you can re‑roll the Wound roll."
     },
     {
       "id": "bc862326-ec55-5ce6-bfb0-68d2f9a5b32a",
@@ -17805,10 +18029,6 @@
       "body": "While this model is leading a unit, each time a model in that unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 4+, do not remove the destroyed model from play; it can fight after the attacking model's unit has finished making its attacks, and is then removed from play."
     },
     {
-      "id": "e2cdf65e-e3d9-58cf-be6f-01aac0f18071",
-      "body": "At the end of your opponent's turn, if this unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves."
-    },
-    {
       "id": "2a994fb1-a039-5f84-9afb-0b9ca3b36c3b",
       "body": "Each time this model makes an attack that targets an enemy unit that is Below Half-strength, you can re-roll the Hit roll and you can re-roll the Wound roll."
     },
@@ -17883,6 +18103,10 @@
     {
       "id": "3a5c1236-3612-52b3-bed1-23348575b00e",
       "body": "At the end of your opponent's Movement phase, if there are no models currently embarked within this TRANSPORT, you can select one friendly ASTRA MILITARUM INFANTRY unit (excluding ARTILLERY units) that is wholly within 6\" of this TRANSPORT. Unless that unit is within Engagement Range of one or more enemy units, it can embark within this TRANSPORT."
+    },
+    {
+      "id": "e2cdf65e-e3d9-58cf-be6f-01aac0f18071",
+      "body": "At the end of your opponent's turn, if this unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves."
     },
     {
       "id": "83efa145-2c42-5708-8204-65f10fa1bcb4",
@@ -18381,10 +18605,6 @@
       "body": "This unit is eligible to declare a charge in a turn in which it Advanced."
     },
     {
-      "id": "b625a87b-c68f-5ed2-8118-98269bc074c0",
-      "body": "Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" of this model."
-    },
-    {
       "id": "f2ae9ace-0494-552e-886d-566ee81aba31",
       "body": "This model has the Feel No Pain 3+ ability against Psychic Attack and mortal wounds."
     },
@@ -18435,6 +18655,10 @@
     {
       "id": "194e528d-85f5-5b3b-a36f-f161cd1d9ae0",
       "body": "In your Command phase, if this model is on the battlefield, roll 2D6: on a 7+, you gain 1CP."
+    },
+    {
+      "id": "b625a87b-c68f-5ed2-8118-98269bc074c0",
+      "body": "Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" of this model."
     },
     {
       "id": "0e51988a-01e1-5468-b352-61af916ed7cc",
@@ -19272,7 +19496,7 @@
     },
     {
       "id": "4bd70a54-9645-5b13-96ae-7dc81c644fcb",
-      "body": "This model can be attached to the following units:\n\n• Assault Intercessor Squad\n• Bladeguard Veteran Squad\n• Infernus Squad\n• Intercessor Squad\n• Sternguard Veteran Squad\n• Tactical Squad"
+      "body": "This model can be attached to the following units:\n\n• ASSAULT INTERCESSOR SQUAD\n• BLADEGUARD VETERAN SQUAD\n• INFERNUS SQUAD\n• INTERCESSOR SQUAD\n• STERNGUARD VETERAN SQUAD\n• TACTICAL SQUAD"
     },
     {
       "id": "707f79e0-6d0e-5ed7-b780-3ac8ff862daf",
@@ -19543,12 +19767,16 @@
       "body": "This model can be attached to the following units:\n\n• ASSAULT INTERCESSORS WITH JUMP PACKS\n• VANGUARD VETERAN SQUAD WITH JUMP PACKS"
     },
     {
-      "id": "eae866b5-5327-56ab-be38-b5cdb296c64e",
-      "body": "This model can be attached to the following unit:\n\n• PLAGUE MARINES\n\n*You can attach this model to a* PLAGUE MARINES *unit, even if one other Leader unit has already been attached to* it *(you cannot attach more than one of the same Leader to the same unit). If you do, and that Bodyguard unit* is *destroyed, the Leader units attached to* it *become separate units, with their original Starting Strengths.*"
-    },
-    {
       "id": "a1c804e2-9a40-5469-af71-0ea01841efa7",
       "body": "This model has a transport capacity of 14 THOUSAND SONS INFANTRY models. Each TERMINATOR model takes up the space of 2 models."
+    },
+    {
+      "id": "3b2c51a4-a91d-592d-83a1-c77a815a380c",
+      "body": "This model can be attached to the following unit:\n\n• PLAGUE MARINES\n\n*You can attach this model to a* PLAGUE MARINES *unit, even if one other Leader unit has already been attached to it (you cannot attach more than one of the same Leader to the same unit). If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.*"
+    },
+    {
+      "id": "eae866b5-5327-56ab-be38-b5cdb296c64e",
+      "body": "This model can be attached to the following unit:\n\n• PLAGUE MARINES\n\n*You can attach this model to a* PLAGUE MARINES *unit, even if one other Leader unit has already been attached to it (you cannot attach more than one of the same Leader to the same unit). If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.*"
     },
     {
       "id": "9e1d97c3-38ae-54cf-81d9-21db772ae215",
@@ -19624,7 +19852,7 @@
     },
     {
       "id": "4a3d795c-1a6a-5604-a7d1-d91ebf8e198d",
-      "body": "This model can be attached to the following unit:\n\n• PLAGUE MARINES\n\n*You can attach this model to a* PLAGUE MARINES *unit, even if one other Leader unit has already been attached* to it (*you cannot attach more than one of the same Leader to the same unit). If you do, and that Bodyguard unit* is *destroyed, the Leader units attached to* it *become separate units, with their original Starting Strengths.*"
+      "body": "This model can be attached to the following unit:\n\n• PLAGUE MARINES\n\n*You can attach this model to a* PLAGUE MARINES *unit, even if one other Leader unit has already been attached to it (you cannot attach more than one of the same Leader to the same unit). If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.*"
     },
     {
       "id": "919db3ca-e792-5d48-9f79-713b0e6ef5f4",
@@ -19831,6 +20059,10 @@
       "body": "This model has a transport capacity of 12 EMPEROR'S CHILDREN INFANTRY models (excluding TERMINATOR and FLAWLESS BLADE models)."
     },
     {
+      "id": "c0b5f49d-837d-5bb1-869d-475af138183f",
+      "body": "This unit can be attached to the following units:\n\n• RAVENERS"
+    },
+    {
       "id": "9342e0e7-ccae-5b22-8cb5-3c3b30dff29d",
       "body": "This model can be attached to the following unit:\n\n• RAPTORS"
     },
@@ -19933,6 +20165,10 @@
     {
       "id": "0897ed3e-9336-5163-a9e3-1e25f94ee483",
       "body": "If this unit has a Starting Strength of 20, you can attach up to two Leader units to it instead of one, provided those Leaders are not duplicates (e.g. you cannot attach two WAR SHAPERS to this unit). If you do, and this unit is destroyed, the Leader units attached to it become separate units with their original Starting Strengths."
+    },
+    {
+      "id": "312c2f8b-b936-5d52-adcb-182a0584757f",
+      "body": "If a CHARACTER unit from your army with the Leader ability can be attached to a KATAPHRON BREACHERS unit, it can be attached to this unit instead."
     },
     {
       "id": "4b102cea-56e7-5d9f-bce9-f96d336a1de4",
@@ -20129,10 +20365,6 @@
     {
       "id": "db392463-8752-5555-b04e-0b336f847e45",
       "body": "This model cannot be selected to be your WARLORD.\n\nIf your army faction is AGENTS OF THE IMPERIUM, then during the Declare Battle Formations step, you can replace this model with a different OFFICIO ASSASSINORUM model, provided the total points value of the new model does not exceed the points value of the model it replaced. Your army cannot include duplicates of the same model (i.e. after replacing a model with this rule, your army cannot have more than 1 VINDICARE Assassin, it cannot have more than 1 CULEXUS ASSASSIN, it cannot have more than 1 EVERSOR ASSASSIN and it cannot have more than 1 CALLIDUS ASSASSIN)."
-    },
-    {
-      "id": "3b2c51a4-a91d-592d-83a1-c77a815a380c",
-      "body": "This model can be attached to the following unit:\n\n• PLAGUE MARINES\n\n*You can attach this model* to *a* PLAGUE MARINES *unit, even if one other Leader unit has already been attached* to *it (you cannot attach more than one of the same Leader* to *the same unit). If you do, and that Bodyguard unit* is *destroyed, the Leader units attached* to *it become separate units, with their original Starting Strengths.*"
     },
     {
       "id": "244a3457-3a13-547d-bb68-da28d84e82bd",
@@ -20769,10 +21001,6 @@
       "body": "The bearer has a 4+ invulnerable save."
     },
     {
-      "id": "47f7d4d3-1d14-5c9a-b580-9b6ee7c423cc",
-      "body": "The bearer has a Save characteristic of 4+."
-    },
-    {
       "id": "a871d601-06f3-53aa-8f8c-cbb686015fb4",
       "body": "Each time a model in the bearer's unit makes an attack, re-roll a Hit roll of 1."
     },
@@ -21377,6 +21605,14 @@
     {
       "id": "d242b5b6-b767-5ee7-9289-6bae80e87339",
       "body": "Weapons with ANTI-KEYWORD X+ in their profile are known as Anti weapons. Each time an attack is made with such a weapon against a target with the keyword after the word 'Anti-', an unmodified Wound roll of 'x+' scores a Critical Wound."
+    },
+    {
+      "id": "3a73bebe-7dcb-5e5c-9d6b-d1847bd228bd",
+      "body": "Weapons with ANTI-KEYWORD X+ in their profile are known as Anti weapons. Each time an attack is made with such a weapon against a target with the keyword after the word 'Anti-', an unmodified Wound roll of 'x+' scores a Critical Wound."
+    },
+    {
+      "id": "3b5c0565-c1da-513f-8214-3210c2f5220f",
+      "body": "Weapons with ANTI-KEYWORD X+ in their profile are known as Anti weapons. Each time an attack is made with such a weapon against a target with the keyword after the word 'Anti-', an unmodified Wound roll of 'x+' scores a Critical Wound."
     }
   ],
   "allyAbilities": [
@@ -21471,6 +21707,10 @@
     {
       "id": "a635fd65-313a-579d-aab8-3187b970ca56",
       "body": "In the Muster Armies step, you can select up to 2 TRYGON models from your army. The selected units gain the CHARACTER keyword."
+    },
+    {
+      "id": "1df66a95-b3b5-5e9b-96aa-9fa6fb3599d2",
+      "body": "When mustering your army, select three WAR DOG units from your army. Until the end of the battle, those units have the CHARACTER keyword."
     }
   ]
 }
