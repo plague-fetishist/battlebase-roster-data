@@ -6,7 +6,7 @@
     },
     {
       "id": "00dce0f8-bfa0-5e4c-9bcf-5733258b0f37",
-      "body": "If your Army Faction is DRUKHARI, units from your army with this ability can become Empowered Through Pain. This is done using Pain tokens.\n\nGAINING PAIN TOKENS\n\nIf your Army Faction is DRUKHARI, you gain Pain tokens as follows:\n\n• At the start of the battle, depending on the battle size:\nIn a Combat Patrol battle, you start with one Pain token. In an Incursion battle, you start with two Pain tokens. In a Strike Force battle, you start with three Pain tokens. In an Onslaught battle, you start with four Pain tokens.\n• Each time an enemy unit is destroyed, you gain 1 Pain token.\n• Each time an enemy unit fails a Battle-shock test, you gain 1 Pain token.\n\nEach time you gain a Pain token, keep it to one side - this is your Pain token pool.\n\nEMPOWERED THROUGH PAIN\n\nAt the start of any phase, you can expend one or more Pain tokens from your Pain token pool. Each time you do, select one unit from your army with the Power from Pain ability. Until the end of the phase, that unit is Empowered, and gains the abilities listed below, depending on the phase.\n\n• Empowered in the Movement or Charge phase:\n◦ You can re-roll Advance or Charge rolls made for that unit.\n\n• Empowered in the Shooting or Fight phase:\n◦ Each time a model in that unit makes an attack, you can re-roll the Hit roll and, if it is a melee attack, improve the Armour Penetration characteristic of that attack by 1."
+      "body": "\nPain Abilities\n\nAll DRUKHARI units have a Pain ability, tagged with the word 'Pain'. Pain abilities only apply to a unit while it is Empowered. If your Army Faction is DRUKHARI, you can Empower units from your army with Pain abilities by spending Pain tokens (see below).\n\nDesigner's Note: *You can also spend Pain tokens to activate additional effects in certain other rules such as Enhancements and Stratagems.*\n\nGaining Pain Tokens\n\nIf your Army Faction is DRUKHARI, you gain Pain tokens as follows:\n\n• 1 Pain token at the start of your Command phase.\n• 1 Pain token each time an enemy unit is destroyed.\n• 1 Pain token each time an enemy unit fails a Battle‑shock test.\n\nEach time you gain a Pain token, keep it to one side - this is your Pain token pool. Each time you spend a Pain token, reduce your Pain token pool by the same amount.\n\nEmpowered Through Pain\n\nEach Pain ability will state when you can spend Pain tokens to Empower that unit. When you do, until the end of the phase, that unit is Empowered and all Pain abilities it has take effect. While an Attached unit is Empowered, the Pain abilities of all Leader and Bodyguard units in that unit take effect - you do not need to spend additional Pain tokens to activate each of those Pain abilities.\nExample: *At the start of your Charge phase, you spend 1 Pain token to Empower a unit of Wyches. The unit becomes Empowered, and so its Acrobatic Gladiators ability takes effect until the end of the phase. A Succubus is leading the unit, and so its Lithe Agility ability also takes effect until the end of the phase (no additional Pain token is required to activate that ability as well).*"
     },
     {
       "id": "05baa4c2-d1af-5249-a501-bee382654ec0",
@@ -470,7 +470,7 @@
     },
     {
       "id": "0d5ac525-3335-5687-8c35-13a9fdd476d3",
-      "compositionBody": "• 1 Archon\n\nThis model is equipped with: splinter pistol; huskblade."
+      "compositionBody": "• 1 Archon\n\nThis model is equipped with: splinter pistol; huskblade; shadowfield."
     },
     {
       "id": "0d8dcf70-7e84-5a2a-b5b7-80a00b00a638",
@@ -629,10 +629,6 @@
       "compositionBody": "• 10 Storm Guardians\n• 1 Serpent's Scale Platform\n\nEvery Storm Guardian is equipped with: shuriken pistol; close combat weapon.\n\nThe Serpent's Scale Platform is equipped with: close combat weapon; Serpent shield."
     },
     {
-      "id": "15ce9c91-49fc-5a29-b73c-7eda6ea985b1",
-      "compositionBody": "• 1 Beastmaster\n• 1 Clawed Fiends\n• 2 Khymerae\n• 3 Razorwing Flocks\n\nThe Beastmaster is equipped with: splinter pods; agoniser.\nEvery Clawed Fiend is equipped with: Clawed Fiend fists.\nEvery Khymerae is equipped with: Khymerae talons.\nEvery Razorwing Flock is equipped with: Razorwing feathers."
-    },
-    {
       "id": "15e3931e-920e-576f-80c6-682eef0937c8",
       "compositionBody": "• 1 Primus\n\nThis model is equipped with: scoped needle pistol; cult bonesword; toxin injector claw."
     },
@@ -720,7 +716,7 @@
     },
     {
       "id": "1c11ca24-8bdd-5b7b-9a48-02cf2c8830c7",
-      "compositionBody": "• 1 Solarite\n• 4-9 Scourges\n\nEvery model is equipped with: shardcarbine; close combat weapon."
+      "compositionBody": "• 1 Solarite\n• 4 Scourges\n\nEvery model is equipped with: shardcarbine; close combat weapon."
     },
     {
       "id": "1c4fa807-9d82-5538-b1a8-b7bfb2632aa8",
@@ -1192,6 +1188,10 @@
       "compositionBody": "• 1 Lord Solar Leontus - EPIC HERO\n\nThis model is equipped with: Sol's Righteous Gaze; Conquest; Konstantin's hooves."
     },
     {
+      "id": "373bcf67-89e9-5fb3-8eb4-c8ad834b3eb1",
+      "compositionBody": "• 1 Kabalite Archsybarite\n• 9 Kabalite Agents\n\nEvery model is equipped with: splinter rifle; close combat weapon."
+    },
+    {
       "id": "37bd13b9-eed4-5e01-ad63-4ed67ba19ce5",
       "damageBody": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Repulsor\n\nThis model is equipped with: heavy onslaught gatling cannon; hunter-slayer missile; Repulsor defensive array; twin heavy bolter; armoured hull."
@@ -1284,7 +1284,7 @@
     },
     {
       "id": "3f3baf37-6fa9-5e22-9903-679bf18cff66",
-      "compositionBody": "• 1 Raider\n\nThis model is equipped with: dark lance; bladevanes."
+      "compositionBody": "• 1 Raider\n\nThis model is equipped with: dark lance; bladevanes and chainsnares."
     },
     {
       "id": "3f858610-a7f0-52b4-8a11-bbed8e3ba82c",
@@ -1440,7 +1440,7 @@
     },
     {
       "id": "49b365c4-7039-5520-ba1e-4cb6de80d1ec",
-      "compositionBody": "• 1 Succubus\n\nThis model is equipped with: Succubus weapons."
+      "compositionBody": "• 1 Succubus\n\nThis model is equipped with: Archite glaive and agoniser."
     },
     {
       "id": "49b49a61-68fa-54b1-8d3b-2813a1de13b1",
@@ -1788,10 +1788,6 @@
       "id": "5fbcccce-ae30-5aeb-8542-b953ad69533b",
       "damageBody": "While this model has 1-9 wounds remaining, subtract 5 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Knight Paladin\n\nThis model is equipped with: meltagun; Questoris heavy stubber; rapid-fire battle cannon; reaper chainsword."
-    },
-    {
-      "id": "6045c94e-7849-5eb6-8d76-a0417adea87b",
-      "compositionBody": "• 1 Lhamaean\n• 1 Medusae\n• 1 Sslyth\n• 1 Ur-ghul\n\nA Lhamaean is equipped with: shaimeshi blade.\nA Medusae is equipped with: eyeburst; close combat weapon.\nA Sslyth is equipped with: shardcarbine; splinter pistol; Sslyth battle-blade.\nAn Ur-ghul is equipped with: Ur-ghul talons."
     },
     {
       "id": "605e25cd-9633-5da2-903f-b85813cad370",
@@ -2763,7 +2759,7 @@
     },
     {
       "id": "9a6d7e96-4c76-5eb2-8852-267b648d6f74",
-      "compositionBody": "• 1 Acothyst\n• 4-9 Wracks\n\nEvery model is equipped with: Wrack blades."
+      "compositionBody": "• 1 Acothyst\n• 4-9 Wracks\n\nEvery model is equipped with: twin torturer's tools."
     },
     {
       "id": "9aa830fa-4a33-5ec7-8b28-5a228fed8bff",
@@ -3469,7 +3465,7 @@
     },
     {
       "id": "c666ffaf-3f3d-5d1e-8b61-adf34b1de930",
-      "compositionBody": "• 1 Drazhar - EPIC HERO\n\nThis model is equipped with: the Executioner's demiklaives."
+      "compositionBody": "• 1 Drazhar - EPIC HERO\n\nThis model is equipped with: Executioner's demiklaives."
     },
     {
       "id": "c6e33b2d-c29a-5e53-9ded-d4a857411925",
@@ -3514,10 +3510,6 @@
     {
       "id": "cac1fb47-8796-5764-9f2e-ebec9e378c8a",
       "compositionBody": "• 1 Skorpekh Lord\n\nThis model is equipped with: enmitic annihilator; flensing claw; hyperphase harvester."
-    },
-    {
-      "id": "cb0aba9f-a096-5845-9989-42f90ff6fee6",
-      "compositionBody": "• 1 Urien Rakarth - EPIC HERO\n\nThis model is equipped with: Casket of Flensing; Haemonculus tools and scissorhands."
     },
     {
       "id": "cb648bf6-b5b8-591a-b853-369297251f72",
@@ -3905,6 +3897,10 @@
       "compositionBody": "• 1 Lucius the Eternal - EPIC HERO\n\nThis model is equipped with: Blade of the Laer; Lash of Torment."
     },
     {
+      "id": "df1915f6-c3cc-5840-a818-95140cebff21",
+      "compositionBody": "• 1 Lady Malys - Epic Hero\n\nThis model is equipped with: Lady's Blade; razor fan."
+    },
+    {
       "id": "df775c94-e425-599a-ab25-ad7a52a2b6fd",
       "compositionBody": "• 1 Tranceweaver\n\nThis model is equipped with: ravaging claws."
     },
@@ -4146,6 +4142,10 @@
       "compositionBody": "• 1 Apothecary Biologis\n\nThis model is equipped with: absolvor bolt pistol; close combat weapon."
     },
     {
+      "id": "edc8855a-d657-5169-940c-e10186ff82b5",
+      "compositionBody": "• 1 Solarite\n• 4 Scourges\n\nThe Solarite is equipped with: shardcarbine; close combat weapon.\nEvery Scourge is equipped with: splinter cannon; close combat weapon."
+    },
+    {
       "id": "edf58b6b-14c2-5e9b-adea-fb0fd909ea0e",
       "damageBody": "While this model has 1‑5 wounds remaining, subtract 3 from this model's Objective Control characteristic and each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 War Dog Karnivore\n\nThis model is equipped with: diabolus heavy stubber; reaper chaintalon; slaughterclaw."
@@ -4369,10 +4369,6 @@
       "compositionBody": "• 1 Archon\n\nThis model is equipped with: splinter pistol; huskblade, shadow field."
     },
     {
-      "id": "fc5920ad-5646-5e9a-b8a2-7fcf97e976bc",
-      "compositionBody": "• 3-6 Grotesques\n\nEvery model is equipped with: monstrous weapons."
-    },
-    {
       "id": "fca6c96d-f286-5355-84d6-bfff081667ce",
       "compositionBody": "• 1 Belial - EPIC HERO\n\nThis model is equipped with: master-crafted storm bolter; the Sword of Silence."
     },
@@ -4535,7 +4531,7 @@
     },
     {
       "id": "1573a7bf-0caf-5c74-a857-503c6ea2cd83",
-      "body": "Each time a DRUKHARI unit from your army disembarks from a TRANSPORT, until the end of the turn, that unit's ranged weapons have the IGNORES COVER ability and that unit's melee weapons have the LANCE ability."
+      "body": "Each time a DRUKHARI unit from your army disembarks from a TRANSPORT, until the end of the turn:\n\n• Ranged weapons equipped by models in that disembarking unit have the IGNORES COVER ability.\n• Melee weapons equipped by models in that disembarking unit have the LANCE ability."
     },
     {
       "id": "1627e7d8-deb6-55a7-8b6b-f12d18979618",
@@ -4600,6 +4596,14 @@
     {
       "id": "275f71a9-0dca-5e10-8e7c-36a4a84d266a",
       "body": "• While an EMPEROR'S CHILDREN unit from your army is within 6\" of one or more friendly LEGIONS OF EXCESS units, it is Empowered.\n• While a LEGIONS OF EXCESS unit from your army is within 6\" of one or more friendly EMPEROR'S CHILDREN units, it is Empowered.\n\nWhile a unit from your army is Empowered, weapons equipped by models in that unit have the SUSTAINED HITS 1 ability. If such a weapon already has that ability, each time an attack is made with that weapon, an unmodified Hit roll of 5+ scores a Critical Hit."
+    },
+    {
+      "id": "2a3964ea-5577-5787-a478-f90989670752",
+      "body": "Each time an attack targets a HAEMONCULUS COVENS unit from your army, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
+    },
+    {
+      "id": "2b69c8de-b9d4-56d8-847c-5af463f81c7f",
+      "body": "At the start of the first battle round, select one of the Contracts below, then select one unit from your opponent's army that matches the 'Contract' description in that Contract. Until that Contract is completed, that unit is your Contract unit and KABAL and BLADES FOR HIRE units from your army have the ability stated in that Contract. At the start of your Command phase, if your Contract unit is destroyed, that Contract is completed and you gain 3 Pain tokens.\n\nTrophy Hunters\n\nContract: One CHARACTER unit.\n\nAbility: Each time a KABAL or BLADES FOR HIRE model in this unit makes an attack that targets the Contract unit, that attack has the PRECISION ability.\n\nSow Fear and Terror\n\nContract: One INFANTRY or MOUNTED unit (excluding units containing only CHARACTER models). At the start of your Command phase, this Contract is completed if all non‑CHARACTER models in that unit are destroyed.\n\nAbility: Each time a KABAL or BLADES FOR HIRE model in this unit makes an attack that targets an INFANTRY or MOUNTED unit, that attack has the SUSTAINED HITS 1 ability.\n\nShow of Strength\n\nContract: One MONSTER or VEHICLE unit.\n\nAbility: Each time a KABAL or BLADES FOR HIRE model in this unit makes an attack that targets a MONSTER or VEHICLE unit, that attack has the LETHAL HITS ability."
     },
     {
       "id": "2ba0c667-0795-5ccf-8463-9d506f434463",
@@ -4746,6 +4750,10 @@
       "body": "In the Declare Battle Formations step, you can select a number of LEGIONARIES and CULTIST MOB units from your army: until the end of the battle, those units, and any CHARACTER units attached to them (excluding EPIC HEROES), have the Infiltrators ability. The maximum number of units you can select in this way depends on the battle size, as shown below.\nA table showing the number of units that gain the Infiltrators ability, depending on the battle size. In Incursion games, up to 2 Legionaries units and up to 2 Cultist Mob units. In Strike Force games, up to 3 Legionaries units and up to 3 Cultist Mob units. In Onslaught games, up to 4 Legionaries units and up to 4 Cultist Mob units."
     },
     {
+      "id": "5af1a07f-e9fd-5d9d-b44d-7369efa05574",
+      "body": "At the start of your Command phase, select which Combat Drugs will be active for your army until the start of your next Command phase. To do so, either select one from the list below (you cannot select the same Combat Drug more than once per battle), or randomly select two by rolling two D6. When doing so randomly, Combat Drugs you have previously selected can become active again, but if you randomly select one that is already active for your army, it has no additional effect.\n\n1. Adrenalight\n\nAdd 1 to the Attacks characteristic of melee weapons equipped by WYCH CULT models from your army.\n\n2. Hypex\n\nAdd 2\" to the Move characteristic of WYCH CULT models from your army.\n\n3. Serpentin\n\nImprove the Weapon Skill characteristic of melee weapons equipped by WYCH CULT models from your army by 1.\n\n4. Painbringer\n\nAdd 1 to the Toughness characteristic of WYCH CULT models from your army.\n\n5. Grave Lotus\n\nAdd 1 to the Strength characteristic of melee weapons equipped by WYCH CULT models from your army.\n\n6. Splintermind\n\nImprove the Leadership characteristic of WYCH CULT models from your army by 1, and improve the Ballistic Skill characteristic of ranged weapons equipped by WYCH CULT models from your army by 1."
+    },
+    {
       "id": "5c99756d-64fa-5e4a-8491-ef68fd291194",
       "body": "Each time a TYRANIDS model from your army makes an attack, re-roll a Hit roll of 1.\n\nEach time a BURROWER unit from your army is set up on the battlefield from Reserves, place a 40mm circular Tunnel Marker anywhere on the battlefield within 1\" of that unit and more than 3\" horizontally away from all enemy units.\n\nIn the Reinforcements step of your Movement phase, when you set up a unit on the battlefield from Reserves, you can set that unit up wholly within 9\" of one of your Tunnel Markers and more than 6\" horizontally away from any enemy units.\n\nIf an enemy model (excluding AIRCRAFT) ends any kind of move within 3\" of one of your Tunnel Markers, that Tunnel Marker is removed from the battlefield."
     },
@@ -4788,10 +4796,6 @@
     {
       "id": "6b48c1ee-faf3-5e31-9017-07eaca7dcae7",
       "body": "Each time an IMPERIAL KNIGHTS unit from your army Advances, until the end of the turn, ranged weapons equipped by IMPERIAL KNIGHTS models from your army have the ASSAULT ability."
-    },
-    {
-      "id": "6bbe8f9c-5d80-5b81-adbc-63055fff1b3f",
-      "body": "If your Army Faction is DRUKHARI, you can include HARLEQUINS and ANHRATHE units in your army, even though they do not have the DRUKHARI Faction keyword. The combined points value of HARLEQUINS and/or ANHRATHE units you can include in your army depends on the battle size, as follows:\n\n• Incursion: Up to 250 pts\n• Strike Force: Up to 500 pts\n• Onslaught: Up to 750 pts\n\nNo HARLEQUINS or ANHRATHE models included in your army in this way can be your Warlord, and they cannot be given Enhancements.'"
     },
     {
       "id": "6dae4e29-efe6-5618-8075-fc48db020837",
@@ -5222,10 +5226,6 @@
       "body": "At the start of the battle round, select one of the following Psychic Disciplines. Until the end of the battle round, that Psychic Discipline is active and its effects apply to all ADEPTUS ASTARTES PSYKER units from your army.\n\nBiomancy Discipline\n\nAdd 2\" to the Move characteristic of models in this unit.\n\nDivination Discipline\n\nEach time a model in this unit makes an attack, re‑roll a Hit roll of 1 and re‑roll a Wound roll of 1.\n\nPyromancy Discipline\n\nEach time a ranged attack made by a model in this unit targets an enemy unit within 12\", improve the Armour Penetration characteristic of that attack by 1.\n\nTelekinesis Discipline\n\nEach time a ranged attack targets this unit, subtract 1 from the Strength characteristic of that attack.\n\nTelepathy Discipline\n\nEach time a model in this unit makes an attack, you can ignore any or all modifiers to that attack's Weapon Skill or Ballistic Skill characteristics and/or any or all modifiers to the Hit roll."
     },
     {
-      "id": "dc96c2ed-5fb6-5b20-a276-1f9f2f695725",
-      "body": "If your Army Faction is DRUKHARI, you can include HARLEQUINS and ANHRATHE units in your army, even though they do not have the DRUKHARI Faction keyword. The combined points value of HARLEQUINS and/or ANHRATHE units you can include in your army depends on the battle size, as follows:\n\n• Incursion: Up to 250 pts\n• Strike Force: Up to 500 pts\n• Onslaught: Up to 750 pts\n\nNo HARLEQUINS or ANHRATHE models included in your army in this way can be your Warlord, and they cannot be given Enhancements.'"
-    },
-    {
       "id": "df19b104-9681-5189-b112-59d699b4dfab",
       "body": "While a PLAGUE LEGIONS unit from your army is within 7\" of one or more DEATH GUARD units from your army, that PLAGUE LEGIONS unit has the Nurgle's Gift ability.\n\nWhile a DEATH GUARD unit from your army is within 7\" of one or more PLAGUE LEGIONS units from your army, add 3\" to that DEATH GUARD unit's Contagion Range."
     },
@@ -5303,7 +5303,7 @@
     },
     {
       "id": "f98c9a6b-9dc2-5b0d-a734-fecf728079e1",
-      "body": "At the start of the battle, you gain an additional 1 Pain token for each of the following your army contains:\n\n• One or more ARCHON models\n• One or more SUCCUBUS models\n• One or more HAEMONCULUS models\nDesigner's Note: These are all cumulative, so if your army contains at least one Archon, at least one Succubus and at least one Haemonculus, you would start the battle with an additional 3 Pain tokens."
+      "body": "At the start of the battle, you gain 2 Pain tokens for each of the following combinations your army contains (these do not need to be in the same Attached unit):\n\n• One or more ARCHON models and one or more KABALITE WARRIORS units.\n• One or more SUCCUBUS models and one or more WYCHES units.\n• One or more HAEMONCULUS models and one or more WRACKS units.\n\nDesigner's Note: *These are all cumulative, so if your army contains at least one of all of the combinations listed above, you start the battle with 6 Pain tokens.*"
     },
     {
       "id": "f9b57f7a-fa3c-5513-a49a-25090edadc7a",
@@ -5617,7 +5617,7 @@
     },
     {
       "id": "1b3aaac0-f576-558a-b4e2-10348e49b572",
-      "body": "ARCHON model only. Each time you select the bearer's unit as the target of a Stratagem, roll one D6, adding 3 to the result if the Stratagem being used is Alliance of Agony: on a 4+, you gain 1CP."
+      "body": "ARCHON model only. At the start of your Command phase, if the bearer is on the battlefield, you can do one of the following:\n\n• Spend 1 Pain token and gain 1CP.\n• Roll one D6: on a 4+, you gain 1CP."
     },
     {
       "id": "1b3b117b-63a0-515a-b07d-234de60b7c2a",
@@ -5924,6 +5924,10 @@
       "body": "GREY KNIGHTS INFANTRY model only. In your Movement phase, each time the bearer's unit disembarks from a TRANSPORT, until the end of the turn, you can re-roll Charge rolls made for that unit."
     },
     {
+      "id": "394401b6-2498-5171-8936-06e4aacb4c62",
+      "body": "DRUKHARI model only. The bearer's unit is always Empowered - you do not need to spend any Pain tokens to activate that unit's Pain abilities."
+    },
+    {
       "id": "39adae9c-7c2d-516a-9bea-916d3b9ac951",
       "body": "HERETIC ASTARTES model only. In the Fight phase, after the bearer has made its attacks, select one enemy unit hit by one or more of those attacks. That unit must take a Battle-shock test."
     },
@@ -6070,10 +6074,6 @@
     {
       "id": "48830706-1706-5330-80e8-b2a4819d9d86",
       "body": "MALIGNANT PLAGUECASTER only. While the bearer is leading a POXWALKERS unit, add 1 to the Damage characteristic of the bearer's Plague Wind weapon. Each time the bearer makes one or more attacks with a Plague Wind weapon, after the bearer's unit has resolved its attacks, D3 Bodyguard models from the bearer's unit are destroyed."
-    },
-    {
-      "id": "498284f5-d936-5219-b588-0931562246da",
-      "body": "DRUKHARI model only. In your Command phase, if the bearer is on the battlefield, you gain 1 Pain token."
     },
     {
       "id": "49df3c25-812d-5f7f-ad47-b2512cd819d8",
@@ -6226,6 +6226,10 @@
     {
       "id": "5753afea-c822-5b6e-9829-3dd5ebf6e5a6",
       "body": "WORLD EATERS DAEMON model only. The bearer's Deadly Demise ability inflicts mortal wounds on a D6 roll of 2+ instead of on a 6. In addition, the bearer has the Deadly Demise D3+1 ability, instead of the Deadly Demise D3 ability."
+    },
+    {
+      "id": "57910d91-4630-58db-9066-30ee3342094e",
+      "body": "HAEMONCULUS model only. Add 3\" to the range of the bearer's Fear Incarnate ability, and each time a friendly DRUKHARI unit within 9\" of the bearer fails a Battle‑shock test or is destroyed, roll one D6: on a 4+, you gain 1 Pain token."
     },
     {
       "id": "57d9e300-083b-5c8f-87fb-6a5d3d7514d9",
@@ -6540,12 +6544,16 @@
       "body": "TECHMARINE model only. In your Command phase, select one ADEPTUS ASTARTES VEHICLE model within 6\" of the bearer. Until the start of your next Command phase, weapons equipped by that VEHICLE model have the LETHAL HITS ability."
     },
     {
+      "id": "6e371c3d-f0ab-5ea9-b933-2a74ba4fecbc",
+      "body": "SUCCUBUS model only. Improve the Armour Penetration and Damage characteristics of the bearer's melee weapons by 1."
+    },
+    {
       "id": "6e536a58-72ed-54c6-8250-a1873629d3b8",
       "body": "HERETIC ASTARTES INFANTRY model (excluding DAMNED models) only. Enemy units that are set up on the battlefield from Reserves cannot be set up within 12\" of the bearer."
     },
     {
       "id": "6e9ff92e-ed0a-5d66-8ab6-4e1fc8c6bcf3",
-      "body": "HAEMONCULUS model only. Once per battle, at the start of any Shooting phase, the bearer can use this Enhancement. When it does, every enemy unit within 12\" must take a Battle-shock test, subtracting 1 from that test if the bearer's unit is currently Empowered. Each time a PSYKER unit fails this test, it suffers D3 mortal wounds."
+      "body": "HAEMONCULUS model only. Once per battle, in your Shooting phase, the bearer can use this Enhancement. If it does, you can spend 1 Pain token. Then, each enemy unit within 12\" of the bearer must take a Battle‑shock test, subtracting 1 from that test if you spent 1 Pain token. Each time a PSYKER unit fails that test, it suffers 3 mortal wounds."
     },
     {
       "id": "6fd241b5-1651-51bc-a5c3-782222e77143",
@@ -6574,6 +6582,14 @@
     {
       "id": "7157362c-bbf9-5b11-925d-d4b4d4c153e9",
       "body": "CHAOS KNIGHTS model only. The bearer has a 4+ invulnerable save against ranged attacks, and a 5+ invulnerable save against melee attacks."
+    },
+    {
+      "id": "72094924-efa2-5111-b747-2972819ffd83",
+      "body": "HAEMONCULUS model only. Each time the bearer uses its Fleshcraft ability, you can return up to D3+3 destroyed Bodyguard models to the bearer's unit instead of D3+1."
+    },
+    {
+      "id": "722610a6-1d6b-541d-87a5-f83dd3a3718c",
+      "body": "SUCCUBUS model only. Once per battle, at the start of the Fight phase, the bearer can use this Enhancement. If it does, until the end of the phase, models in the bearer's unit have the Fights First ability."
     },
     {
       "id": "7227e0eb-bc60-59ce-a2d8-9eca0742522a",
@@ -6645,7 +6661,7 @@
     },
     {
       "id": "7657f60a-66ef-5800-88a9-aa554dbe8805",
-      "body": "DRUKHARI model only. Each time you expend a Pain token to Empower the bearer's unit in the Shooting phase, you can select one friendly DRUKHARI TRANSPORT within 3” of the bearer's unit; until the end of the phase, that TRANSPORT is also Empowered."
+      "body": "DRUKHARI model only. Each time you spend 1 Pain token to Empower the bearer's unit in the Shooting phase, select one friendly DRUKHARI TRANSPORT within 6\" of the bearer's unit; until the end of the phase, each time that TRANSPORT makes an attack, you can re‑roll the Hit roll."
     },
     {
       "id": "7719df6b-2376-58ae-882e-2139e6708bed",
@@ -6948,8 +6964,16 @@
       "body": "CRYPTEK model only. Once per phase, when an enemy unit selects the bearer's unit as a target of a charge, roll one D6: on a 2-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers 3 mortal wounds."
     },
     {
+      "id": "98f8563e-fe32-5aad-9097-1fde72ed67d7",
+      "body": "ARCHON model only. At the start of the Declare Battle Formations step, select up to three KABALITE WARRIORS and/or HAND OF THE ARCHON units from your army; those units gain the Infiltrators ability."
+    },
+    {
       "id": "997a6175-26fa-5ebe-8363-d9b934878e39",
       "body": "THOUSAND SONS model only. Add 1 to the Strength and Damage characteristics of Psychic weapons equipped by the bearer."
+    },
+    {
+      "id": "999dd623-0d50-5ad3-9de5-e8aebb1baeaf",
+      "body": "SUCCUBUS model only. Enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer's unit."
     },
     {
       "id": "999f5552-6230-5636-b3d6-bab0cd3f70f6",
@@ -7074,6 +7098,10 @@
     {
       "id": "a30b329f-8beb-58d0-92e4-2a2d30b4d099",
       "body": "GREY KNIGHTS model only. In your Shooting phase, each time a model in the bearer's unit makes an attack, improve the Armour Penetration characteristic of that attack by 1."
+    },
+    {
+      "id": "a39562b1-6dc9-55fd-a906-a9bae19c64b4",
+      "body": "ARCHON model only. While the bearer is leading a unit, improve the Leadership and Objective Control characteristics of models in that unit by 1."
     },
     {
       "id": "a3cd7c66-b4f6-5c2b-942b-d1208c306514",
@@ -7217,7 +7245,7 @@
     },
     {
       "id": "afe69df2-d312-5825-aa2c-46036dbf398f",
-      "body": "DRUKHARI model only. While the bearer's unit is wholly within 6” of a friendly DRUKHARI TRANSPORT, models in the bearer's unit have the Benefit of Cover and the Stealth ability."
+      "body": "DRUKHARI model only. While the bearer's unit is wholly within 6\" of a friendly DRUKHARI TRANSPORT:\n\n• Models in the bearer's unit have the Stealth ability.\n• Each time a ranged attack targets the bearer's unit, models in that unit have the Benefit of Cover against that attack."
     },
     {
       "id": "b03d2c77-b200-557b-834c-901cacbb63f5",
@@ -7232,16 +7260,16 @@
       "body": "VOIDFARERS model only. Once per battle round, you can target the bearer's unit with the Violent Acquisition, Masters of the Void or Close‐quarters Barrage Stratagems for 0CP."
     },
     {
+      "id": "b268cefc-01c6-5748-91df-1b0acab446a9",
+      "body": "HAEMONCULUS model only. Add 1 to the bearer's Wounds characteristic and add 1 to the Toughness characteristic of models in the bearer's unit."
+    },
+    {
       "id": "b2868219-2ebc-59c9-99b4-5d4541804c2e",
       "body": "CHAOS KNIGHTS model only. Improve the Weapon Skill characteristic of the bearer's melee weapons by 1. While the bearer is using the Diabolic Power ability, its melee weapons have the LANCE ability"
     },
     {
       "id": "b2897353-2fd3-5d54-8fc5-452c20d3f909",
       "body": "PLAGUE SURGEON only. Each time the bearer uses its Tainted Narthecium ability, you can return up to D3 destroyed models to the bearer's unit (instead of 1)."
-    },
-    {
-      "id": "b2b642ca-79d8-5f2c-bba8-cd60ef796220",
-      "body": "SUCCUBUS model only. Improve the Attacks and Armour Penetration characteristics of the bearer's melee weapons by 1. While the bearer is Empowered, Improve the Attacks and Armour Penetration characteristics of the bearer's melee weapons by 2 instead."
     },
     {
       "id": "b2ba2677-d369-5e09-a8f9-933bf9e01260",
@@ -7350,6 +7378,10 @@
     {
       "id": "c012b8df-164f-54a2-b97f-02bc735ad142",
       "body": "AUTARCH or AUTARCH WAYLEAPER model only. Add 1 to the Damage characteristic of melee weapons equipped by the bearer, and those weapons have the PRECISION ability."
+    },
+    {
+      "id": "c020fdd5-e540-5c59-887f-b0aec213143a",
+      "body": "ARCHON model only. The bearer has a Save characteristic of 3+. At the start of either player's Command phase, you can spend 1 Pain token: if you do, the bearer regains all of its lost wounds."
     },
     {
       "id": "c0862f7c-311c-5c52-8a96-3193dfb45c79",
@@ -7584,6 +7616,10 @@
       "body": "TECH-PRIEST model only. Once per battle round, when a saving throw made for a friendly LEGIO CYBERNETICA or ADEPTUS MECHANICUS VEHICLE model within 12\" of the bearer is failed, the bearer can use this Enhancement. If they do, change the Damage characteristic of that attack to 0."
     },
     {
+      "id": "d91a6ac2-13d2-576e-b2c1-5438bf9d61b1",
+      "body": "ARCHON model only. Models in the bearer's unit have the Deep Strike ability, and you can target the bearer's unit with the Rapid Ingress Stratagem for 0CP."
+    },
+    {
       "id": "d9a0a411-5691-5797-a2eb-977b527582ca",
       "body": "OVERLORD or CATACOMB COMMAND BARGE model only. While a friendly NECRONS unit (excluding TITANIC units) is within 6\" of the bearer, each time a model in that unit makes an attack, re‑roll a Hit roll of 1 and re‑roll a Wound roll of 1."
     },
@@ -7670,6 +7706,10 @@
     {
       "id": "e251a7ea-1b55-5508-abd5-108ecba2dd61",
       "body": "DEATH COMPANY model only. Once per battle, at the start of the Fight phase, if the bearer is within Engagement Range of one or more enemy CHARACTER units, you can select one of those CHARACTER units and roll six D6: for each 4+, one CHARACTER model in that unit suffers 1 mortal wound."
+    },
+    {
+      "id": "e2b7ced2-925a-5d24-8c9b-e2b817c4b6b9",
+      "body": "SUCCUBUS model only. Improve the Attacks and Armour Penetration characteristics of the bearer's melee weapons by 1. Each time the bearer's unit is selected to fight, you can spend 1 Pain token; if you do, until the end of the phase, improve the Attacks and Armour Penetration characteristics of the bearer's melee weapons by 2 instead."
     },
     {
       "id": "e2ee1603-c7f8-5952-8af6-281f66813906",
@@ -7892,6 +7932,10 @@
       "body": "LEAGUES OF VOTANN model only. Add 2 to the bearer's Wounds characteristic."
     },
     {
+      "id": "f42dab75-b5b4-5833-a076-e3143091806d",
+      "body": "HAEMONCULUS model only. The bearer's weapons have the ANTI‑BEAST 2+ and ANTI‑MONSTER 4+ abilities."
+    },
+    {
       "id": "f46cdbc6-548b-5551-bd8a-08d4c41a18f6",
       "body": "T'AU EMPIRE BATTLESUIT model only. Each time you target the bearer's unit with a Stratagem, roll one D6: on a 4+, you gain 1CP."
     },
@@ -7942,6 +7986,10 @@
     {
       "id": "f6f4c374-050f-52fd-9df3-abf081f1a5a4",
       "body": "SUCCUBUS model only. Each time the bearer makes a melee attack, you can re‑roll the Wound roll."
+    },
+    {
+      "id": "f8108fcb-2d08-5165-997f-43cc798b920e",
+      "body": "SUCCUBUS model only. At the start of your Command phase, after selecting which Combat Drugs will be active for your army, roll one D6 and consult the Combat Drugs list (see Detachment Rule). The result rolled applies to the bearer's unit until the start of your next Command phase in addition to any other Combat Drugs that are active for your army. If you randomly select one that is already active for your army, it has no additional effect."
     },
     {
       "id": "f817fe01-7c8f-5b0c-bdfe-4942ed1ececd",
@@ -8525,7 +8573,7 @@
       "id": "176bf86c-612b-5c8c-8f45-e98311b1c388",
       "whenBody": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
       "targetBody": "One DRUKHARI VEHICLE unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-      "effectBody": "Until the end of the phase, your unit has a 4+ invulnerable save."
+      "effectBody": "Until the end of the phase, models in your unit have a 4+ invulnerable save."
     },
     {
       "id": "1824e56e-7a1b-5725-baea-b15c8ffa236d",
@@ -8728,6 +8776,12 @@
       "effectBody": "Until the end of the phase, each time an attack is allocated to your unit, subtract 1 from the Damage characteristic of that attack"
     },
     {
+      "id": "208ee5db-8c44-5d6b-ad7a-6256746200ac",
+      "whenBody": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+      "targetBody": "One DRUKHARI unit from your army (excluding HAEMONCULUS COVENS units) that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
+    },
+    {
       "id": "20e54a97-32fa-57ec-b40d-3a315cc9b7d1",
       "whenBody": "End of your opponent's Fight phase.",
       "targetBody": "One EMPEROR'S CHILDREN unit from your army that is wholly within 9\" of one or more battlefield edges and not within 3\" horizontally of one or more enemy units.",
@@ -8859,8 +8913,8 @@
     {
       "id": "273a0ab0-5e75-54bf-a02e-b981354d2563",
       "whenBody": "Your Shooting phase.",
-      "targetBody": "One DRUKHARI unit from your army that disembarked from a TRANSPORT this turn and has not been selected to shoot this phase.",
-      "effectBody": "Until the end of the phase, ranged weapons equipped by models in your unit have the SUSTAINED HITS 1 ability, or the SUSTAINED HITS 2 ability instead if it is a KABALITE WARRIORS unit."
+      "targetBody": "One DRUKHARI unit from your army that has not been selected to shoot this phase and that disembarked from a TRANSPORT this turn.",
+      "effectBody": "Until the end of the phase, ranged weapons equipped by models in your unit have the SUSTAINED HITS 1 ability, or the SUSTAINED HITS 2 ability if your unit is a KABALITE WARRIORS or HAND OF THE ARCHON unit."
     },
     {
       "id": "274f25e7-f6c9-5561-a60e-92459fe09ef5",
@@ -9400,6 +9454,12 @@
       "effectBody": "Until the end of the phase, enemy units that are set up on the battlefield from Reserves cannot be set up within 12\" horizontally of your unit."
     },
     {
+      "id": "3a989504-3683-5014-9229-4d7101c054e8",
+      "whenBody": "Fight phase, just after an enemy unit has selected its targets.",
+      "targetBody": "One KABAL or BLADES FOR HIRE unit from your army that was selected as the target of one or more of the attacking unit's attacks, and one friendly DRUKHARI unit (excluding VEHICLES).",
+      "effectBody": "Until the end of the phase, each time you would allocate an attack to a model in your KABAL or BLADES FOR HIRE unit, if your DRUKHARI unit is within Engagement Range of the attacking model, no saving throw is made for that attack; instead, your DRUKHARI unit suffers a number of mortal wounds equal to the Damage characteristic of that attack."
+    },
+    {
       "id": "3b499388-d4e9-5be8-80f1-62a58af1ab0c",
       "whenBody": "Your Command phase.",
       "targetBody": "One SHADOW LEGION unit from your army.",
@@ -9432,7 +9492,7 @@
     {
       "id": "3c5d6971-93fb-57b5-b13e-230e830c048a",
       "whenBody": "Your opponent's Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
-      "targetBody": "One DRUKHARI TRANSPORT from your army that is not within Engagement Range of one or more enemy units and is within 9\" of the enemy unit that just ended that move.",
+      "targetBody": "One DRUKHARI TRANSPORT from your army that is within 9\" of that enemy unit.",
       "effectBody": "Your TRANSPORT can make a Normal move of up to 6\"."
     },
     {
@@ -9508,6 +9568,12 @@
       "effectBody": "Until the end of the phase, each time a model in that unit makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit."
     },
     {
+      "id": "4028ef44-5c2a-5b00-91f5-64fe07a93e51",
+      "whenBody": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
+      "targetBody": "One WYCH CULT unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Until the end of the phase, models in your unit have a 5+ invulnerable save."
+    },
+    {
       "id": "40899ba7-49cd-5ea0-bb30-4f94ff08f1e8",
       "whenBody": "End of your Command phase.",
       "targetBody": "One GREY KNIGHTS PSYKER unit from your army that is not within Engagement Range of one or more enemy units.",
@@ -9548,6 +9614,12 @@
       "whenBody": "Fight phase.",
       "targetBody": "One ADEPTUS ASTARTES unit from your army that has not been selected to fight this phase.",
       "effectBody": "Until the end of the phase, melee weapons equipped by models in your unit have the PRECISION ability."
+    },
+    {
+      "id": "416db541-d1bb-5392-867c-80cd27095448",
+      "whenBody": "Start of your Movement or Charge phase.",
+      "targetBody": "One WYCH CULT unit from your army.",
+      "effectBody": "Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, you can ignore any or all modifiers to its Move characteristic and to Advance and Charge rolls made for it and, until the end of the turn, each time a model in your unit makes such a move, it can move horizontally through models (when doing so, such a model can move within Engagement Range of such models but cannot end a Normal or Advance move within Engagement Range of them)."
     },
     {
       "id": "417d2efe-15de-56f7-a2ff-3b6d0287d18f",
@@ -9819,6 +9891,12 @@
       "whenBody": "Your Charge phase, just after a GREY KNIGHTS TERMINATOR unit from your army ends a Charge move.",
       "targetBody": "That GREY KNIGHTS unit.",
       "effectBody": "Select one enemy unit within Engagement Range of your unit, then roll one D6 for each model in your unit that is within Engagement Range of that enemy unit: for each 4+, that enemy unit suffers 1 mortal wound (to a maximum of 6 mortal wounds)."
+    },
+    {
+      "id": "4c3a824e-26d1-5c35-95ed-1c808b3fecbb",
+      "whenBody": "Fight phase, just after a HAEMONCULUS COVENS unit from your army has fought.",
+      "targetBody": "That HAEMONCULUS COVENS unit.",
+      "effectBody": "Select one enemy unit (excluding VEHICLES) hit by one or more of your unit's attacks this phase. Until the end of the battle, that enemy unit is poisoned. At the start of each Command phase, roll one D6 for each poisoned unit on the battlefield: on a 4+, that unit suffers D3 mortal wounds."
     },
     {
       "id": "4c693241-12ed-5ef6-8d83-5ed3eca98e9d",
@@ -10106,6 +10184,12 @@
       "effectBody": "Until the end of the battle, each time a friendly SANGUINARY GUARD unit makes an attack that targets the enemy unit that just destroyed your unit, you can re‐roll the Hit roll and you can re‐roll the Wound roll."
     },
     {
+      "id": "5bdd31e6-46c1-59a7-a41b-014602041f4c",
+      "whenBody": "Your Shooting phase.",
+      "targetBody": "One KABALITE WARRIORS or HAND OF THE ARCHON unit from your army that has not been selected to shoot this phase.",
+      "effectBody": "Until the end of the phase, improve the Ballistic Skill and Armour Penetration characteristics of ranged weapons equipped by models in your unit by 1."
+    },
+    {
       "id": "5c3c5767-4f24-5ec6-94b3-e1eb67593e46",
       "whenBody": "Any phase.",
       "targetBody": "One INFANTRY REGIMENT unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed.",
@@ -10216,13 +10300,6 @@
       "effectBody": "Add a new unit to your army identical to your destroyed unit, in Strategic Reserves, at its Starting Strength and with its full wounds remaining."
     },
     {
-      "id": "600827e3-c880-5386-a689-f373fbab00f9",
-      "whenBody": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
-      "targetBody": "One DRUKHARI unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-      "effectBody": "Until the end of the phase, each time an attack that targets your unit, subtract 1 from the Hit roll.",
-      "restrictionBody": "You cannot target a HAEMONCULUS COVENS unit from your army for this Stratagem."
-    },
-    {
       "id": "600ca21e-4fb5-51ce-b8be-40bb87babd15",
       "whenBody": "Your opponent's Shooting phase, just after an enemy unit has shot.",
       "targetBody": "One ADEPTUS ASTARTES TRANSPORT unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
@@ -10233,13 +10310,6 @@
       "whenBody": "Your Shooting phase or the Fight phase, just after a VANGUARD INVADER unit from your army has selected its targets.",
       "targetBody": "That VANGUARD INVADER unit.",
       "effectBody": "Select one enemy unit that was selected as the target of one or more of your unit's attacks. That enemy unit must take a Battle-shock test. Until the end of the phase, each time a model in your unit makes an attack that targets that enemy unit, add 1 to the Hit roll. If the Battle-shock test was failed, add 1 to the Wound roll as well."
-    },
-    {
-      "id": "60152fdf-9a75-505b-a3e3-4d0a9611be3d",
-      "whenBody": "Start of any phase.",
-      "targetBody": "One ARCHON, one SUCCUBUS and one HAEMONCULUS from your army.",
-      "effectBody": "Discard one Pain token from your Pain token pool. Until the end of the phase, all three of those models' units are Empowered.",
-      "restrictionBody": "You can only use this Stratagem if you are able to select all three of the target models stated above."
     },
     {
       "id": "60c14acd-5db4-578b-b1d2-1684ea2840ae",
@@ -10588,6 +10658,12 @@
       "effectBody": "Your unit can make a Normal or Fall Back move before its Deadly Demise ability is resolved, and before any embarked units perform an Emergency Disembarkation. When making this move, your unit can move over enemy units (excluding MONSTERS and VEHICLES) as if they were not there."
     },
     {
+      "id": "6dba1299-b637-5ea5-996f-0cd2d9e913ee",
+      "whenBody": "Your Shooting phase or the Fight phase.",
+      "targetBody": "One KABAL or BLADES FOR HIRE unit from your army that has not been selected to shoot or fight this phase.",
+      "effectBody": "Until the end of the phase, each time a model in your unit makes an attack that targets your Contract unit, an unmodified Hit roll of 5+ scores a Critical Hit."
+    },
+    {
       "id": "6dc3c314-c617-5372-b4ce-9c4b36ee3d40",
       "whenBody": "Fight phase.",
       "targetBody": "One JAKHALS or GOREMONGERS unit from your army that has not been selected to fight this phase and is within Engagement Range of one or more enemy units.",
@@ -10814,6 +10890,12 @@
       "effectBody": "Until the end of the phase, all inferno bolt pistols, inferno boltguns, inferno combi‑bolters and inferno combi‑weapons equipped by models in your unit have the PSYCHIC ability and a Strength characteristic of 5."
     },
     {
+      "id": "74d5d7d1-cb0c-55ee-8f98-9ea7ee2fea5e",
+      "whenBody": "Start of your Movement phase.",
+      "targetBody": "Up to two WYCHES units from your army, or one other DRUKHARI unit from your army, that have not been selected to move this phase.",
+      "effectBody": "Until the end of the phase, each time one of those units Advances, do not make an Advance roll for it. Instead, until the end of the phase, add 6\" to the Move characteristic of models in that unit (this is not cumulative with the REAVERS' Matchless Swiftness ability)."
+    },
+    {
       "id": "75448fd4-f4e8-5e5f-9aad-0e93cf15e0cd",
       "whenBody": "Your Shooting phase or the Fight phase.",
       "targetBody": "One NECRONS unit from your army (excluding TITANIC units) that has not been selected to shoot or fight this phase.",
@@ -10897,7 +10979,7 @@
       "id": "77e896d6-906f-5232-a380-ec817d5b4d10",
       "whenBody": "End of the Fight phase.",
       "targetBody": "One DRUKHARI INFANTRY unit from your army that fought this phase.",
-      "effectBody": "Your unit can make a Normal or Fall Back move, but unless it is a WYCHES unit, it must end that move wholly within 3\" horizontally and 5” vertically of a friendly DRUKHARI TRANSPORT and must embark within that TRANSPORT at the end of that move."
+      "effectBody": "Your unit can make a Normal or Fall Back move, but unless it is a WYCHES unit, it must end that move wholly within 3\" horizontally and 5\" vertically of a friendly DRUKHARI TRANSPORT and must embark within that TRANSPORT at the end of that move (otherwise, it cannot make that move)."
     },
     {
       "id": "780d7802-d1b7-5fae-ae72-2a5d123cc612",
@@ -11122,6 +11204,12 @@
       "effectBody": "Until the end of the turn, each time a model in your unit makes a melee attack, add 1 to the Wound roll."
     },
     {
+      "id": "8271bff0-cd15-5be9-90b2-492934b05987",
+      "whenBody": "Your Movement phase, just after a DRUKHARI unit from your army Falls Back.",
+      "targetBody": "That DRUKHARI unit.",
+      "effectBody": "Until the end of the turn, your unit is eligible to shoot and declare a charge in turn in which it Fell Back."
+    },
+    {
       "id": "827d5431-9a3b-5196-a4cb-0b717cb4666a",
       "whenBody": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
       "targetBody": "One ANATHEMA PSYKANA INFANTRY unit from your army that was selected as the target of one or more of the attacking unit's attacks, and one other friendly ADEPTUS CUSTODES INFANTRY unit (excluding ANATHEMA PSYKANA units) within 6\" of that ANATHEMA PSYKANA INFANTRY unit.",
@@ -11132,6 +11220,12 @@
       "whenBody": "Your Shooting phase.",
       "targetBody": "One ADEPTUS ASTARTES PSYKER unit from your army that is eligible to shoot.",
       "effectBody": "Select one enemy unit within 18\" of and visible to one or more PSYKER models in your unit (excluding units with the Lone Operative ability), and roll six D6, adding 1 to each result if the Telekinesis Discipline is active for your army: for each 4+, that enemy unit suffers 1 mortal wound."
+    },
+    {
+      "id": "82c98bcd-cde2-5de0-a9ba-1507231adc3d",
+      "whenBody": "Fight phase.",
+      "targetBody": "One DRUKHARI unit from your army that made a Charge move this turn and has not been selected to fight this phase.",
+      "effectBody": "Until the end of the phase, melee weapons equipped by models in your unit have the LETHAL HITS ability. If your unit is a WYCHES unit, until the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by models in your unit by 1 as well."
     },
     {
       "id": "82f15695-252b-56fd-87e1-4f96b46ab2d6",
@@ -11334,6 +11428,12 @@
       "effectBody": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
     },
     {
+      "id": "8c7400e0-511c-56cc-b5aa-8fa1cd775a69",
+      "whenBody": "Fight phase, just after an enemy unit has selected its targets.",
+      "targetBody": "One WYCH CULT unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    },
+    {
       "id": "8cbbe709-5bbb-5215-9b79-720a5e6e2bd6",
       "whenBody": "Fight phase.",
       "targetBody": "One WORLD EATERS unit from your army that has not been selected to fight this phase and that made a charge move this turn.",
@@ -11475,6 +11575,13 @@
       "effectBody": "Your unit now declares a charge that targets only that enemy unit, and you resolve that charge. Note that even if that charge is successful, your unit does not receive any Charge bonus this turn."
     },
     {
+      "id": "91b60b0e-7762-5aa3-bc0d-239934158cdd",
+      "whenBody": "End of your opponent's Movement phase.",
+      "targetBody": "One WYCH CULT unit from your army that would be able to declare a charge if it were your Charge phase.",
+      "effectBody": "Select one enemy unit within 9\" of your unit that was set up on the battlefield this phase or that ended a Normal or Advance move this phase. Your unit now declares a charge that targets only that enemy unit, and you resolve that charge.",
+      "restrictionBody": "Even if that charge is successful, your unit does not receive any Charge bonus this turn."
+    },
+    {
       "id": "91f019e8-6575-5677-b589-b6f3269833fd",
       "whenBody": "Fight phase.",
       "targetBody": "One LEAGUES OF VOTANN unit from your army that has not been selected to fight this phase.",
@@ -11485,12 +11592,6 @@
       "whenBody": "Your Charge phase, just after you make a Charge roll for an ADEPTUS ASTARTES unit from your army that disembarked from a TRANSPORT this turn.",
       "targetBody": "That ADEPTUS ASTARTES unit.",
       "effectBody": "Until the end of the phase, each time your unit makes a Charge move, models in your unit can move through models (when doing so, its models can move within Engagement Range of enemy models, but they can only end that move within Engagement Range of enemy models if those enemy models belong to a unit that your unit declared a charge against this turn)."
-    },
-    {
-      "id": "93b4682f-2085-5295-90a9-2b348686559d",
-      "whenBody": "Your Shooting phase.",
-      "targetBody": "One KABAL unit from your army and one enemy unit that is Below Half-strength.",
-      "effectBody": "Until the end of the phase, each time a model in your unit makes an attack that targets that enemy unit, you can re-roll the Wound roll."
     },
     {
       "id": "93f85c6e-7cc8-59fc-8578-4e6b95fb7563",
@@ -11693,6 +11794,12 @@
       "effectBody": "Until the end of the phase, ranged weapons equipped by models in your unit have the SUSTAINED HITS 1 ability. If your unit Remained Stationary this turn, then until the end of the phase, each time a model in your unit makes a ranged attack, a successful unmodified Hit roll of 5+ scores a Critical Hit."
     },
     {
+      "id": "9c99ea2c-8c1b-5875-aea4-e0b60adaaf87",
+      "whenBody": "Fight phase.",
+      "targetBody": "One DRUKHARI unit from your army that has not been selected to fight this phase.",
+      "effectBody": "Until the end of the phase, each time a model in your unit makes an attack, add 1 to the Hit roll. If your Contract unit is destroyed as a result of those attacks, every unit in your opponent's army must take a Battle‑shock test. You cannot gain more than 3 Pain tokens as a result of failed Battle‑shock tests caused by this Stratagem."
+    },
+    {
       "id": "9ca24d75-b42d-5996-a7c5-9322562de4f5",
       "whenBody": "Fight phase.",
       "targetBody": "One DESTROYER CULT or FLAYED ONES unit from your army that has not been selected to fight this phase.",
@@ -11759,6 +11866,12 @@
       "whenBody": "Start of the Reinforcements step of your Movement phase.",
       "targetBody": "One AELDARI VEHICLE unit from your army that can FLY and is in Strategic Reserves.",
       "effectBody": "Until the end of the phase, your unit has the Deep Strike ability. When your unit is set up on the battlefield using the Deep Strike ability, it can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units, but if it does, until the end of the turn, it is not eligible to declare a charge. In addition, if your unit is a TRANSPORT, each unit that disembarks from it this turn must be set up more than 6\" horizontally from all enemy units and until the end of the turn, is not eligible to declare a charge."
+    },
+    {
+      "id": "9fcf2705-4e44-515f-9966-871b50ddbb08",
+      "whenBody": "Your Command phase, just after you complete a Contract (see Murderous Agenda Detachment rule).",
+      "targetBody": "One ARCHON WARLORD from your army.",
+      "effectBody": "Select one new Contract from those listed in the Murderous Agenda Detachment rule (this can be one you have already completed), then select one unit from your opponent's army that is on the battlefield and matches the 'Contract' description in that Contract. Until that Contract is completed, that unit is your Contract unit and the Murderous Agenda Detachment rule applies as normal."
     },
     {
       "id": "9fd1b637-9844-5bf2-9fe1-2fae298fdaaf",
@@ -12241,12 +12354,6 @@
       "effectBody": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll."
     },
     {
-      "id": "b335fd56-f016-56d1-a503-e563c5c012ea",
-      "whenBody": "Your Charge phase.",
-      "targetBody": "One WYCH CULT unit from your army.",
-      "effectBody": "Until the end of the phase, your unit is eligible to declare a charge even if it Fell Back or Advanced this turn."
-    },
-    {
       "id": "b3ffdc3d-db95-55c2-85d8-7f792ed5988b",
       "whenBody": "Fight phase.",
       "targetBody": "One TYRANIDS unit from your army that has not been selected to fight this phase.",
@@ -12714,6 +12821,12 @@
       "effectBody": "Select one enemy unit within 9\" of your unit. That enemy unit must take a Battle‑shock test and, when doing so, subtract 1 from the result."
     },
     {
+      "id": "c6fcb536-b46b-5323-b662-462ad54f0e61",
+      "whenBody": "Your opponent's Shooting phase, just after an enemy unit has shot.",
+      "targetBody": "One HAEMONCULUS COVENS unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Roll one D6: your unit can be moved a number of inches up to the result, but it must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
+    },
+    {
       "id": "c7574424-9e13-5c12-877a-38eb67ad7757",
       "whenBody": "Your Shooting phase or the Fight phase, just after an EMPEROR'S CHILDREN CHARACTER unit becomes your army's Favoured Champions, or just after your army's Favoured Champions unit destroys an enemy unit.",
       "targetBody": "Your army's Favoured Champions unit.",
@@ -12724,13 +12837,6 @@
       "whenBody": "Your Command phase.",
       "targetBody": "One ADEPTUS MECHANICUS VEHICLE unit from your army.",
       "effectBody": "Until the start of your next Command phase, add 3\" to the Move characteristic of models in your unit and add 1 to Advance and Charge rolls made for it."
-    },
-    {
-      "id": "c7f933a4-839d-5dbc-9350-e4c9349d27b8",
-      "whenBody": "End of your Shooting phase.",
-      "targetBody": "One DRUKHARI unit from your army (excluding AIRCRAFT).",
-      "effectBody": "Your unit can immediately make a Normal move.",
-      "restrictionBody": "Until the end of the turn, your unit is not eligible to declare a charge and that unit cannot embark within a TRANSPORT at the end of this move."
     },
     {
       "id": "c8a7ac81-2712-5a89-862f-892ba370190f",
@@ -12854,6 +12960,12 @@
       "whenBody": "Fight phase, just after an enemy unit has selected its targets.",
       "targetBody": "One LEGIONES DAEMONICA TZEENTCH unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
       "effectBody": "Roll one D6, then you can spend one Flux token to re‑roll the result: until the end of the phase, each time an attack targets your unit, on an unmodified Hit roll (after any re‑roll) of that result, the attack sequence ends, even if the original Hit roll would have been a Critical Hit.\n\nExample: *If you roll a 2 and choose to spend one Flux token to re-roll the result, and the re-roll is a 6, then until the end of the phase, each time an attack targets your unit, on an unmodified Hit roll of 6 the attack sequence ends, that attack fails to hit and no Critical Hit effects (e.g. Lethal Hits) are resolved.*"
+    },
+    {
+      "id": "cdd5226f-dc0e-5712-ad36-6b40bdf42520",
+      "whenBody": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
+      "targetBody": "One KABAL or BLADES FOR HIRE unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
     },
     {
       "id": "ce0ff2be-e22f-53d0-b37b-9833a30a4150",
@@ -13217,7 +13329,7 @@
       "id": "dda8f77d-a1a5-5232-b82f-119fef4eec81",
       "whenBody": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
       "targetBody": "One HAEMONCULUS COVENS unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
-      "effectBody": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Wound roll."
+      "effectBody": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
     },
     {
       "id": "ddb72c3b-bef5-5ead-b240-556e1eb523dd",
@@ -13421,6 +13533,12 @@
       "restrictionBody": "A unit cannot be targeted by this Stratagem and the Unrelenting Advance Stratagem in the same phase."
     },
     {
+      "id": "e5dee378-a629-5483-8b55-ef9df54c6db8",
+      "whenBody": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+      "targetBody": "One DRUKHARI unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Spend 1 Pain token. Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1. At the end of the phase, if your unit is still on the battlefield and it is a HAEMONCULUS COVENS unit, you gain 1 Pain token."
+    },
+    {
       "id": "e6059683-1e5c-59e8-9112-f1cd1b8e3ab5",
       "whenBody": "Start of your opponent's Charge phase.",
       "targetBody": "One IMPERIAL KNIGHTS TITANIC unit from your army that is on your defensive line.",
@@ -13581,6 +13699,12 @@
       "restrictionBody": "You cannot select any units that have already been targeted with either the Dragonfire Rounds or Hellfire Rounds Stratagems this phase."
     },
     {
+      "id": "eaf97f51-6604-58bb-9655-e9c85bb601c4",
+      "whenBody": "Fight phase, just after a DRUKHARI unit from your army destroys an enemy unit.",
+      "targetBody": "That DRUKHARI unit.",
+      "effectBody": "Each enemy unit within 9\" of and visible to your unit must take a Battle‑shock test, subtracting 1 from that test if your unit is a HAEMONCULUS COVENS unit."
+    },
+    {
       "id": "ecf423d1-b80c-583b-8002-7978cf45fddc",
       "whenBody": "Any phase.",
       "targetBody": "One ADEPTA SORORITAS CHARACTER unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed.",
@@ -13607,6 +13731,12 @@
       "effectBody": "Until the end of the turn, each time an attack targets your unit, subtract 1 from the Wound roll."
     },
     {
+      "id": "ed6a885c-e414-5d52-a699-fe2a8e218012",
+      "whenBody": "Fight phase.",
+      "targetBody": "One HAEMONCULUS COVENS unit from your army that has not been selected to fight this phase.",
+      "effectBody": "Until the end of the phase, each time a model in your unit makes an attack that targets an enemy unit that is Battle‑shocked, that attack has the DEVASTATING WOUNDS ability."
+    },
+    {
       "id": "edc41411-4e19-5d2c-bc16-35ad8b8dcb68",
       "whenBody": "Your opponent's Movement phase, just after an enemy unit (excluding MONSTERS and VEHICLES) is selected to Fall Back.",
       "targetBody": "One WORLD EATERS INFANTRY or WORLD EATERS DAEMON PRINCE unit from your army within Engagement Range of that enemy unit.",
@@ -13617,6 +13747,13 @@
       "whenBody": "Fight phase, just after an enemy unit has selected its targets.",
       "targetBody": "One WORLD EATERS unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
       "effectBody": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
+    },
+    {
+      "id": "ee422fb6-47e0-500f-b6cf-ef9289f78eb1",
+      "whenBody": "End of your Shooting phase.",
+      "targetBody": "Up to two KABALITE WARRIORS units from your army, or one other DRUKHARI unit from your army (excluding SCOURGES and AIRCRAFT).",
+      "effectBody": "Each of those units can make a Normal move of up to 6\".",
+      "restrictionBody": "You cannot select units that are within Engagement Range of one or more enemy units. Until the end of the turn, those units are not eligible to declare a charge."
     },
     {
       "id": "ee47d8b4-8519-5a6a-bf1d-fc23e7ffafbb",
@@ -13885,6 +14022,12 @@
       "effectBody": "Until the end of the phase, each time a model in your unit makes a ranged attack that targets an Afflicted unit, you can re-roll the Hit roll and you can re-roll the Wound roll."
     },
     {
+      "id": "f80c4715-5b39-5172-99fb-c1d1025ea8be",
+      "whenBody": "Start of your Shooting phase or the start of the Fight phase.",
+      "targetBody": "Up to two DRUKHARI BATTLELINE units from your army, or one other DRUKHARI unit from your army.",
+      "effectBody": "You can spend 1 Pain token. Until the end of the phase, each time a model in each of those units makes an attack that targets an enemy unit that is Below Half‑strength, add 1 to the Hit roll. If you spent 1 Pain token, add 1 to the Wound roll as well."
+    },
+    {
       "id": "f95e791a-81f2-5f90-a24e-5e79594642bc",
       "whenBody": "Any phase, just after your focus of hatred is destroyed.",
       "targetBody": "One HERETIC ASTARTES CHARACTER unit from your army (excluding Damned units).",
@@ -13913,6 +14056,13 @@
       "whenBody": "Your Shooting phase.",
       "targetBody": "One TYRANIDS MONSTER unit from your army that has not been selected to shoot this phase.",
       "effectBody": "Until the end of the phase, ranged weapons equipped by models in your unit have the IGNORES COVER ability, and until the end of the phase each time a model in your unit makes an attack, you can ignore any or all modifiers to that model's Ballistic Skill characteristic and any or all modifiers to the Hit roll."
+    },
+    {
+      "id": "fa5f0899-c3a6-5647-9565-c061374ddbbc",
+      "whenBody": "Any phase.",
+      "targetBody": "One HAEMONCULUS model from your army that was just destroyed. You can use this Stratagem on that model even though it was just destroyed.",
+      "effectBody": "Spend 1‑3 Pain tokens. At the end of the phase, set the destroyed model back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with a number of wounds remaining equal to the number of Pain tokens you just spent.",
+      "restrictionBody": "You cannot use this Stratagem if you have 0 Pain tokens, and you cannot target the same HAEMONCULUS model with this Stratagem more than once per battle."
     },
     {
       "id": "fa6b109e-6935-5a40-a627-6cec9aa9f247",
@@ -14061,6 +14211,12 @@
       "whenBody": "Your opponent's Shooting phase, just after an enemy unit has shot.",
       "targetBody": "One PENITENT unit from your army that was selected as the target as one or more of the attacking unit's attacks.",
       "effectBody": "Roll one D6: your unit can be moved a distance in inches up to the result, but it must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, models in your unit can be moved within Engagement Range of enemy units."
+    },
+    {
+      "id": "ffba3214-cdd3-5ae7-a3a1-e80978d33a1f",
+      "whenBody": "Start of the Fight phase.",
+      "targetBody": "Up to two WRACKS units from your army, or one other DRUKHARI unit from your army.",
+      "effectBody": "Until the end of the phase, melee weapons equipped by models in each of those units have the LETHAL HITS ability."
     }
   ],
   "datasheetAbilities": [
@@ -14075,6 +14231,10 @@
     {
       "id": "0047ae51-c03d-5d1a-b67a-c16bc9683827",
       "body": "Each time this model makes a melee attack, if the Waaagh! is active for your army, add 1 to the Hit roll."
+    },
+    {
+      "id": "0099d976-2a74-56eb-9aa0-84b5651d8830",
+      "body": "In your Movement phase, when you select this unit to Advance, you can spend 1 Pain token to Empower this unit. While Empowered, each time this unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 8\" to the Move characteristic of models in this unit."
     },
     {
       "id": "014c36d9-21a9-5ccb-b3c2-4ddc983dcb9d",
@@ -14261,6 +14421,10 @@
       "body": "You can target this model with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase. In addition, each time this model declares a charge that targets an enemy unit within Engagement Range of one or more THOUSAND SONS PSYKER units from your army, you can re‑roll the Charge roll."
     },
     {
+      "id": "0804f6e4-35a9-5375-8770-a8500fce0847",
+      "body": "Each time this unit destroys an enemy unit, you gain 1 additional Pain token."
+    },
+    {
       "id": "084ee6e7-2bf8-5ab2-a3ce-6d9ff6f11ac5",
       "body": "Each time a model in this unit makes a ranged attack, re‑roll a Hit roll of 1."
     },
@@ -14271,6 +14435,10 @@
     {
       "id": "09348f63-b372-5ff5-aa01-fc7ff9a3486a",
       "body": "Once per battle, when selecting targets for this model's exitus rifle, it can fire a shieldbreaker round. If it does, until the end of the phase, each time this model makes an attack with that weapon, add 1 to the Wound roll and any successful Wound roll scores a Critical Wound."
+    },
+    {
+      "id": "09377c79-e03f-5a9b-b4ab-8bc2e31c3ee9",
+      "body": "At the start of your Command phase, select one of the abilities in the Vanguard of the Dark City section (see below) for this model. Until the start of your next Command phase, this model has that ability.\n\nSpeed of the Kill\n\nEach time a WYCHES unit disembarks from this model (excluding Emergency Disembarkations), models in that WYCHES unit must be set up wholly within 6\" of this model.\n\nVisions of Butchery\n\nWhile one or more WRACKS units are embarked within this model,for each WRACKS model embarked within this model, add 1 to the Attacks characteristic of this model's bladevanes and chainsnares.\n\nMasters of the Shadowed Sky\n\nAt the end of your Command phase, if this model is within range of an objective marker you control, and if one or more KABALITE WARRIORS units are embarked within it, that objective marker remains under your control until your opponent's Level of Control over that objective marker is greater than yours at the end of a phase.\n\nAethersails\n\nWhile one or more DRUKHARI units are embarked within this model, you can re‑roll Advance and Charge rolls made for this model."
     },
     {
       "id": "09d93323-c36d-5c01-b336-d3dba7a993cf",
@@ -14465,10 +14633,6 @@
       "body": "Each time an attack is allocated to this model, subtract 1 from the Damage characteristic of that attack."
     },
     {
-      "id": "1049424c-40c8-507f-8f75-87c3b639c7b9",
-      "body": "While this unit contains one or more Lhamaean models, weapons equipped by models in this unit have the LETHAL HITS ability."
-    },
-    {
       "id": "1101da97-a9a2-5617-93dc-f3ff0932db04",
       "body": "Each time an enemy unit within 18\" of this model targets this model, subtract 1 from the Hit roll and, until the end of the phase, that enemy unit's ranged weapons have the HAZARDOUS ability."
     },
@@ -14479,10 +14643,6 @@
     {
       "id": "11228515-8cf9-5b0f-bffd-f5e5699a2254",
       "body": "While this model is leading a unit, melee weapons equipped by models in that unit have the LETHAL HITS ability."
-    },
-    {
-      "id": "113e2237-5b71-577c-81b5-9b42dc4ba295",
-      "body": "At the end of the Fight phase, if there are no models currently embarked within this TRANSPORT, you can select one friendly DRUKHARI INFANTRY unit that has 6 or fewer models that is wholly within 6\" of this TRANSPORT (you cannot select a GROTESQUES unit or a unit that can FLY). Unless that unit is within Engagement Range of one or more enemy units, it can embark within this TRANSPORT."
     },
     {
       "id": "11566a1e-8281-5fc7-9545-ef9d21de0351",
@@ -14514,7 +14674,7 @@
     },
     {
       "id": "143601bb-6edf-5def-bf3c-25d30c5e0d70",
-      "body": "At the end of your Movement phase, this model can heal one friendly CRONOS, TALOS, GROTESQUES or WRACKS unit within 6\". If it does, one model in that unit regains up to 3 lost wounds (if you selected a WRACKS unit, up to 3 destroyed models are returned to that unit instead)."
+      "body": "In your Command phase, you can spend 1 Pain token to Empower this model's unit. Each time you do, you can return up to D3+1 destroyed Bodyguard models to that unit."
     },
     {
       "id": "14428b4c-a259-59d8-bcf0-5465121594b1",
@@ -14535,6 +14695,10 @@
     {
       "id": "1507da68-92d9-5807-a0a3-264186236fb8",
       "body": "Each time this model ends a Normal move, you can select one enemy unit it moved across during that move and roll six D6: for each 4+, that unit suffers 1 mortal wound."
+    },
+    {
+      "id": "152d88b8-a4c5-51a6-8acd-5781bc195f15",
+      "body": "In your Movement phase, when you select this model to Advance, you can spend 1 Pain token to Empower this model. While Empowered, units can disembark from this model after it has Advanced. Units that do so count as having made a Normal move that phase, and cannot declare a charge in the same turn, but can otherwise act normally in the remainder of the turn."
     },
     {
       "id": "156144dc-1b72-51d7-b0e1-119eb36767b3",
@@ -14618,7 +14782,7 @@
     },
     {
       "id": "190b5fe2-2854-54ad-aef5-24f75a08965d",
-      "body": "Once per battle, after this unit ends a Normal move, you can select one enemy model it moved over during that move and roll one D6 for each enemy unit within D6\" of that enemy model: on a 4+, that enemy unit suffers D6 mortal wounds."
+      "body": "Once per battle, after this unit ends a Normal move, you can select one enemy model that it moved over during that move, then roll one D6 for each enemy unit within D6\" of that model: on a 4+, that enemy unit suffers D6 mortal wounds."
     },
     {
       "id": "191e0789-8aa1-54b5-94ed-20f4c556f05d",
@@ -14627,6 +14791,10 @@
     {
       "id": "194e528d-85f5-5b3b-a36f-f161cd1d9ae0",
       "body": "In your Command phase, if this model is on the battlefield, roll 2D6: on a 7+, you gain 1CP."
+    },
+    {
+      "id": "1976e123-e864-5e1f-a394-ae9139acc17d",
+      "body": "Each time this model makes a melee attack that targets a CHARACTER unit, you can re‑roll the Hit roll and you can re‑roll the Wound roll. Each time this model's unit destroys a CHARACTER model, you gain 1CP."
     },
     {
       "id": "197e0a22-587c-5f31-8f14-15fb3093a7f0",
@@ -14793,10 +14961,6 @@
       "body": "In your Shooting phase, each time this unit is selected to shoot, if it makes one or more ranged attacks and all of those attacks target the same enemy unit, until the end of the turn, each time this unit declares a charge, if that enemy unit is a target of that charge, you can re-roll the Charge roll."
     },
     {
-      "id": "1fe81f73-0bb0-56c9-b1f9-6a7b8a2c89e1",
-      "body": "This unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
-    },
-    {
       "id": "1fecbce4-fc7e-5a11-b4de-7f28be08119d",
       "body": "In your Shooting phase, after this model has shot, if one or more of those attacks made with its earthshaker cannon scored a hit against an enemy Infantry unit, until the start of your next Shooting phase, that unit is shaken. While a unit is shaken, subtract 2\" from its Move characteristic and subtract 2 from Charge rolls made for it."
     },
@@ -14813,6 +14977,10 @@
       "body": "Each time this model makes a ranged attack, you can ignore any or all modifiers to the following: that attack's Ballistic Skill characteristic; the Hit roll."
     },
     {
+      "id": "203874b1-dbbb-5539-b9ca-d3453906ac26",
+      "body": "While this model is leading a unit, models in that unit have the Fights First ability."
+    },
+    {
       "id": "2123fb5a-9dc8-57e3-9e84-9a827d769c0c",
       "body": "Each time a model in this unit targets the closest eligible target with its snazzgun, until the end of the phase, that weapon has an Attacks characteristic of 4."
     },
@@ -14826,7 +14994,7 @@
     },
     {
       "id": "21af4609-fc58-5032-b994-7f99e22b5730",
-      "body": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Wound roll."
+      "body": "In the Fight phase, when you select this model's unit to fight, you can spend 1 Pain token to Empower that unit. While that unit is Empowered, each time a model in that unit makes a melee attack, add 1 to the Wound roll."
     },
     {
       "id": "21b545e5-bcd0-543e-a29b-d36c0dfe9fbe",
@@ -14933,6 +15101,10 @@
       "body": "Some models have 'Feel No Pain x+' listed in their abilities. Each time a model with this ability suffers damage and so would lose a wound (including wounds lost due to mortal wounds), roll one D6: if the result is greater than or equal to the number denoted by 'x', that wound is ignored and is not lost. If a model has more than one Feel No Pain ability, you can only use one of those abilities each time that model suffers damage and so would lose a wound."
     },
     {
+      "id": "24e24f32-fa4f-5a42-90f2-3c99729b25b0",
+      "body": "Each time your opponent targets a unit from their army with a Stratagem, if that unit is within 12\" of this model, increase the cost of that use of that Stratagem by 1CP."
+    },
+    {
       "id": "24e422a2-1a57-561c-a3d2-9a0a40890fa3",
       "body": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability."
     },
@@ -14979,10 +15151,6 @@
     {
       "id": "2740d420-52d0-54e5-b934-e8532d4b0b15",
       "body": "In your opponent's Shooting phase, each time an enemy unit has shot, if this model was hit by one or more of those attacks, it can make a Driven by Fury move. To do so, roll one D6 and add 2 to the roll: this model moves a number of inches up to the result, but must finish as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, this model can be moved within Engagement Range of that enemy unit. A model cannot make a Driven by Fury move while it is Battle‐shocked or within Engagement Range of one or more enemy units, and can only make one Driven by Fury move per phase."
-    },
-    {
-      "id": "274f760a-d31b-5840-b2f6-7f7b00e2ba22",
-      "body": "If this unit destroys an enemy unit, until the end of the battle, it is Empowered."
     },
     {
       "id": "2770ae93-7c0b-5640-9b11-b7635a27d39a",
@@ -15111,6 +15279,10 @@
     {
       "id": "2b11abbb-4d68-5179-a32e-593df42c2417",
       "body": "Each time a model in this unit makes an attack, re-roll a Wound roll of 1. lf the target is within range of an objective marker, you can re-roll the Wound roll instead."
+    },
+    {
+      "id": "2b249060-e975-5fbf-b856-9a26fdba5b01",
+      "body": "In your Shooting phase, after this unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\". If it does, until the end of the turn, this unit is not eligible to declare a charge."
     },
     {
       "id": "2b2ecdd0-d769-5698-8dff-5442e6d577e2",
@@ -15266,7 +15438,7 @@
     },
     {
       "id": "31ec92fd-c857-52c2-8fce-ca38c5a81d89",
-      "body": "If this model is your WARLORD, each time your opponent targets a unit from their army with a Stratagem, if that unit is within 12\" of this model, increase the cost of that use of that Stratagem by 1CP.\n\n*Designer's Note: This ability takes precedence over the Lord of Deceit ability presented in the Balance Dataslate June 2024.*"
+      "body": "Once per battle round, one model from your army with this ability can use it when its unit is targeted with a Stratagem. If it does, reduce the CP cost of that use of that Stratagem by 1CP."
     },
     {
       "id": "321e7ecd-edf6-59be-b34f-09701b48b3b4",
@@ -15302,7 +15474,7 @@
     },
     {
       "id": "33aeefe8-1ce1-50e1-adfb-e7efd97503cc",
-      "body": "At the end of your opponent's turn, if this unit is not within Engagement Range of one or more enemy units, you can remove this unit from the battlefield. In the Reinforcements step of your next Movement phase, set it up anywhere on the battlefield that is more than 9\" horizontally away from all enemy models. If the battle ends and this unit is not on the battlefield, it is destroyed."
+      "body": "At the end of your opponent's Fight phase, if this unit is not within Engagement Range of one or more enemy units, you can spend 1 Pain token to Empower this unit. Each time you do, remove this unit from the battlefield and place it into Strategic Reserves."
     },
     {
       "id": "33cd190e-2f05-5ce9-9aca-424c0a62853b",
@@ -15509,6 +15681,10 @@
       "body": "While this model is leading a unit, once per phase, you can change the result of one Hit roll, one Wound roll or one Damage roll made for a model in that unit (excluding SUPPORT WEAPON models) to an unmodified 6."
     },
     {
+      "id": "3ba07cca-43bb-5687-bb4d-b80d55ea5351",
+      "body": "In your Command phase, if one or more models from your army with this ability are on the battlefield, roll one D6: on a 4+, you gain 1 Pain token."
+    },
+    {
       "id": "3bc89a73-e2e5-5b72-a9c1-7cca8c417f69",
       "body": "The first time a model in this model's unit makes a melee attack that destroys one or more enemy units, until the end of the battle, while this model's unit is not Battle-shocked, add 5 to this model's Objective Control characteristic."
     },
@@ -15598,11 +15774,11 @@
     },
     {
       "id": "3e5ea20f-9927-5c55-9ccf-a254d0ced949",
-      "body": "Each time one Pain token is removed from your Pain token pool to Empower one or more units, if one or more of those Empowered units are within 9\" of this unit, roll one D6: on a 4+, you gain 1 Pain token."
+      "body": "In your Shooting phase or the Fight phase, when you select this unit to shoot or fight, you can spend 1 Pain token to Empower this unit. While Empowered, each time this unit shoots or fights, after it has resolved its attacks, if one or more enemy models were destroyed as a result of those attacks, one model in this unit regains up to 3 lost wounds (if all models in this unit have their starting number of wounds and this unit is below its Starting Strength, 1 model is returned to this unit with 3 wounds remaining)."
     },
     {
       "id": "3e6c606f-ff65-5e19-ad09-20f788ea3606",
-      "body": "Each time this model makes a ranged attack that targets an enemy unit (excluding units that can FLY), add 1 to the Hit roll."
+      "body": "Each time a model in this unit makes a ranged attack that targets an enemy unit (excluding units that can FLY), add 1 to the Hit roll."
     },
     {
       "id": "3f00e2dd-3139-5409-b9b2-b0151f45b515",
@@ -15713,10 +15889,6 @@
       "body": "Some CHARACTER units have 'Leader' listed on their datasheets. Such CHARACTER units are known as Leaders, and the units they can lead - known as their Bodyguard units - are listed on their datasheet. During the Declare Battle Formations step, for each Leader in your army, if your army also includes one or more of that Leader's Bodyguard units, you can select one of those Bodyguard units. That Leader will then attach to that Bodyguard unit for the duration of the battle and is said to be leading that unit. Each Bodyguard unit can only have one Leader attached to it. While a Bodyguard unit contains a Leader, it is known as an Attached unit and, with the exception of rules that are triggered when units are destroyed, it is treated as a single unit for all rules purposes. Each time an attack targets an Attached unit, until the attacking unit has resolved all of its attacks, you must use the Toughness characteristic of the Bodyguard models in that unit, even if a Leader in that unit has a different Toughness characteristic. Each time an attack sucessfully wounds an Attached unit, that attack cannot be allocated to a CHARACTER model in that unit, even if that CHARACTER model has lost one or more wounds or has already had attacks allocated to it this phase. As soon as the last Bodyguard model in an Attached unit has been destroyed, any attacks made against that unit that have yet to be allocated can then be allocated to CHARACTER models in that unit.\n\nEach time the last model in a Bodyguard unit is destroyed, each CHARACTER unit that is part of that Attached unit is no longer part of an Attached unit. It becomes a separate unit, with its original Starting Strength. If this happens as the result of an attack, they become separate units after the attacking unit has resolved all of its attacks.\n\nEach time the last model in a CHARACTER unit that is attached to a Bodyguard unit is destroyed and there is not another CHARACTER unit attached, that Attached unit's Bodyguard unit is no longer part of an Attached unit. It becomes a separate unit, with its original Starting Strength. If this happens as the result of an attack, they become separate units after the attacking unit has resolved all of its attacks.\n\nEach time a unit that is part of an Attached unit is destroyed, it does not have the keywords of any other units that make up that Attached unit (unless it has those keywords on its own datasheet) for the purposes of any rules that would be triggered when that unit is destroyed.\n\n*Example: If you only destroy the Bodyguard unit that is part of an Attached unit, you have not destroyed a CHARACTER unit. If you only destroy the CHARACTER unit that is part of an Attached unit, or if you destroy the whole Attached unit, you have destroyed one CHARACTER unit.*"
     },
     {
-      "id": "435a6832-f7d2-5fe6-bef0-339516ffcd8b",
-      "body": "While this unit contains a Beastmaster model, you can re-roll Charge rolls made for this unit, and each time a BEAST model in this unit makes an attack, re-roll a Hit roll of 1."
-    },
-    {
       "id": "437a6e60-de21-5bde-aef4-10fff5be78da",
       "body": "At the start of your Shooting phase, select one enemy unit within 12\" of and visible to this model. That unit must take a Battle‐shock test, subtracting 2 from the result if it is an INFANTRY unit. If the test is failed, that enemy unit suffers 3 mortal wounds."
     },
@@ -15743,6 +15915,10 @@
     {
       "id": "44a206c0-ebc1-57c3-b181-7b86416271fe",
       "body": "Each time this model makes a melee attack that targets a MONSTER or VEHICLE unit, add 1 to the Damage characteristic of that attack. Each time this model makes a melee attack that targets a TITANIC unit, add 2 to the Damage characteristic of that attack instead."
+    },
+    {
+      "id": "44e0386a-797a-5dc4-b90c-dab38344467f",
+      "body": "In your Shooting phase or the Fight phase, when you select this unit to shoot or fight, you can spend 1 Pain token to Empower this unit. While Empowered, weapons equipped by models in this unit (excluding blast pistols, blasters and dark lances) have the LETHAL HITS and PRECISION abilities."
     },
     {
       "id": "45086602-3808-56f5-8652-027781da4255",
@@ -15901,6 +16077,10 @@
       "body": "While a friendly NURGLE LEGIONES DAEMONICA unit is within 6\" of this FORTIFICATION, models in that unit have the Stealth ability."
     },
     {
+      "id": "4c197aaf-9f7a-50fe-8839-3f40b1843bbf",
+      "body": "After this unit has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly DRUKHARI unit makes a ranged attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1. The same enemy unit can only be affected by this ability once per turn."
+    },
+    {
       "id": "4c40aeca-ee75-58ac-b28c-e51c45307bdf",
       "body": "At the start of the Fight phase, if this unit contains one or more Dark Disciple models, you can select one of those models and one enemy unit within Engagement Range of this unit, then roll one D6: on a 2-5, that enemy unit suffers 1 mortal wound; on a 6, that enemy unit suffers D3 mortal wounds. That Dark Disciple model is then destroyed."
     },
@@ -16017,6 +16197,14 @@
       "body": "Each time a melee attack targets this model, subtract 1 from the Wound roll."
     },
     {
+      "id": "52d21a67-6014-583d-a5f8-af72bb8460e0",
+      "body": "In your Movement phase, you can spend 1 Pain token to Empower this unit. While Empowered, each time a model in this unit is set up on the battlefield using the Deep Strike ability, it can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units. When doing so, if this unit is set up within 9\" of one or more enemy units, until the end of the turn, it is not eligible to declare a charge."
+    },
+    {
+      "id": "52e45fc5-e4d2-58ef-9ea3-fc129aa77b45",
+      "body": "Each time you spend 1 Pain token to Empower a friendly unit within 9\" of this unit, roll one D6: on a 5+, you gain 1 Pain token.\n\nDesigner's Note: *Pain tokens you spend for reasons other than Empowering a unit do not trigger this ability.*"
+    },
+    {
       "id": "5322b406-5118-59db-9e00-b1aa6435e9be",
       "body": "While another OFFICER model is in the same unit as this model, you can re-roll Battle-shock tests taken for that unit."
     },
@@ -16129,6 +16317,10 @@
       "body": "Each time this model makes a melee attack that targets a unit that is below its Starting Strength, add 1 to the Hit roll. If that target is also Below Half-strength, add 1 to the Wound roll as well."
     },
     {
+      "id": "57580672-2f39-513e-8084-a82114c2dc1c",
+      "body": "If a model in this unit is equipped with 2 macro‑scalpels, those weapons have the TWIN‑LINKED ability."
+    },
+    {
       "id": "5817d1ba-8082-59f4-92f9-dcc4085c3fb2",
       "body": "While this model is leading a unit, you can re‑roll Charge rolls made for that unit."
     },
@@ -16143,6 +16335,10 @@
     {
       "id": "5870255f-8be2-5e91-902c-e250dd745cab",
       "body": "While a friendly TYRANIDS unit is within 6\" of this unit, models in that unit have a 6+ invulnerable save."
+    },
+    {
+      "id": "58a10162-6c99-58a8-b0c7-b53ddcd7ed42",
+      "body": "In your Movement phase when you select this model's unit to Advance, or in your Charge phase before you make a Charge roll for this model's unit, you can spend 1 Pain token to Empower that unit. While that unit is Empowered, you can re‑roll Advance and Charge rolls made for that unit."
     },
     {
       "id": "58f3b055-2cd2-537b-9096-ab8ac7e0fc75",
@@ -16290,7 +16486,7 @@
     },
     {
       "id": "5f95124a-cb47-5d8c-abf5-c7eda7e259ca",
-      "body": "While this model is leading a unit, models in that unit have the Fights First ability, and each time a model in that unit makes a melee attack, add 1 to the Strength characteristic of that attack and improve the Armour Penetration characteristic of that attack by 1."
+      "body": "In the Fight phase, when you select this model's unit to fight, you can spend 1 Pain token to Empower that unit. While that unit is Empowered, each time a model in that unit makes a melee attack, improve the Strength and Armour Penetration characteristics of that attack by 1."
     },
     {
       "id": "5fc353fb-db41-5d16-871f-acec8800d2c0",
@@ -16390,7 +16586,7 @@
     },
     {
       "id": "63ee1ebd-ea64-5a13-8fe1-43beb7941b78",
-      "body": "Each time this model makes an attack that targets an enemy unit that is at its Starting Strength, re-roll a Hit roll of 1. If a unit has a Starting Strength of 1, this ability only applies if the target has its starting number of wounds."
+      "body": "Each time this model makes an attack that targets an enemy unit that is at its Starting Strength, you can re‑roll the Hit roll."
     },
     {
       "id": "63ef187b-ac98-584d-b6da-3ee0e01e9631",
@@ -16421,12 +16617,12 @@
       "body": "This unit is eligible to declare a charge in a turn in which it Advanced."
     },
     {
-      "id": "65bd8803-dc3e-59ac-a515-906c185ec311",
-      "body": "The first time this model is destroyed, roll one D6 at the end of the phase. On a 2+, set this model back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with its full wounds remaining."
-    },
-    {
       "id": "65c4a007-b2f3-5691-a463-0116ce19a1a8",
       "body": "If this unit has a Starting Strength of 5 or more, or if a CHARACTER is leading this unit, then each time a model in this unit makes a ranged attack that targets an Afflicted unit, improve the Strength and Armour Penetration characteristics of that attack by 1."
+    },
+    {
+      "id": "65c54f71-6b37-50ad-9d3a-a4a4a5055165",
+      "body": "In your Shooting phase or the Fight phase, when you select this model's unit to shoot or fight, you can spend 1 Pain token to Empower that unit. While that unit is Empowered, each time a model in that unit makes an attack, you can re‑roll the Hit roll."
     },
     {
       "id": "66109ba0-569d-5971-81fe-298cfbea3959",
@@ -16459,6 +16655,10 @@
     {
       "id": "671568c1-9279-56bb-be8c-4deb40ffb92d",
       "body": "In the Fight phase, after this model has finished making its attacks, if this model destroyed one or more enemy units this phase, each enemy unit within 6\" of this model must take a Battle-shock test."
+    },
+    {
+      "id": "67a9310c-972d-5af2-80e5-557050053554",
+      "body": "In the Fight phase, when you select this unit to fight, you can spend 1 Pain token to Empower this unit. While Empowered, each time a model in this unit makes a melee attack that targets an INFANTRY unit, that attack has the DEVASTATING WOUNDS ability."
     },
     {
       "id": "67b27960-a92f-529a-8777-c34180597b4d",
@@ -16593,6 +16793,10 @@
       "body": "Each time this model makes a ranged attack, you can ignore any or all modifiers to the Hit roll."
     },
     {
+      "id": "6d70251e-04dd-599d-a12b-097ef60c80b7",
+      "body": "While this model is leading a unit, each time a model in that unit makes a Pile‑in or Consolidation move, it can move up to 6\" instead of up to 3\"."
+    },
+    {
       "id": "6d8e8e3f-281f-5a75-afe9-70c5a6035048",
       "body": "You can target this model's unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
     },
@@ -16685,16 +16889,8 @@
       "body": "Once per turn, after one model from your army with this ability has shot, you can select one INFANTRY unit hit by one or more of those attacks. That unit must take a Battle-shock test."
     },
     {
-      "id": "7089efeb-8cda-55a4-85bb-c5f0651f3db6",
-      "body": "While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability."
-    },
-    {
       "id": "70fc9fde-1b21-59ce-a38a-cf301f5cd3c5",
       "body": "At the Start of your Command phase, select two Author of the Codex abilities. Until the start of your next Command phase, this model has those abilities.\n\nPrimarch of the XIII (Aura)\n\nWhile a friendly ADEPTUS ASTARTES unit is within 6\" of this model, add 1 to the Objective Control characteristic of models in that unit and you can re-roll Battle-shock and Leadership tests taken for that unit.\n\nMaster of Battle\n\nAt the start of your Command phase, after you have selected your Oath of Moment target, select a second enemy unit. Until the start of your next Command phase, if your Oath of Moment target is destroyed, that second enemy unit becomes your Oath of Moment target until you select a new one.\n\nSupreme Strategist\n\nOnce per battle round, one unit from your army with this ability can use it when a friendly ADEPTUS ASTARTES unit within 12\" of that model is targeted with a Stratagem. If it does, reduce the CP cost of that usage of that Stratagem by 1CP."
-    },
-    {
-      "id": "7139fd08-96cc-584d-8247-d0a0257385d8",
-      "body": "If this model is Empowered in the Fight phase, then until the end of the phase, models in this model's unit, have the Fights First ability."
     },
     {
       "id": "71518bab-cfe1-5542-a017-0f1cad3dd46d",
@@ -16801,6 +16997,10 @@
       "body": "At the start of the battle, select one unit from your opponent's army. Each time a model in this unit makes an attack that targets that unit, that attack has the LETHAL HITS and PRECISION abilities."
     },
     {
+      "id": "75dfcdcc-7129-5ca4-bdb7-5c160ae01f2a",
+      "body": "At the start of the Fight phase, each enemy unit within Engagement Range of one or more units with this ability must take a Battle‑shock test. Each time a model in this unit makes a melee attack that targets a Battle‑shocked unit, add 1 to the Hit roll."
+    },
+    {
       "id": "75ffac11-2150-542b-9efa-57d2d013eed5",
       "body": "While this model is leading a unit, melee weapons equipped by models in that unit have the DEVASTATING WOUNDS ability."
     },
@@ -16850,7 +17050,7 @@
     },
     {
       "id": "77790a95-0d8a-5e2b-a897-98bb3c534801",
-      "body": "While this model is leading a unit, each time a model in that unit makes an attack, re-roll a Hit roll of 1 and re-roll a Wound roll of 1."
+      "body": "While this model is leading a unit, each time a model in that unit makes a melee attack, re-roll a Hit roll of 1 and re-roll a Wound roll of 1."
     },
     {
       "id": "77853c30-88fd-5e6f-a277-9fb432062e99",
@@ -17101,6 +17301,10 @@
       "body": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to D6\"."
     },
     {
+      "id": "82277cdb-a7de-5812-a341-00a3633fe7fc",
+      "body": "If your army includes this model, after both players have deployed their armies, select up to three DRUKHARI units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves."
+    },
+    {
       "id": "82cae940-090a-5fd0-a331-4acd2925386d",
       "body": "Each time this model makes an attack that targets a MONSTER or VEHICLE unit, you can re‑roll the Wound roll."
     },
@@ -17218,11 +17422,15 @@
     },
     {
       "id": "88f706a8-5039-59ce-9fbe-be82a6a72902",
-      "body": "In your Command phase, select one of the abilities in the Canticles of the Omnissiah section. Until the start of your next Command phase, this model has that ability.\n\nShroudpsalm (Aura)\n\nWhile a friendly ADEPTUS MECHANICUS unit is within 6\" of this model, that unit has the Stealth ability.\n\nMantra of Discipline\n\nThis model has the BATTLELINE keyword and has the following ability:\n\nBinharic Courage (Aura): While a friendly ADEPTUS MECHANICUS unit is within 6\" of this model, add 1 to the Objective Control characteristic of models in that unit and each time you take a Battle-shock or Leadership test for that unit, add 1 to that test.\n\nInvocation of Machine Vengeance (Aura)\n\nAt the start of your Command phase, select one unit from your opponent's army. Until the start of your next Command phase, that enemy unit is your Machine Vengeance target. Each time a model in a friendly ADEPTUS MECHANICUS unit makes an attack that targets your Machine Vengeance target, you can re-roll the Hit roll."
+      "body": "At the start of your Command phase, select one of the abilities in the Canticles of the Omnissiah section. Until the start of your next Command phase, this model has that ability.\n\nShroudpsalm (Aura)\n\nWhile a friendly ADEPTUS MECHANICUS unit is within 6\" of this model, that unit has the Stealth ability.\n\nMantra of Discipline\n\nThis model has the BATTLELINE keyword and has the following ability:\n\nBinharic Courage (Aura): While a friendly ADEPTUS MECHANICUS unit is within 6\" of this model, add 1 to the Objective Control characteristic of models in that unit and each time you take a Battle-shock or Leadership test for that unit, add 1 to that test.\n\nInvocation of Machine Vengeance (Aura)\n\nAt the start of your Command phase, select one unit from your opponent's army. Until the start of your next Command phase, that enemy unit is your Machine Vengeance target. Each time a model in a friendly ADEPTUS MECHANICUS unit makes an attack that targets your Machine Vengeance target, you can re-roll the Hit roll."
     },
     {
       "id": "890bc5e9-f441-5d2c-bfe1-b1a1f2d85186",
       "body": "While a friendly WAR DOG model is within 6\" of this model, ranged weapons equipped by that WAR DOG model have the ASSAULT ability."
+    },
+    {
+      "id": "892b5031-d021-54ea-ba38-4321e0f8a38e",
+      "body": "In your Shooting phase, when you select this model to shoot, you can spend 1 Pain token to Empower this model. While Empowered, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the start of your next turn, that enemy unit is suppressed. While a unit is suppressed, each time a model in that unit makes an attack, subtract 1 from the Hit roll."
     },
     {
       "id": "892f76ce-5f64-580d-869c-60d03092d245",
@@ -17391,10 +17599,6 @@
     {
       "id": "90886dc6-3e0a-5980-99ed-4a6d7fad4fd8",
       "body": "Each time a model in this unit makes a ranged attack that targets a MONSTER or VEHICLE unit, add 1 to the Hit roll and add 1 to the Wound roll."
-    },
-    {
-      "id": "90a1071b-54e1-56c7-b1fa-29ee5064bfce",
-      "body": "While this unit contains one or more Ur-ghul models, this unit has the Fights First ability."
     },
     {
       "id": "90ad4a6c-dcd3-5598-b669-c95d0c0b020c",
@@ -17665,10 +17869,6 @@
       "body": "While this model is leading a unit, each time a melee attack targets that unit, subtract 1 from the Hit roll."
     },
     {
-      "id": "9d6e6ae8-519f-5679-80a3-a60dbe789401",
-      "body": "Once per battle, when this model's unit is selected to fight, it can use this ability. If it does, until the end of the phase, melee weapons equipped by this model have the PRECISION ability, and each time an enemy CHARACTER model is destroyed by this model, you gain D3 Pain tokens. If that destroyed CHARACTER model was the enemy WARLORD, you gain 3 Pain tokens instead."
-    },
-    {
       "id": "9db6efff-66da-5457-9f05-9ae8d955f4f6",
       "body": "Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 3+, do not remove it from play; that destroyed model can fight after the attacking model's unit has finished making its attacks, and is then removed from play."
     },
@@ -17785,6 +17985,10 @@
       "body": "The first time a model with this ability is destroyed in a battle round, roll one D6 at the end of the phase. On a 2+, set that model back up on the battlefield, as close as possible to where it was destroyed and not within Engagement Range of any enemy units, with 3 wounds remaining. Each model can only be set up in this way once per battle."
     },
     {
+      "id": "a2b61d7a-997c-50f4-a599-83eb9cee8382",
+      "body": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control until your opponent's Level of Control over that objective marker is greater than yours at the end of a phase."
+    },
+    {
       "id": "a2ec41d8-d52a-5602-a831-a398ca88b65d",
       "body": "In your opponent's Shooting phase, each time an enemy unit has shot, if this model lost one or more wounds as a result of those attacks, this model can make a Vengeance move. To do so, roll one D6 and add 2 to the result: it moves a number of inches up to this result, but it must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, it can be moved within Engagement Range of that enemy unit. This model cannot make a Vengeance move while it is Battle‑shocked or within Engagement Range of one or more enemy units, and can only make one Vengeance move per phase."
     },
@@ -17817,8 +18021,16 @@
       "body": "While this model is leading a unit, that unit can only be selected as the target of a attack if the attacking model is within 18\"."
     },
     {
+      "id": "a4765fee-b9a9-5b93-b52e-ac6827777be2",
+      "body": "This unit cannot be targeted by ranged attacks unless the attacking model is within 18\"."
+    },
+    {
       "id": "a49c0eb9-0c9f-5fd9-a93b-b596f8cacc53",
       "body": "While this model is leading a unit, each time a model in that unit makes a melee attack, an unmodified Hit roll of 5+ scores a Critical Hit."
+    },
+    {
+      "id": "a4ad72eb-abad-5c51-a83f-991ee3f73cfd",
+      "body": "Each time this unit ends a Normal or Advance move, you can select one enemy unit (excluding MONSTERS and VEHICLES) that it moved over during that move, then roll one D6 for each model in this unit: for each 4+, that enemy unit suffers 1 mortal wound."
     },
     {
       "id": "a4ef9885-477e-50c0-babf-4efde7fe7f83",
@@ -17882,7 +18094,7 @@
     },
     {
       "id": "a70e7d72-fe57-55cd-9a16-ab1b48ae14ed",
-      "body": "Each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 4+, do not remove it from play; that destroyed model can fight after the attacking model's unit has finished making its attacks, and it is then removed from play."
+      "body": "At the start of the Fight phase, you can spend 1 Pain token to Empower this unit. While Empowered, each time a model in this unit is destroyed by a melee attack, if that model has not fought this phase, roll one D6. On a 2+, do not remove it from play; that destroyed model can fight after the attacking unit has finished making its attacks, and it is then removed from play."
     },
     {
       "id": "a731f237-3b77-5d90-b2de-87e9eb00d415",
@@ -17951,6 +18163,10 @@
     {
       "id": "ab5fea5f-6baf-5081-9e24-eabbe2ffab14",
       "body": "While this model is leading a unit, each time that unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6\" to the Move characteristic of models in that unit and each time a model in that unit makes an Advance move, ignore any vertical distance when determining the total distance that model can be moved during that move."
+    },
+    {
+      "id": "ab6be8a4-0135-51c7-a4c5-c4a20f38631f",
+      "body": "In the Fight phase, when you select this unit to fight, you can spend 1 Pain token to Empower this unit. While Empowered, add 1 to the Attacks and Strength characteristics of this unit's melee weapons."
     },
     {
       "id": "ab84c3d9-e538-5b13-b108-31ecc9882463",
@@ -18261,10 +18477,6 @@
       "body": "Once per battle round, one model from your army with this ability can use it when a friendly TYRANIDS unit within 12\" of that model is targeted with a Stratagem. If it does, reduce the CP cost of that usage of that Stratagem by 1CP."
     },
     {
-      "id": "b8fb672e-c231-5439-91c9-d87384c22c5d",
-      "body": "While this unit contains one or more Sslyth models, each time an attack targets this unit, subtract 1 from the Wound roll."
-    },
-    {
       "id": "b901c4c3-b09c-55bd-b1c7-e95cae15a422",
       "body": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the turn, each time a friendly model that disembarked from this TRANSPORT this turn makes an attack that targets that enemy unit, re-roll a Hit roll of 1 and re-roll a Wound roll of 1."
     },
@@ -18333,6 +18545,10 @@
       "body": "If your army includes this model, after both players have deployed their armies, select up to three NECRONS units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves."
     },
     {
+      "id": "bc187ba1-1def-5c95-a850-9de68c61bf6e",
+      "body": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this unit, this unit can make a Normal move of up to D6\"."
+    },
+    {
       "id": "bc862326-ec55-5ce6-bfb0-68d2f9a5b32a",
       "body": "While this model is leading a unit, in your Shooting phase, after that unit has shot, it can make a Normal move of up to 6\". If it does, until the end of the turn, that unit is not eligible to declare a charge."
     },
@@ -18347,6 +18563,10 @@
     {
       "id": "bcd817a6-ac4e-507b-a7cf-f1ab42b89869",
       "body": "In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, each time a friendly TYRANIDS model makes an attack that targets that unit, re-roll a Hit roll of 1."
+    },
+    {
+      "id": "bcdf6ef6-0edc-52ec-a5c6-919f79167b59",
+      "body": "In the Fight phase, when you select this unit to fight, you can spend 1 Pain token to Empower this unit. Each time you do, select one of the following to apply to this unit until the end of the phase:\n\n• Melee weapons equipped by non‑CHARACTER models in this unit have an Attacks characteristic of 3.\n• Melee weapons equipped by non‑CHARACTER models in this unit have an Attacks characteristic of 4 and the HAZARDOUS ability."
     },
     {
       "id": "bcfa4dd6-ddf8-510e-8f4a-ea10f9c8facc",
@@ -18422,7 +18642,7 @@
     },
     {
       "id": "c1585b2c-d8d7-5a5a-8afb-52e54731cefa",
-      "body": "While this model is leading a unit, each time a model in that unit makes an attack, re-roll a Wound roll of 1. While that unit is Empowered, each time a model in that unit makes an attack, you can re-roll the Wound roll instead."
+      "body": "Once per battle, at the start of any phase, you can select one friendly DRUKHARI unit that is Battle‑shocked and within 12\" of this model. That unit is no longer Battle‑shocked."
     },
     {
       "id": "c1b501c6-4c59-5aa6-a7b0-bc05427557eb",
@@ -18430,7 +18650,7 @@
     },
     {
       "id": "c2bcab6e-cbc5-528e-9ada-0aa0e5fe9e44",
-      "body": "At the end of your Command phase, if this unit (or any TRANSPORT it is embarked within) is within range of an objective marker you control, that objective marker remains under your control until your opponent's Level of Control over that objective marker is greater than yours at the end of a phase."
+      "body": "In your Shooting phase or the Fight phase, when you select this unit to shoot or fight, you can spend 1 Pain token to Empower this unit. While Empowered, each time a model in this unit makes an attack, re‑roll a Wound roll of 1. If the target is within range of an objective marker, you can re‑roll the Wound roll instead."
     },
     {
       "id": "c2c5d1ba-7a26-52d3-a1ac-054e9a5412fc",
@@ -18451,6 +18671,10 @@
     {
       "id": "c3a0db4f-8a9a-5e10-a15c-2d061501b9f9",
       "body": "While this model is leading a unit, models in that unit have the Feel No Pain 5+ ability."
+    },
+    {
+      "id": "c416fef2-a373-5915-b3ea-6a3d5016163b",
+      "body": "In your Shooting phase, when you select this model to shoot, you can spend 1 Pain token to Empower this model. While Empowered, if one or more units are embarked within this model, each time this model makes an attack with a ranged weapon that has the ANTI ability, you can re‑roll the Hit roll."
     },
     {
       "id": "c42f0bc8-efe4-5236-9f3b-572dc21c53ba",
@@ -18577,6 +18801,10 @@
       "body": "While this model is leading a unit, add 6\" to the Range characteristic of Melta weapons equipped by models in that unit."
     },
     {
+      "id": "c90469e6-ba6d-5388-9502-219c53768bed",
+      "body": "In your Shooting phase and the Fight phase, after this unit has shot or fought, select one enemy unit (excluding VEHICLES) hit by one or more of those attacks. That unit must take a Battle‑shock test."
+    },
+    {
       "id": "c9617942-70ae-5ab6-9da4-edc5e2a428e1",
       "body": "At the start of your Command phase, if this model is on the battlefield, you gain 1CP."
     },
@@ -18619,6 +18847,10 @@
     {
       "id": "caea4b74-8b0b-5af9-80b6-76083c7c7543",
       "body": "Each time this model makes an attack with its twin las-talon that targets the closest eligible MONSTER or VEHICLE unit, add 1 to the Hit roll."
+    },
+    {
+      "id": "caf97a8e-a6a8-52e3-84cf-762ddf29d644",
+      "body": "In your Shooting phase, when you select this unit to shoot, you can spend 1 Pain token to Empower this unit. While Empowered, after this unit has shot, select one enemy unit hit by one or more of those attacks. Until the end of the phase, that enemy unit cannot have the Benefit of Cover."
     },
     {
       "id": "cb03dbb1-adc0-542a-b469-c0594d56b801",
@@ -18765,6 +18997,10 @@
       "body": "At the end of your Command phase, if this unit is within range of an objective marker you control, that objective marker remains under your control until your opponent's Level of Control over that objective marker is greater than yours at the end of a phase."
     },
     {
+      "id": "d137c805-e260-5805-beb7-0865d85b163a",
+      "body": "In your Shooting phase or the Fight phase, when you select this model's unit to shoot or fight, you can spend 1 Pain token to Empower that unit. If you do, select one of the following abilities: SUSTAINED HITS 1; LETHAL HITS]. Until the end of the phase, while that unit is Empowered, weapons equipped by models in that unit have that selected ability."
+    },
+    {
       "id": "d13d5838-990e-5c0a-879e-3621cb074e8b",
       "body": "While an enemy unit is within 6\" of this unit, if this unit contains a Neurothrope, each time that enemy unit fails a Battle-shock test, it suffers D3 mortal wounds and one model in this unit regains up to D3 lost wounds."
     },
@@ -18881,6 +19117,10 @@
       "body": "In your Command phase, you can select one friendly GREY KNIGHTS VEHICLE model within 3\" of this model. That model regains up to D3 lost wounds and, until the start of your next Command phase, each time that VEHICLE model makes an attack, add 1 to the Hit roll. Each model can only be selected for this ability once per turn."
     },
     {
+      "id": "d65ea392-712d-5b85-97c1-56fd8bcb725f",
+      "body": "At the start of your Charge phase, you can spend 1 Pain token to Empower this unit. While Empowered, this unit is eligible to declare a charge in a turn in which it Advanced or Fell Back."
+    },
+    {
       "id": "d668d450-1b88-5f04-a627-d5289d9b1545",
       "body": "When this model is destroyed, roll one D6: on a 2+, do not remove it from play - it can, after the attacking model's unit has finished making its attacks, shoot as if it were your Shooting phase and as if it had its full wounds remaining. This model is then removed from play."
     },
@@ -18894,7 +19134,7 @@
     },
     {
       "id": "d736e240-d36e-588a-8e9c-2d4321e4b879",
-      "body": "Once per battle, at the start of the Fight phase, this model can use this ability. When it does, until the end of the phase, the Attacks characteristic of Lelith's blades is increased to 12 and this model's invulnerable save is increased to 3+."
+      "body": "Once per battle, at the start of the Fight phase, this model can use this ability. If it does, until the end of the phase, this model has a 3+ invulnerable save and change the Attacks characteristic of melee weapons equipped by this model to 12."
     },
     {
       "id": "d739743d-0c1c-503e-8a84-293c1cd3afc5",
@@ -18983,6 +19223,10 @@
     {
       "id": "da418c6f-9922-5da8-9586-002c1ffedf7d",
       "body": "Once per battle round, one unit from your army with this ability can use it when it is targeted with a Stratagem. If it does, reduce the CP cost of that usage of that Stratagem by 1CP."
+    },
+    {
+      "id": "da50380e-f878-5588-b4af-ffcf3e7cc6e1",
+      "body": "At the end of the Fight phase, you can select one unit wholly within 6\" of this model. If that unit could embark within this model if it were your Movement phase, it does so now."
     },
     {
       "id": "da693a69-1747-53d5-8a35-ec0afe8e022d",
@@ -19089,10 +19333,6 @@
       "body": "While an enemy unit is within 9\" of this model, subtract 1 from Battle-shock and Leadership tests taken for that unit."
     },
     {
-      "id": "de3947be-a509-5e99-baec-db1eedc2cef1",
-      "body": "In your Shooting phase, after this unit has shot, if any of those attacks made with its eyeburst scored a hit against an enemy INFANTRY unit, that INFANTRY unit must take a Battle-shock test."
-    },
-    {
       "id": "de54d76b-cee7-562d-967b-1719cbb79959",
       "body": "Each time this model makes an attack, you can re-roll the Wound roll."
     },
@@ -19142,7 +19382,7 @@
     },
     {
       "id": "e00eae88-efd4-53eb-8575-3cd010b1531a",
-      "body": "While an enemy unit is within 6\" of this model, each time a Battle-shock or Leadership test is taken for that enemy unit, subtract 1 from that test."
+      "body": "While an enemy unit is within 6\" of this model, worsen the Leadership characteristic of models in that unit by 1. In addition, in the Battle‑shock step of your opponent's Command phase, if such an enemy unit is below its Starting Strength, it must take a Battle‑shock test."
     },
     {
       "id": "e07409b9-e3ac-5c6f-a914-cd73d753e749",
@@ -19163,6 +19403,10 @@
     {
       "id": "e1673330-8e85-5e11-b6c8-16d79cf7e006",
       "body": "While an enemy unit is within Engagement Range of this model, halve the Objective Control characteristic of models in that enemy unit."
+    },
+    {
+      "id": "e1a712a7-bef2-58a8-acda-30f9f12d7a3e",
+      "body": "Each time this model makes an attack that targets a unit that is below its Starting Strength, you can re‑roll the Hit roll. If that target is Below Half‑strength, you can re‑roll the Wound roll as well."
     },
     {
       "id": "e1e6c6b3-6777-57ec-bcaa-ad5a60a93f5c",
@@ -19199,6 +19443,10 @@
     {
       "id": "e36a0330-5b78-5112-b50f-af4060911f98",
       "body": "In the Fight phase, each time an attack targets a friendly WULFEN unit within 6\" of this model, if a model in that unit is destroyed as a result of that attack, if that model has not fought this phase, roll one D6: on a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    },
+    {
+      "id": "e39f70ee-cac3-5df3-b724-14519baeb7ed",
+      "body": "In your Shooting phase, when you select this unit to shoot, you can spend 1 Pain token to Empower this unit. While Empowered, after this unit has shot, select one enemy unit (excluding MONSTERS and VEHICLES) hit by one or more of those attacks; until the start of your next turn, that enemy unit is pinned. While a unit is pinned, subtract 2 from that unit's Move characteristic and subtract 2 from Charge rolls made for that unit."
     },
     {
       "id": "e3cb9895-eb3c-5b21-8971-bb4229d3ff72",
@@ -19267,6 +19515,10 @@
     {
       "id": "e666aef7-c903-56ff-a6db-b4434ba84e67",
       "body": "Each time this model makes a ranged attack that targets a TITANIC or TOWERING unit, you can re-roll the Hit roll."
+    },
+    {
+      "id": "e679dda7-ce33-5a89-84e6-59e8e5ecf252",
+      "body": "Each time an enemy unit (excluding MONSTERS and VEHICLES) within Engagement Range of one or more units from your army with this ability Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle‑shocked, subtract 1 from each of those tests."
     },
     {
       "id": "e6975829-239e-5868-a25a-3e72c162c577",
@@ -19389,6 +19641,10 @@
       "body": "Twice per battle, after an attack has been allocated to this model, you can change the Damage characteristic of that attack to 0.\n\n*Designer's Note: Place two Stealth Drone tokens next to the unit, removing one each time this ability has been used.*"
     },
     {
+      "id": "ecbcf4af-a567-5896-bd3f-b7d4b24b7bdb",
+      "body": "At the start of the first battle round, select one objective marker on the battlefield. Until the end of the battle, while this unit is within range of that objective marker, unless this unit is Battle‑shocked, models in this unit have a 5+ invulnerable save and an Objective Control characteristic of 3."
+    },
+    {
       "id": "eccbfef2-72d4-5ba2-b2c1-9b153dcf7ba4",
       "body": "While a friendly T'AU EMPIRE unit is within 6\" of this model, each time a model in that unit makes a ranged attack, re-roll a Hit roll of 1."
     },
@@ -19419,10 +19675,6 @@
     {
       "id": "edc48f28-6b68-56f3-8981-ac597e61bfd6",
       "body": "In your Movement phase when this model is set up on the battlefield using the Deep Strike ability, it can perform an etheric emergence. If it does, this model can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units, but until the end of the turn, it is not eligible to declare a charge."
-    },
-    {
-      "id": "edd15f84-13d3-57ac-a4e4-8027eeb5d7b3",
-      "body": "Each time this unit destroys an enemy unit, you gain 1 Pain token. When this unit is destroyed, you gain 1 Pain token."
     },
     {
       "id": "ee1feba9-5b06-50e0-8941-800cafacf5bb",
@@ -19534,7 +19786,7 @@
     },
     {
       "id": "f2664784-ff5f-5722-984d-c1ae9a6bd1a2",
-      "body": "In your Shooting phase, after this unit has shot, if it is not within Engagement Range of any enemy units, it can make a Normal move of up to 6\". If it does, until the end of the turn, this unit is not eligible to declare a charge."
+      "body": "In your Shooting phase, when you select this unit to shoot, you can spend 1 Pain token to Empower this unit. While Empowered, each time a model in this unit makes a ranged attack, you can re‑roll the Hit roll."
     },
     {
       "id": "f275c7c1-65db-575d-a5d1-422571f75e96",
@@ -20471,6 +20723,10 @@
       "body": "This model can be attached to the following units:\n\n• ASSAULT INTERCESSORS WITH JUMP PACKS\n• VANGUARD VETERAN SQUAD WITH JUMP PACKS"
     },
     {
+      "id": "5b4da07d-2f05-5f00-872d-e16d998e0fe3",
+      "body": "This model can be attached to the following units:\n\n■HAND OF THE ARCHON\n• INCUBI\n• KABALITE WARRIORS"
+    },
+    {
       "id": "5b95dff3-5632-52d2-af31-f92e96e9db12",
       "body": "This model can be attached to the following unit:\n\n• WARP SPIDERS"
     },
@@ -20747,10 +21003,6 @@
       "body": "This model cannot be your WARLORD."
     },
     {
-      "id": "805cd086-eb84-5267-91d5-a27b134b07cd",
-      "body": "This model can be attached to the following unit:\n\n• WRACKS"
-    },
-    {
       "id": "8091258b-fd25-5e0c-a17a-5d4079c2ab69",
       "body": "This model can be attached to the following units:\n\n• LOKHUST DESTROYERS\n• LOKHUST HEAVY DESTROYERS"
     },
@@ -20844,7 +21096,7 @@
     },
     {
       "id": "8a4ac240-4356-5637-b4a9-104c103396ac",
-      "body": "This model can be attached to the following units:\n\n• COURT OF THE ARCHON\n• INCUBI\n• KABALITE WARRIORS"
+      "body": "This model can be attached to the following units:\n\n• HAND OF THE ARCHON\n• INCUBI\n• KABALITE WARRIORS"
     },
     {
       "id": "8a8207fb-e59b-507f-b99b-f467b604d82e",
@@ -21187,6 +21439,10 @@
       "body": "If a CHARACTER unit from your army with the Leader ability can be attached to a STERNGUARD VETERAN SQUAD, it can be attached to this unit instead."
     },
     {
+      "id": "baa583a0-d4d5-5bc9-9fd1-19ffb031d8bd",
+      "body": "If this unit has a Leader unit attached to it during the Declare Battle Formations step, that Leader unit gains the Scouts 7\" ability."
+    },
+    {
       "id": "babcbe79-a2e4-5787-99c6-bfde206d7cf6",
       "body": "This model can be attached to the following units:\n• STRIKE SQUAD\n• PURGATION SQUAD\n• PURIFIER SQUAD"
     },
@@ -21357,10 +21613,6 @@
     {
       "id": "cef5d063-c187-5771-a092-456945b24f6d",
       "body": "This model can be attached to the following units:\n\n• IMMORTALS\n• NECRON WARRIORS\n\n*You can attach this model to one of the above units even if one* ROYAL WARDEN *or* NOBLE *model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.*"
-    },
-    {
-      "id": "cf33caab-b015-5cf3-8b5f-943088ac5b0e",
-      "body": "In the Declare Battle Formations step, this unit can join one KABALITE WARRIORS unit from your army that is being led by an ARCHON (a KABALITE WARRIORS unit cannot have more than one COURT OF THE ARCHON unit joined to it). If it does, until the end of the battle, every model in this unit counts as part of that KABALITE WARRIORS unit, and its Starting Strength is increased accordingly."
     },
     {
       "id": "cf5ff05b-6314-593e-8c44-10109d455976",
@@ -21620,7 +21872,7 @@
     },
     {
       "id": "f86f2c33-8e4f-5a0a-a0ea-5d4f2e08d2f3",
-      "body": "This model has a transport capacity of 6 DRUKHARI INFANTRY models. This model cannot transport GROTESQUE models or models that can FLY.\n\nBefore the battle, at the start of the Declare Battle Formations step, you can select one KABALITE WARRIORS or WYCHES unit from your army. If you do, that unit is split into two units, each containing as equal a number of models as possible (when splitting a unit in this way, make a note of which models form each of the two new units). One of these units must start the battle embarked within this TRANSPORT; the other can start the battle embarked within another TRANSPORT, or it can be deployed as a separate unit."
+      "body": "This model has a transport capacity of 6 DRUKHARI INFANTRY models (excluding JUMP PACK models).\n\nBefore the battle, at the start of the Declare Battle Formations step, you can select one KABALITE WARRIORS or WYCHES unit from your army that has not already been split. If you do, that unit is split into two units, each containing as equal a number of models as possible (when splitting a unit in this way, make a note of which models form each of the two new units). One of these units must start the battle embarked within this model; the other can start the battle embarked within another TRANSPORT, or it can be deployed as a separate unit."
     },
     {
       "id": "f8758406-2b2d-5b09-8795-9fdea5dba4bb",
@@ -21668,7 +21920,7 @@
     },
     {
       "id": "fbc6dd5a-c082-5373-a600-7827ae48f585",
-      "body": "This model has a transport capacity of 11 DRUKHARI INFANTRY models. Each GROTESQUE model takes up the space of 3 models. This model cannot transport models that can FLY."
+      "body": "This model has a transport capacity of 11 DRUKHARI INFANTRY models (excluding JUMP PACK models)."
     },
     {
       "id": "fc3afb69-f3ad-505c-86d3-e80d4df70e0c",
@@ -21797,6 +22049,10 @@
       "body": "The bearer has a 4+ invulnerable save and each time an attack is allocated to the bearer, subtract 1 from the Damage characteristic of that attack."
     },
     {
+      "id": "1dabd9e6-11c0-5bea-b02c-0c1fbee057af",
+      "body": "The bearer's unit has the SMOKE and GRENADES keywords."
+    },
+    {
       "id": "203ea388-3680-5cb9-b3fd-bd3cce4f5147",
       "body": "Once per turn, the first time a saving throw is failed for the bearer's unit, change the Damage characteristic of that attack to 0."
     },
@@ -21819,6 +22075,10 @@
     {
       "id": "2afba4c4-81b2-5b3e-bba8-270b94a1f82c",
       "body": "The bearer has a Wounds characteristic of 6."
+    },
+    {
+      "id": "2cb80342-62ba-5abf-92cf-76938455b727",
+      "body": "Once per turn, the first time a saving throw is failed for a model in the bearer's unit, change the Damage characteristic of that attack to 0."
     },
     {
       "id": "2fc4d6d3-31bc-574b-bff0-08f377acdab0",
@@ -21875,6 +22135,14 @@
     {
       "id": "420c245d-760d-5256-a9f0-df2c8024a816",
       "body": "Models in the bearer's unit have a Leadership characteristic of 6+."
+    },
+    {
+      "id": "44620908-7389-5f4b-9ae7-d4c1786dd134",
+      "body": "While the bearer's unit is not Battle‑shocked, add 1 to the bearer's Objective Control characteristic."
+    },
+    {
+      "id": "4556f4d2-7e8e-51fa-a3ae-498bdd14b3bf",
+      "body": "The bearer's unit has the SMOKE keyword."
     },
     {
       "id": "461d0953-73cc-5e7f-9964-f3bc09740cad",
@@ -22053,6 +22321,10 @@
       "body": "The bearer has the SMOKE keyword."
     },
     {
+      "id": "7a27d99c-e755-5093-930c-6ace75292ca2",
+      "body": "You cannot re‑roll invulnerable saving throws made for the bearer. The first time an invulnerable saving throw made for the bearer is failed, until the end of the battle, the bearer has no invulnerable save."
+    },
+    {
       "id": "7ac9e93e-baae-51eb-ab26-dd3f96baec60",
       "body": "The bearer can FLY and has a Move characteristic of 10\"."
     },
@@ -22121,6 +22393,10 @@
       "body": "You can re-roll Advance and Charge rolls made for the bearer's unit."
     },
     {
+      "id": "9a25cc27-1267-58ee-80b9-8515c83aaf09",
+      "body": "The bearer's melee weapons have an Armour Penetration characteristic of -2 and the LETHAL HITS ability."
+    },
+    {
       "id": "9dbe98fa-7a61-575b-8263-0f8acbe6e9b4",
       "body": "Each time a model in the bearer's unit makes a ranged attack, re‑roll a Hit roll of 1."
     },
@@ -22149,8 +22425,16 @@
       "body": "While a friendly NECRONS unit is within 6\" of the bearer, models in that unit have the Feel No Pain 5+ ability against mortal wounds and Psychic Attacks."
     },
     {
+      "id": "abf14f64-3fab-5b8a-9f3a-f10ba53f5c5d",
+      "body": "Once per battle for each Incubi Shrine token this unit has, you can change the result of one Hit roll or one Wound roll made for a Klaivex or Incubi model in this unit to an unmodified 6.\n\nDesigner's Note: *Place an Incubi Shrine token next to the unit for each Incubi Shrine token it has, removing one each time this ability is used.*"
+    },
+    {
       "id": "b0cc71da-f0f9-5276-805a-47907de1f9ed",
       "body": "While the bearer is leading a unit, models in that unit have a 6+ invulnerable save."
+    },
+    {
+      "id": "b17f8f97-e6ee-5f33-bcfe-2de17e697547",
+      "body": "Add 1 to the Attacks and Strength characteristics of the bearer's melee weapons. The first time the bearer makes a melee attack that destroys an enemy model, after all the bearer's attacks have been resolved, until the end of the battle, add an additional 1 to the Attacks and Strength characteristics of the bearer's melee weapons."
     },
     {
       "id": "b39a546e-9b2d-57fa-a7f8-59745043c14a",
