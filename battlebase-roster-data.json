@@ -26,7 +26,7 @@
     },
     {
       "id": "10340f95-115f-5338-b7d3-cb1d06dc6289",
-      "body": "If your Army Faction is THOUSAND SONS, at the start of your Shooting phase, one or more models from your army with this ability can attempt Rituals from those listed on the right. To do so, select one model from your army with this ability that has not yet attempted a Ritual this turn and select one Ritual no model from your army has attempted to manifest this turn, then take a Psychic test for that model by following the sequence below.\n\nPsychic Test Sequence\n\nRoll 2D6\nRoll 2D6\nChannel the Warp\n(Optional)\nOptionally, you can roll one additional D6.\nThen, if one or more doubles or triples were rolled during this test, that model's unit suffers D3 mortal wounds.\nIf that model is not destroyed, the combined total of all the dice rolled during this test is the Psychic test result. If this equals or exceeds the Warp Charge value of the Ritual being attempted, that model manifests that Ritual and you resolve its effects.\nSelect one enemy unit within 24\" of and visible to the manifesting model. Until the end of the phase, each time a THOUSAND SONS model from your army makes an attack that targets that unit, re-roll a Hit roll of 1. If the Psychic test result for this Ritual was 10+, you can re-roll the Hit roll instead.\nSelect one friendly THOUSAND SONS unit that is not within Engagement Range of one or more enemy units and is within 24\" of and visible to the manifesting model. That unit can make a Normal move of up to D6\". If the Psychic test result for this Ritual was 10+, that unit can make a Normal move of up to 6\" instead. In either case, until the end of the turn, that unit is not eligible to declare a charge.\nSelect one enemy unit within 24\" of and visible to the manifesting model (excluding units with the Lone Operative ability that are not part of an Attached unit and are not within 12\" of the manifesting model); that unit suffers D3 mortal wounds. If the Psychic test result for this Ritual was 11+, that unit suffers D3+3 mortal wounds instead.\nSelect one enemy unit within 24\" of and visible to the manifesting model. Until the end of the phase, each time a THOUSAND SONS model from your army makes an attack that targets that unit, improve the Armour Penetration characteristic of that attack by 1. If the Psychic test result for this Ritual was 12+, improve the Armour Penetration characteristic of that attack by 2 instead."
+      "body": "If your Army Faction is THOUSAND SONS, at the start of your Shooting phase, one or more models from your army with this ability can attempt Rituals from those listed on the right. To do so, select one model from your army with this ability that has not yet attempted a Ritual this turn and select one Ritual no model from your army has attempted to manifest this turn, then take a Psychic test for that model by following the sequence below.\n\nPsychic Test Sequence\n\nRoll 2D6\nRoll 2D6\nChannel the Warp\n(Optional)\nOptionally, you can roll one additional D6.\nThen, if one or more doubles or triples were rolled during this test, that model's unit suffers D3 mortal wounds.\nIf that model is not destroyed, the combined total of all the dice rolled during this test is the Psychic test result. If this equals or exceeds the Warp Charge value of the Ritual being attempted, that model manifests that Ritual and you resolve its effects.\nSelect one enemy unit within 24\" of and visible to the manifesting model. Until the end of the phase, each time a THOUSAND SONS or SCINTILLATING LEGIONS model from your army makes an attack that targets that unit, re-roll a Hit roll of 1. If the Psychic test result for this Ritual was 10+, you can re-roll the Hit roll instead.\nSelect one friendly THOUSAND SONS or SCINTILLATING LEGIONS unit that is not within Engagement Range of one or more enemy units and is within 24\" of and visible to the manifesting model. That unit can make a Normal move of up to D6\". If the Psychic test result for this Ritual was 10+, that unit can make a Normal move of up to 6\" instead. In either case, until the end of the turn, that unit is not eligible to declare a charge.\nSelect one enemy unit within 24\" of and visible to the manifesting model (excluding units with the Lone Operative ability that are not part of an Attached unit and are not within 12\" of the manifesting model); that unit suffers D3 mortal wounds. If the Psychic test result for this Ritual was 11+, that unit suffers D3+3 mortal wounds instead.\nSelect one enemy unit within 24\" of and visible to the manifesting model. Until the end of the phase, each time a THOUSAND SONS or SCINTILLATING LEGIONS model from your army makes an attack that targets that unit, improve the Armour Penetration characteristic of that attack by 1. If the Psychic test result for this Ritual was 12+, improve the Armour Penetration characteristic of that attack by 2 instead."
     },
     {
       "id": "13872dd0-a010-5046-a8d3-c489ef8ab8ad",
@@ -138,7 +138,7 @@
     },
     {
       "id": "89148fae-f21f-56ef-9db9-b46a9be80099",
-      "body": "If your Army Faction is ASURYANI, at the start of the battle round, you receive a number of Battle Focus tokens based on the battle size, as shown in the table below.\n\" In an Incursion sized battle, you receive 2 Battle Focus tokens at the start of the battle round. In a Strike Force sized battle, you receive 4 Battle Focus tokens at the start of the battle round. In an Onslaught sized battle, you receive 6 Battle Focus tokens at the start of the battle round.\"\nEach time one of the triggers shown in the Agile Manoeuvres section below occurs, you can spend one Battle Focus token to enable the relevant eligible unit to perform that Agile Manoeuvre. A unit is eligible to perform an Agile Manoeuvre if it has this ability and has not already performed an Agile Manoeuvre in the same phase. Unless otherwise stated, you cannot trigger the same Agile Manoeuvre more than once per phase. At the end of the battle round, all unspent Battle Focus tokens are lost.\n\nAgile Manoeuvres\n\n\nSwift as the Wind\nTRIGGER: When an eligible unit from your army is selected to make a Normal, Advance or Fall Back move. You can trigger this Agile Manoeuvre more than once per phase (provided a different unit performs it each time).\nEFFECT: Until the end of the phase, add 2\" to the Move characteristic of models in that unit.\n\nFlitting Shadows\nTRIGGER: When an eligible unit from your army is selected to make a Normal, Advance or Fall Back move, is set up on the battlefield, or declares a charge.\nEFFECT: Until the end of the turn, enemy units cannot use the Fire Overwatch Stratagem to shoot at that unit.\n\nStar Engines\nTRIGGER: When an eligible VEHICLE unit from your army is selected to make a Normal move.\nEFFECT: Until the end of the phase, add D6+1\" to the Move characteristic of models in that unit.\n\nSudden Strike\nTRIGGER: When an eligible unit from your army is selected to fight.\nEFFECT: Until the end of the phase, each time a model in that unit makes a Pile‑in or Consolidation move, it can move up to 6\" instead of up to 3\".\n\nOpportunity Seized\nTRIGGER: When an enemy unit ends a Fall Back move.\nEFFECT: One eligible unit from your army (excluding TITANIC units) that started the phase within Engagement Range of that enemy unit can make a Normal move of up to D6+1\".\n\nFade Back\nTRIGGER: In your opponent's Shooting phase, just after an enemy unit has shot.\nEFFECT: One eligible unit from your army (excluding TITANIC units) that was hit by one or more of those attacks can make a Normal move of up to D6+1\"."
+      "body": "If your Army Faction is ASURYANI, at the start of the battle round, you receive a number of Battle Focus tokens based on the battle size, as shown in the table below.\n\" In an Incursion sized battle, you receive 2 Battle Focus tokens at the start of the battle round. In a Strike Force sized battle, you receive 4 Battle Focus tokens at the start of the battle round. In an Onslaught sized battle, you receive 6 Battle Focus tokens at the start of the battle round.\"\nEach time one of the triggers shown in the Agile Manoeuvres section below occurs, you can spend one Battle Focus token to enable the relevant eligible unit to perform that Agile Manoeuvre. A unit is eligible to perform an Agile Manoeuvre if it has this ability and has not already performed an Agile Manoeuvre in the same phase. Unless otherwise stated, you cannot trigger the same Agile Manoeuvre more than once per phase. At the end of the battle round, all unspent Battle Focus tokens are lost.\n\nAgile Manoeuvres\n\n\nSwift as the Wind\nTRIGGER: When an eligible unit from your army is selected to make a Normal, Advance or Fall Back move. You can trigger this Agile Manoeuvre more than once per phase (provided a different unit performs it each time).\nEFFECT: Until the end of the phase, add 2\" to the Move characteristic of models in that unit.\n\nFlitting Shadows\nTRIGGER: When an eligible unit from your army is selected to make a Normal, Advance or Fall Back move, is set up on the battlefield, or declares a charge.\nEFFECT: Until the end of the turn, enemy units cannot use the Fire Overwatch Stratagem to shoot at that unit.\n\nStar Engines\nTRIGGER: When an eligible VEHICLE unit from your army is selected to make an Advance move.\nEFFECT: Until the end of the turn, Ranged weapons equipped by this unit have the ASSAULT ability.\n\nSudden Strike\nTRIGGER: When an eligible unit from your army is selected to fight.\nEFFECT: Until the end of the phase, each time a model in that unit makes a Pile‑in or Consolidation move, it can move up to 6\" instead of up to 3\".\n\nOpportunity Seized\nTRIGGER: When an enemy unit ends a Fall Back move.\nEFFECT: One eligible unit from your army (excluding TITANIC units) that started the phase within Engagement Range of that enemy unit can make a Normal move of up to D6+1\".\n\nFade Back\nTRIGGER: In your opponent's Shooting phase, just after an enemy unit has shot.\nEFFECT: One eligible unit from your army (excluding TITANIC units) that was hit by one or more of those attacks can make a Normal move of up to D6+1\"."
     },
     {
       "id": "89612c71-13c1-50e5-b978-07757c4c944a",
@@ -154,7 +154,7 @@
     },
     {
       "id": "9c8a5fd4-9b2a-5d6b-9cf6-f5d31b3e7252",
-      "body": "If your Army Faction is IMPERIAL KNIGHTS, at the end of the Read Mission Objectives step, you must determine your army's Oath for the coming battle. An Oath consists of two parts - one Deed and one Quality. There are three options for each part, shown below.\n\nTo determine your army's Deed, you can either select one Deed or you can randomly select one Deed by rolling a D6 and consulting the relevant table below. The selected Deed will describe what needs to be achieved in order to complete that Deed.\n\nTo determine your army's Quality, you can either select one Quality or you can randomly select one Quality by rolling a D6 and consulting the relevant table below. Until the end of the battle, the ability described in the Quality selected applies to all models in your army with this ability.\n\nThe first time your selected Deed is completed your Oath is fulfilled and, until the end of the battle, your army becomes Honoured and you gain 2CP, or 3CP if you randomly selected your Deed and/or Quality (CP gained in this way are an exemption to the Core Rules that limit the maximum number of CP you can gain per battle round to 1).\n\nDeed\n\nAt the start of the battle, select one CHARACTER model in your opponent's army. This Deed is completed at the end of a turn if that CHARACTER is destroyed.\nThis deed is completed at the end of your opponent's turn if you control more objective markers than your opponent.\nThis deed is completed at the end of a turn if the number of destroyed enemy units is greater than the battle round number even if those units are subsequently returned to the battlefield (for example, two destroyed enemy units in the first battle round).\n\nQuality\n\nEach time this model is selected to shoot or fight, you can re‑roll one Hit roll and you can re‑roll one Wound roll.\nAdd 2” to this model's Move characteristic and add 1 to Advance and Charge rolls made for this model.\nImprove this model's Objective Control characteristic by 2 and its Leadership characteristic by 1."
+      "body": "If your Army Faction is IMPERIAL KNIGHTS, at the end of the Read Mission Objectives step, you must determine your army's Oath for the coming battle. An Oath consists of two parts - one Deed and one Quality. There are three options for each part, shown below.\n\nTo determine your army's Deed, you can either select one Deed or you can randomly select one Deed by rolling a D6 and consulting the relevant table below. The selected Deed will describe what needs to be achieved in order to complete that Deed.\n\nTo determine your army's Quality, you can either select one Quality or you can randomly select one Quality by rolling a D6 and consulting the relevant table below. Until the end of the battle, the ability described in the Quality selected applies to all models in your army with this ability.\n\nThe first time your selected Deed is completed your Oath is fulfilled and, until the end of the battle, your army becomes Honoured and you gain 2CP, or 3CP if you randomly selected your Deed and/or Quality (CP gained in this way are an exemption to the Core Rules that limit the maximum number of CP you can gain per battle round to 1).\n\nDeed\n\nAt the start of the battle, select one CHARACTER model in your opponent's army. This Deed is completed at the end of a turn if that CHARACTER is destroyed.\nThis deed is completed at the end of your opponent's turn if you control more objective markers than your opponent.\nThis deed is completed at the end of the battle round if the number of enemy units destroyed this battle round is greater than the battle round number even if those units are subsequently returned to the battlefield (for example, two destroyed enemy units in the first battle round).\n\nQuality\n\nEach time this model is selected to shoot or fight, you can re‑roll one Hit roll and you can re‑roll one Wound roll.\nAdd 2” to this model's Move characteristic and add 1 to Advance and Charge rolls made for this model.\nImprove this model's Objective Control characteristic by 2 and its Leadership characteristic by 1."
     },
     {
       "id": "a24b6229-cf6e-5de1-9ef0-38801dcce44a",
@@ -4598,6 +4598,10 @@
       "body": "Each time an attack with an unmodified Damage characteristic of 1 is allocated to a RUBRICAE model from your army, add 1 to any armour saving throw made against that attack."
     },
     {
+      "id": "19c671ca-3968-5d69-8250-a4cf4529fa35",
+      "body": "At the start of your Command phase, you can select one of the Hunting Packs listed below. Until the start of your next Command phase, that Hunting Pack is active and its effects apply to all ADEPTUS ASTARTES units from your army. You can only select each Hunting Pack once per battle. \n\n• Encircling Jaws: This unit can re-roll Advance rolls and Charge rolls. \n• Hunter's Eye: Each time a model in this unit makes a ranged attack, add 1 to the Hit roll. \n• Ferocious Strike: Each time this unit is selected to fight, select either the LETHAL HITS or SUSTAINED HITS 1 ability. Until the end of the phase, weapons equipped by models in this unit have the selected ability."
+    },
+    {
       "id": "1a655c83-02d8-5ba3-9a95-0c8552cd40d2",
       "body": "You can include PLAGUE LEGIONS units in your army, even though they do not have the DEATH GUARD Faction keyword. The combined points cost of such units you can include in your army is:\n\n• Incursion: Up to 500 pts\n• Strike Force: Up to 1000 pts\n• Onslaught: Up to 1500 pts\n\nNo PLAGUE LEGIONS models from your army can be your WARLORD."
     },
@@ -4614,12 +4618,20 @@
       "body": "Each time a WORLD EATERS unit from your army makes a Charge move, until the end of the turn, add 1 to the Attacks characteristic and add 2 to the Strength characteristic of melee weapons equipped by models in that unit."
     },
     {
+      "id": "1cd3cdf2-9b2f-51c6-ae78-12350ada66af",
+      "body": "In the Battle‑shock step of your opponent's Command phase, if an enemy unit that is below its Starting Strength is within 12\" of one or more HERETIC ASTARTES units from your army, that enemy unit must take a Battle‑shock test, subtracting 1 from the result. Enemy units affected by this Detachment rule do not need to take any other Battle‑shock tests in the same phase.\n\nEach time a HERETIC ASTARTES model from your army makes an attack that targets a unit that is Below Half‑strength, add 1 to the Hit roll.\n\nEach time an attack targets a HERETIC ASTARTES unit from your army, if the attacking model is Battle‐shocked, subtract 1 from the Hit roll.\n\nEach time a HERETIC ASTARTES model from your army makes an attack that targets a Battle‐shocked unit, add 1 to the Wound roll."
+    },
+    {
       "id": "1de80cf1-dba2-5da0-b859-94aafa087e2f",
       "body": "Once per battle, in your Command phase, you can use this ability. If you do, until the start of your next Command phase, each time a model from your army with the Oath of Moment ability makes an attack that targets your Oath of Moment target, you can re-roll the Wound roll as well."
     },
     {
       "id": "1e1a0b86-177e-5242-8ad7-beed44370a2b",
       "body": "Each time a model in an ADEPTUS CUSTODES unit from your army (excluding VEHICLES) makes an attack, if there are no other friendly units within 6\" of that unit, add 1 to the Hit roll and add 1 to the Wound roll."
+    },
+    {
+      "id": "1e804eb6-6846-5d9c-b06f-6c54a8af54a3",
+      "body": "TROUPE units from your army gain the BATTLELINE keyword, and TROUPE models in those units have an Objective Control characteristic of 2.\n\nYou can include up to three of each of the following models in your army: DEATH JESTER, SHADOWSEER, TROUPE MASTER."
     },
     {
       "id": "1efa4697-7518-5019-83be-1dc681559f8c",
@@ -4690,6 +4702,10 @@
       "body": "You can include TYRANIDS VANGUARD INVADER units (excluding AIRCRAFT, BROODLORD and GENESTEALERS units) in your army. The combined points cost of such units depends on your battle size:\n\n• Incursion: Up to 500 pts\n• Strike Force: Up to 1000 pts\n• Onslaught: Up to 1500 pts\n\nNo TYRANIDS models from your army can be your WARLORD."
     },
     {
+      "id": "326b0750-81b1-55fb-8ca9-f832bc37da52",
+      "body": "Add 1 to the number of Orders each ASTRA MILITARUM OFFICER model from your army can issue, as stated on their datasheet.\n\nWhile an ASTRA MILITARUM unit from your army is affected by an Order, each time a model in that unit makes an attack, re-roll a Hit roll of 1. If the target of that attack is within range of an objective marker, re-roll a Wound roll of 1 as well."
+    },
+    {
       "id": "32900c06-e7b5-52c3-9e9c-3e5412e664e2",
       "body": "At the start of the first battle round, select one of the following Benedictions of the Omnissiah to be active for Cult Mechanicus units from your army until the end of the battle:\n\nPANEGYRIC PROCESSION\n\nEach time a CULT MECHANICUS model from your army makes a ranged attack that targets a unit within half range, improve the Armour Penetration characteristic of that attack by 1.\n\nCITATION IN SAVAGERY\n\nEach time a CULT MECHANICUS unit from your army is selected to fight, if that unit made a Charge move this turn, until the end of the phase, add 1 to the Strength and Attacks characteristics of melee weapons equipped by models in that unit."
     },
@@ -4748,6 +4764,10 @@
     {
       "id": "4295e7b8-fe34-5341-80b6-e75aac8f9468",
       "body": "Each time a ranged attack targets a HERETIC ASTARTES unit from your army (excluding DAMNED units), if the Strength characteristic of that attack is greater than the Toughness characteristic of that unit, subtract 1 from the Wound roll."
+    },
+    {
+      "id": "45bc9c66-4750-540f-9e21-ba5a9614e370",
+      "body": "EMPEROR'S CHILDREN units from your army have the following ability:\n\nSensational Performance: Each time this unit is selected to fight, if this unit made a Charge move this turn, it can use this ability. If it does, until the end of the phase:\n\n• This unit cannot target a unit it was within Engagement Range of at the start of the turn.\n• This unit cannot target a unit that was the target of another unit's charge or attack this phase.\n• Improve the Strength and Armour Penetration characteristics of this unit's melee weapons by 1."
     },
     {
       "id": "491114a3-b7c7-56db-a7f8-47f5f4a52a0e",
@@ -4938,6 +4958,14 @@
       "body": "In your Command phase, each HARVESTER unit from your army can Regenerate one friendly TYRANIDS unit that is within 6\" of it. A unit can only be regenerated once per phase. Each time a unit regenerates, do one of the following:\n\n• One model in that unit regains up to D3+1 lost wounds.\n• One destroyed INFANTRY model (excluding CHARACTERS) is returned to that unit with its full wounds remaining. If that unit is an ENDLESS MULTITUDE unit, up to 3 destroyed models are returned instead."
     },
     {
+      "id": "818b2e6a-5afa-5803-8e4e-502a2bbe4f42",
+      "body": "Your army can include SPACE WOLVES units, but it cannot include any ADEPTUS ASTARTES units drawn from any other Chapter."
+    },
+    {
+      "id": "83193e2f-3290-548a-8d48-3729e0c3020d",
+      "body": "Once per battle, when selecting a Hunting Pack for the Master of Wolves Detachment rule (see above), if a LOGAN GRIMNAR model from your army is on the battlefield, you can select a Hunting Pack you have already selected this battle."
+    },
+    {
       "id": "84bc5c35-1bda-5e5f-9605-ebf47dacb33b",
       "body": "Each time a model from your army with the Oath of Moment ability makes an attack that targets your Oath of Moment target, you can re‑roll a Wound roll of 1.\n\nEach time a model in a DARNATH LYSANDER unit from your army makes an attack that targets your Oath of Moment target, you can re‑roll the Wound roll."
     },
@@ -5078,6 +5106,10 @@
       "body": "OUTRIDER SQUAD units from your army gain the BATTLELINE keyword."
     },
     {
+      "id": "a1342cd4-2f21-5191-9400-ffd040da480f",
+      "body": "Weapons equipped by HARLEQUINS MOUNTED and HARLEQUINS VEHICLE models from your army have the SUSTAINED HITS 1 ability.\n\nEach time a HARLEQUINS unit from your army disembarks from a TRANSPORT, until the end of the turn, that unit's weapons have the SUSTAINED HITS 1 ability."
+    },
+    {
       "id": "a25a7320-46bf-58e4-83f1-85067fc8271f",
       "body": "LEAGUES OF VOTANN TRANSPORT units from your army have the following ability:\n\nFirebase Control (Aura): While a friendly LEAGUES OF VOTANN INFANTRY unit is wholly within 6\" of this TRANSPORT, ranged weapons equipped by models in that INFANTRY unit have the SUSTAINED HITS 1 ability."
     },
@@ -5147,7 +5179,7 @@
     },
     {
       "id": "b3145006-a88f-5adf-9950-6850710db8d8",
-      "body": "Each time an EMPEROR'S CHILDREN model from your army makes an attack, if it disembarked from a TRANSPORT this turn, re-roll a Hit roll of 1 and re-roll a Wound roll of 1."
+      "body": "Each time an EMPEROR'S CHILDREN model from your army makes an attack, if it is a TRANSPORT model or disembarked from a TRANSPORT this turn, re-roll a Hit roll of 1 and re-roll a Wound roll of 1."
     },
     {
       "id": "b3963333-eacb-51f0-a83c-c8bec642569b",
@@ -5260,6 +5292,10 @@
     {
       "id": "cb61f143-db40-5c36-873a-1d056f23c368",
       "body": "Once per battle round, after your Oath of Moment target is destroyed, if a CAANOK VAR model from your army is on the battlefield, select one enemy unit visible to that model. That enemy unit becomes your Oath of Moment target until you select a new one."
+    },
+    {
+      "id": "ceba4e7d-7573-5778-abf6-4feb53c2c3ca",
+      "body": "Each time an ADEPTUS ASTARTES model from your army makes a melee attack, re-roll a Wound roll of 1.\n\nEach time an ADEPTUS ASTARTES unit from your army is selected to fight, if that unit made a Charge move this turn, until the end of the phase, add 1 to the Attacks characteristic of melee weapons equipped by models in that unit. If your unit is Battle-shocked, add 2 to the Attacks characteristic of melee weapons equipped by models in that unit instead."
     },
     {
       "id": "cf727880-8255-5c72-8b4e-c2a996fbab3e",
@@ -5378,8 +5414,16 @@
       "body": "In the Declare Battle Formations step you can set up ASURYANI MOUNTED and VYPER units from your army in Reserves. During the battle, such units can be set up on the battlefield as if they were arriving from Strategic Reserves. For the purposes of setting up ASURYANI MOUNTED or VYPER units from your army on the battlefield, treat the current battle round number as being one higher than it actually is.\n\nIn addition, at the end of your opponent's turn, you can select a number of ASURYANI MOUNTED or VYPER units from your army (excluding units within Engagement Range of one or more enemy units), then remove those units from the battlefield and place them into Strategic Reserves. The maximum number of units you can select depends on the battle size, as shown below.\n\" In an Incursion sized battle, you can select up to 1 unit. In a Strike Force sized battle, you can select up to 2 units. In an Onslaught sized battle, you can select up to 3 units.\""
     },
     {
+      "id": "f8d9ef91-0b08-5897-ba2e-1b5a0a4cd8b9",
+      "body": "Once per battle round, when you target a FULGRIM unit from your army with the Sinuous Breach or Prideful Superiority Stratagem, you can reduce the CP cost of that use of that Stratagem by 1CP."
+    },
+    {
       "id": "f8dc3625-530f-53e2-9555-3676f68684ac",
       "body": "IMPERIAL KNIGHT units from your army have the following the ability:\n\nSacristan Pledge: In your Command phase, one model in this unit regains 1 lost wound. If this unit is within 3\" of one or more friendly TECH‐PRIEST models, one model in this unit regains up to D3 lost wounds instead.\n\nADEPTUS MECHANICUS units from your army have the following ability:\n\nDivine Inspiration: Each time a model in this unit makes a ranged attack, re‐roll a Hit roll of 1. If this unit is within 6\" of one or more friendly IMPERIAL KNIGHTS units, re‐roll a Wound roll of 1 as well."
+    },
+    {
+      "id": "f93d5182-3916-58b3-aac7-3148d047c357",
+      "body": "Your army can include BLOOD ANGELS units, but it cannot include ADEPTUS ASTARTES units drawn from any other Chapter."
     },
     {
       "id": "f98c9a6b-9dc2-5b0d-a734-fecf728079e1",
@@ -5460,6 +5504,10 @@
       "body": "INFANTRY OFFICER model only. Enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer's unit."
     },
     {
+      "id": "03bb4073-37cb-5c44-93ef-4ed2250a6e29",
+      "body": "WOLF PRIEST model only. At the start of the Fight phase, you can select one enemy unit within 6\" of the bearer. That unit must take a Battle-shock, subtracting 1 from the result."
+    },
+    {
       "id": "03cf7890-3cc9-544c-abfb-d2bacefbb5bf",
       "body": "THOUSAND SONS model only. While the bearer's unit is on the battlefield, it is wholly within your army's Flow of Magic. Models in that unit cannot be selected to use any Rituals."
     },
@@ -5526,6 +5574,10 @@
     {
       "id": "09f19614-a608-5ac0-a907-98705a3d8be8",
       "body": "SPACE WOLVES model only. Once per battle, at the start of the Fight phase, if the bearer is leading a BLOOD CLAWS unit, the bearer can use this Enhancement. If it does, until the end of the phase, improve the Armour Penetration characteristic of melee weapons equipped by models in that unit by 1."
+    },
+    {
+      "id": "0b72004c-57e1-5127-ba0d-9ef87e23214e",
+      "body": "TROUPE MASTER model only. Add 3 to the Strength and add 1 to the Attacks characteristics of the bearer's melee weapons."
     },
     {
       "id": "0b879349-bd25-582f-849d-3404e27b2fc5",
@@ -5664,6 +5716,10 @@
       "body": "ADEPTUS ASTARTES model only. The first time the bearer is destroyed, remove it from play, then, at the end of the phase, roll one D6: on a 2+, set the bearer back up on the battlefield as close as possible to where it was destroyed and not within Engagement Range of one or more enemy units, with 3 wounds remaining."
     },
     {
+      "id": "1626576b-4c2c-5c01-a5ee-4e3923253e36",
+      "body": "ADEPTUS ASTARTES model only. Once per battle, at the start of the Fight phase, the bearer can use this Enhancement. If it does, until the end of the phase, models in the bearer's unit have the Fights First ability."
+    },
+    {
       "id": "16301885-ea6b-576a-80ca-96d9ad9fc908",
       "body": "LEAGUES OF VOTANN model only. Each time the bearer's unit is selected to fight, the bearer can use this Enhancement. If it does, spend up to 2YP and, until the end of the phase, add the number of YP you just spent to the Damage characteristic of the bearer's melee weapons."
     },
@@ -5674,6 +5730,10 @@
     {
       "id": "1685667c-0dc6-5d3b-b327-bd34e2adaaf8",
       "body": "INFANTRY OFFICER model only. The bearer's unit can disembark from a TRANSPORT after it has Advanced. If it does, it counts as having made a Normal move that phase, and cannot declare a charge in the same turn, but can otherwise act normally in the remainder of the turn."
+    },
+    {
+      "id": "16a44c17-d897-5fff-8f99-3490bc2ef5a2",
+      "body": "ADEPTUS ASTARTES model only. While a friendly DEATH COMPANY unit is within 6\" of the bearer, add 1 to the Strength characteristic of weapons equipped by models in that unit."
     },
     {
       "id": "16a86b31-9614-5f16-b154-b6833e9a093b",
@@ -5738,6 +5798,10 @@
     {
       "id": "1cd5fded-a562-5a26-b078-2175b5952868",
       "body": "TECH-PRIEST model only. While the bearer is leading a unit that is within range of your Acquisition objective marker, once per phase, you can change the result of one Hit roll, one Wound roll or one saving throw made for that unit to an unmodified 6."
+    },
+    {
+      "id": "1d281e34-1e73-51ec-bd1e-2e43101dcf1b",
+      "body": "ASTRA MILITARUM OFFICER model only. Each time you select a unit for this OFFICER model to issue an Order to, that unit can be within 12\" instead of within 6\"."
     },
     {
       "id": "1d38ddd1-7703-5d1e-a17e-045375bc92ca",
@@ -5812,6 +5876,10 @@
       "body": "CHAOS KNIGHTS model only. The bearer's ranged weapons have the ASSAULT ability. While the bearer is using the Unholy Hunger ability, it can ignore any or all modifiers to its Move characteristic and/or to Advance rolls made for its unit."
     },
     {
+      "id": "260015c5-f11e-55f8-8cc8-d7101bb65fd0",
+      "body": "ASTRA MILITARUM INFANTRY OFFICER model only. Each time you select an Order for the bearer to issue, you can select the Order below:\n\nMove to the Shadows (Order): Each time a ranged attack targets this unit, until those attacks are resolved, models in this unit have the Stealth ability."
+    },
+    {
       "id": "260ab6e4-7091-5e30-9b12-7b25b0923188",
       "body": "ADEPTUS ASTARTES model only. At the start of your Shooting phase, select one enemy unit within 12\" of and visible to the bearer. Until the end of the phase, models in that unit cannot have the Benefit of Cover."
     },
@@ -5850,6 +5918,10 @@
     {
       "id": "28c96e63-bff3-521a-a62f-5d2fee413805",
       "body": "CHAOS KNIGHTS model only. At the start of the Fight phase, each enemy unit within Engagement Range of the bearer must take a Battle-shock test."
+    },
+    {
+      "id": "28d11774-2e17-5fd0-ab74-ef3e4f2c7c6c",
+      "body": "CHAOS LORD JUMP PACK model only. At the end of your opponent's Fight phase, if the bearer's unit is not within Engagement Range of one or more enemy units, you can remove the bearer's unit from the battlefield and place it into Strategic Reserves."
     },
     {
       "id": "29223901-a165-5bfe-86e5-fbd762c53dc8",
@@ -5896,6 +5968,10 @@
       "body": "DEATHWING model with the Deep Strike ability only. The bearer's unit can be set up using the Deep Strike ability in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules."
     },
     {
+      "id": "2c817996-6fc9-5919-a8e2-b7488dea9ba0",
+      "body": "ADEPTUS ASTARTES model only. After both players have deployed their armies, select up to three ADEPTUS ASTARTES units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves, regardless of how many units are already in Strategic Reserves."
+    },
+    {
       "id": "2ca8f874-2ead-5418-b202-f1f8fc06028e",
       "body": "TECH-PRIEST model only. While the bearer is leading a unit, each time a model in that unit makes an attack that targets a unit within range of your Acquisition objective marker, add 1 to the Hit roll."
     },
@@ -5938,6 +6014,10 @@
     {
       "id": "318f27d7-fdae-5671-a5a2-a6b50ffbbf3c",
       "body": "WARBOSS INFANTRY model only. During the Declare Battle Formations step, the bearer can be attached to a KOMMANDOS unit. While leading a KOMMANDOS unit, it has the Infiltrators and Stealth abilities."
+    },
+    {
+      "id": "31c75a40-8360-5e4e-b891-4fb2d4b0a123",
+      "body": "ADEPTUS ASTARTES model only. Each time the bearer makes a melee attack that targets a CHARACTER, MONSTER or VEHICLE unit, that attack has the SUSTAINED HITS 2 ability."
     },
     {
       "id": "329348f3-0dc6-5ba5-9fb5-165c4708e39a",
@@ -6020,6 +6100,10 @@
       "body": "ADEPTUS ASTARTES model only. Add 1 to the Attacks characteristic of the bearer's melee weapons. Once per battle, at the start of any phase, the bearer can use this Enhancement. If it does, until the end of the phase, add 1 to the Attacks characteristic of melee weapons equipped by other models in the bearer's unit as well."
     },
     {
+      "id": "38af4e18-c4aa-5c58-8557-67ce807bbc62",
+      "body": "EMPEROR'S CHILDREN model only. Each time a model in the bearer's unit makes a melee attack, you can ignore any or all modifiers to that attack's Weapon Skill characteristic and any or all modifiers to the Hit roll and Wound roll."
+    },
+    {
       "id": "39005cac-eb42-5f0d-bdf1-2e047fbd80d0",
       "body": "GREY KNIGHTS INFANTRY model only. In your Movement phase, each time the bearer's unit disembarks from a TRANSPORT, until the end of the turn, you can re-roll Charge rolls made for that unit."
     },
@@ -6074,6 +6158,10 @@
     {
       "id": "3e70e243-1897-54c0-a3d6-8847824ac542",
       "body": "DARK APOSTLE or DAMNED model only. If every other model in the bearer's unit (excluding Dark Disciples) is DAMNED, you can re-roll Advance and Charge rolls made for the bearer's unit."
+    },
+    {
+      "id": "3eab7a59-4cab-53f0-b445-2f6eb0bd866e",
+      "body": "EMPEROR'S CHILDREN model only. At the start of the Fight phase, you can select one enemy unit within Engagement Range of the bearer; that unit must take a Battle‑shock test, subtracting 1 from the result."
     },
     {
       "id": "3edd7a32-644d-5ea6-843e-8f7ac05ee3bf",
@@ -6182,6 +6270,10 @@
     {
       "id": "49df3c25-812d-5f7f-ad47-b2512cd819d8",
       "body": "ADEPTUS ASTARTES model only. While the bearer is leading a unit, ranged weapons equipped by models in that unit have the SUSTAINED HITS 1 ability. In addition, while the bearer's unit is under the effects of the Devastator Doctrine, you can re-roll Advance rolls made for that unit."
+    },
+    {
+      "id": "4a0220dd-8b29-5a12-b65c-b5fabf55b4e5",
+      "body": "EMPEROR'S CHILDREN DAEMON PRINCE model only. Add 1 to the Strength and Attacks characteristics of the bearer's melee weapons."
     },
     {
       "id": "4a9464d3-74ea-569c-99c5-99396aa27065",
@@ -6744,6 +6836,10 @@
       "body": "OVERLORD model only. Each time a model in the bearer's unit makes an attack that targets an enemy unit within range of an objective marker, you can re-roll the Hit roll."
     },
     {
+      "id": "74763635-ae75-53f9-b3e3-bedf9614e24f",
+      "body": "WOLF GUARD BATTLE LEADER model only. While the bearer is leading a unit, weapons equipped by models in that unit have the LANCE ability."
+    },
+    {
       "id": "74a77cc3-fa83-5c48-ba84-c3a8974062af",
       "body": "CRUSADE ANCIENT model only. While the bearer is leading a unit, each time you roll one D6 for the bearer's Vengeful Exhortation ability, add 1 to the result."
     },
@@ -6854,6 +6950,10 @@
     {
       "id": "7ddd9fc2-0e59-54d3-8234-246e16b70096",
       "body": "ADEPTUS ASTARTES JUMP PACK model only. In the Battle‐shock step of your opponent's Command phase, each enemy unit (excluding MONSTERS and VEHICLES) within Engagement Range of the bearer must take a Battle‐shock test."
+    },
+    {
+      "id": "7e80f3ec-8ef0-501f-ac9d-8aa8f3b97ce5",
+      "body": "CHAOS LORD JUMP PACK model only. Models in the bearer's unit have the Scouts 6\" ability.\n\nIn the Declare Battle Formations step, the bearer can be attached to a WARP TALONS unit."
     },
     {
       "id": "7eaae3f4-a4ab-5edd-a98a-d604ef0401a7",
@@ -7164,6 +7264,10 @@
       "body": "LEGIONES DAEMONICA KHORNE MONSTER model only. The bearer's Deadly Demise ability inflicts mortal wounds on a D6 roll of 2+ instead of on a 6. In addition, if the bearer has destroyed one or more enemy units this battle, the bearer has the Deadly Demise D3+3 ability, instead of any other Deadly Demise ability on its datasheet."
     },
     {
+      "id": "9fd4476b-5e87-58b6-b3b5-0eb511bb5133",
+      "body": "HARLEQUINS model only (excluding SOLITAIRE models). Models in the bearer's unit have the Scouts 6\" ability."
+    },
+    {
       "id": "a01f8aa9-c6d2-5af3-9898-ac18373d883b",
       "body": "ORKS INFANTRY model only. Each time the bearer's unit disembarks from a TRANSPORT after that TRANSPORT has made a Normal move, the bearer's unit is still eligible to declare a charge this turn."
     },
@@ -7316,6 +7420,10 @@
       "body": "GENESTEALER CULTS model only. Each time a model in the bearer's unit makes an attack that targets a CHARACTER unit, add 1 to the Hit roll."
     },
     {
+      "id": "ab5a9b07-81ad-525f-825b-0932bee8ce16",
+      "body": "ADEPTUS ASTARTES TERMINATOR CAPTAIN model only. Once per battle round, from the second battle round onwards, you can target the bearer's unit with the Rapid Ingress or Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this turn.\n\nIn the Declare Battle Formations step, the bearer can be attached to a WOLF GUARD TERMINATORS unit."
+    },
+    {
       "id": "aba25d86-7bf4-5201-9e3f-ba0f200d6539",
       "body": "EMPEROR'S CHILDREN model only. Each time a melee attack targets the bearer's unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of that unit, subtract 1 from the Wound roll."
     },
@@ -7412,8 +7520,12 @@
       "body": "DEATH GUARD INFANTRY model only. Each time a model in the bearer's unit makes an attack that targets a unit that is within Contagion Range of one or more DEATH GUARD units from your army, re‐roll a Wound roll of 1."
     },
     {
+      "id": "b508ff3b-79af-5b7e-897d-6672e908aad1",
+      "body": "CHAOS LORD model only. Models in the bearer's unit have the Stealth ability.\n\nWhile the bearer's unit is within range of one or more objective markers you control, that unit can only be selected as the target of a ranged attack if the attacking model is within 18\"."
+    },
+    {
       "id": "b5388f7e-28dd-5eda-9fa1-08d0c660a94d",
-      "body": "ADEPTUS ASTARTES model only. If the bearer's unit is in Strategic Reserves, for the purposes of setting up that unit on the battlefield, treat the current battle round number as being one higher than it actually is."
+      "body": "ADEPTUS ASTARTES model only. In your Movement phase, if the bearer's unit is in Strategic Reserves, for the purposes of setting up that unit on the battlefield, treat the current battle round number as being one higher than it actually is."
     },
     {
       "id": "b56d05e3-ee67-5071-b8c4-f4604e7bc0f0",
@@ -7624,6 +7736,10 @@
       "body": "HARLEQUINS model only. Each time an enemy unit (excluding MONSTERS and VEHICLES) within Engagement Range of the bearer's unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle‑shocked, subtract 1 from each of those tests."
     },
     {
+      "id": "ceae4fcf-f18c-5eb9-85db-bdcc719b48b2",
+      "body": "HERETIC ASTARTES model only. At the start of the Fight phase, each enemy unit within Engagement Range of the bearer must take a Battle‑shock test, subtracting 1 from the result."
+    },
+    {
       "id": "cfb5767a-5bb9-57d2-8b56-c8c676848e18",
       "body": "GENESTEALER CULTS INFANTRY model only. Once per turn, you can target a friendly GENESTEALER CULTS unit within 9\" of the bearer with the Heroic Intervention Stratagem for 0CP."
     },
@@ -7638,6 +7754,10 @@
     {
       "id": "d0b67864-53b2-59e3-8828-9ee6aa645b50",
       "body": "NECRONS model only. Each time a model in the bearer's unit makes an attack, on a Critical Wound, improve the Armour Penetration characteristic of that attack by 1."
+    },
+    {
+      "id": "d0bd2c4a-db5d-5687-b9f9-89a66676ff39",
+      "body": "SHADOWSEER model only. After both players have deployed their armies, select up to three HARLEQUINS units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves, regardless of how many units are already in Strategic Reserves."
     },
     {
       "id": "d1d63d90-2b4a-557a-a2e0-cd58c4e1a4b1",
@@ -7816,6 +7936,10 @@
       "body": "SPIRITSEER model only. In your Command phase, select one friendly WRAITH CONSTRUCT unit within 12\" of the bearer. Until the start of your next Command phase, add 1 to the Objective Control characteristic of INFANTRY models in that unit and add 3 to the Objective Control characteristic of MONSTER models in that unit."
     },
     {
+      "id": "e06c807f-3609-5355-9988-8071965125e4",
+      "body": "ASTRA MILITARUM OFFICER model only. Each time you select an Order for the bearer to issue, you can select the Order below:\n\nTarget Weak Spot (Order): Each time a model in this unit makes a ranged attack that targets an enemy unit within 12\", improve the Armour Penetration characteristic of that attack by 1."
+    },
+    {
       "id": "e0c848f8-b7c3-5b3f-83ba-2db3923a26ba",
       "body": "INFANTRY WARBOSS model only. At the start of the Fight phase, select one enemy unit within Engagement range of the bearer. That unit must take a Battle‑shock test, and when doing so, subtract 1 from the result."
     },
@@ -7896,6 +8020,10 @@
       "body": "ADEPTUS ASTARTES model only. The bearer has the Feel No Pain 4+ ability."
     },
     {
+      "id": "e7b4eda4-5743-5bfd-ad9a-6ce07576978f",
+      "body": "DEATH JESTER model only. When using the bearer's Cruel Amusement ability, you can select two of the abilities for its shrieker cannon to gain, instead of one."
+    },
+    {
       "id": "e7c0f9de-72de-58b6-b84e-7fdc1f6e5190",
       "body": "GENESTEALER CULTS model only. Weapons equipped by models in the bearer's unit have the SUSTAINED HITS 1 ability while targeting an enemy unit within 6\" of one or more friendly TYRANIDS units."
     },
@@ -7962,6 +8090,14 @@
     {
       "id": "ec4f9960-fee5-5ed3-844f-33ad56f1354e",
       "body": "ANATHEMA PSYKANA model only. In your Command phase, select one enemy unit within 12\" of the bearer. That unit must take a Battle‑shock test."
+    },
+    {
+      "id": "ec866c6a-735a-561c-94ce-179086730477",
+      "body": "LORD EXULTANT model only. Add 1\" to the Move characteristic of the bearer.\n\nIn the Declare Battle Formations step, the bearer can be attached to a FLAWLESS BLADES unit."
+    },
+    {
+      "id": "ec9f6133-a6cc-5fea-993d-ddacfc19d14b",
+      "body": "COMMISSAR model only. Add the OGRYN keyword to the list of units this model can issue Orders too (as stated on its datasheet).\n\nIn the Declare Battle Formations step, the bearer can be attached to an OGRYN SQUAD or BULLGRYN SQUAD unit."
     },
     {
       "id": "ed362415-7e2f-5f71-bde0-e9d8b68d2e96",
@@ -8160,6 +8296,10 @@
       "body": "IMPERIAL KNIGHTS model only. When the bearer is selected to fight, it can use this Enhancement. If it does, this Enhancement is expended, then until the end of the phase, melee weapons equipped by the bearer have the SUSTAINED HITS 2 ability."
     },
     {
+      "id": "fe3d8b49-da88-55e4-987a-20339e4f2941",
+      "body": "CHAPLAIN model only. Models in the bearer's unit have the Scouts 6\" ability. Each time you take a Battle-shock test for an ADEPTUS ASTARTES unit within 6\" of the bearer, you can re-roll the result."
+    },
+    {
       "id": "fe92bd94-c1ba-5ae5-b2e2-27662913de22",
       "body": "THOUSAND SONS model only. While the bearer's unit is wholly within your army's Flow of Magic, add 3 to the Attacks characteristic of ranged Psychic weapons equipped by the bearer."
     },
@@ -8173,7 +8313,7 @@
     },
     {
       "id": "ffaf8daf-47dc-5c70-a66f-cbd4feff1981",
-      "body": "NURGLE LEGIONES DAEMONICA model only. The bearer has the Feel No Pain 5+ ability. While the bearer is within your army's Shadow of Chaos, the bearer has the Feel No Pain 4+ ability instead."
+      "body": "NURGLE LEGIONES DAEMONICA model only. The bearer has the Feel No Pain 5+ ability."
     }
   ],
   "stratagems": [
@@ -8498,6 +8638,12 @@
       "effectBody": "Until the end of the phase, each time a model in your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features."
     },
     {
+      "id": "0db7793a-9619-5334-9b25-c3276bf9e7ef",
+      "whenBody": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
+      "targetBody": "One ASTRA MILITARUM unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    },
+    {
       "id": "0e0e0fbd-aac1-59a6-aa15-71ce3c1c399c",
       "whenBody": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
       "targetBody": "One THOUSAND SONS or SCINTILLATING LEGIONS unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
@@ -8597,7 +8743,7 @@
     {
       "id": "13afb95f-f1a0-53bb-85e1-0b65b1989bfa",
       "whenBody": "End of the Fight phase.",
-      "targetBody": "One ASURYANI unit from your army and one friendly TRANSPORT it is able to embark within.",
+      "targetBody": "One ASURYANI unit from your army that was eligible to fight this phase and one friendly TRANSPORT it is able to embark within.",
       "effectBody": "If your ASURYANI unit is not within Engagement Range of one or more enemy units and is wholly within 6\" of that TRANSPORT, it can embark within it."
     },
     {
@@ -8654,6 +8800,12 @@
       "whenBody": "Your Shooting phase.",
       "targetBody": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
       "effectBody": "Until the end of the phase, ranged weapons equipped by models in your unit have the SUSTAINED HITS 1 ability."
+    },
+    {
+      "id": "1594d71a-a3e4-546e-9f63-17987c71aabc",
+      "whenBody": "Your Movement phase.",
+      "targetBody": "One ADEPTUS ASTARTES unit from your army that has not been selected to move this phase.",
+      "effectBody": "Until the end of the turn, your unit is eligible to declare a charge in a turn in which it Fell Back. If your unit is a SPACE WOLVES unit, until the end of the turn, it is eligible to declare a charge in a turn in which it Advanced or Fell Back."
     },
     {
       "id": "15967987-59df-5876-849c-4ba346636aae",
@@ -8734,6 +8886,12 @@
       "effectBody": "Until the end of the phase, each time a ranged attack is allocated to an INFANTRY model from your army, if that model is not fully visible to every model in the attacking unit because of your VEHICLE, that model has the Benefit of Cover against that attack."
     },
     {
+      "id": "19b50776-e267-565d-b611-bf071cec2956",
+      "whenBody": "Your Charge phase.",
+      "targetBody": "One HERETIC ASTARTES INFANTRY unit from your army.",
+      "effectBody": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced."
+    },
+    {
       "id": "19e21444-523b-5c93-aa75-c96ed2306e30",
       "whenBody": "Your Shooting phase.",
       "targetBody": "One ADEPTA SORORITAS unit from your army that has not been selected to shoot this phase.",
@@ -8798,6 +8956,12 @@
       "whenBody": "Fight phase, just after an EMPEROR'S CHILDREN unit from your army destroys an enemy unit.",
       "targetBody": "That EMPEROR'S CHILDREN unit.",
       "effectBody": "Select one friendly LEGIONS OF EXCESS unit within 6\" of your unit. One model in that LEGIONS OF EXCESS unit recovers up to 3 lost wounds or, if it is a DAEMONETTES unit, return up to D3+3 destroyed models to it instead."
+    },
+    {
+      "id": "1b4a116d-4356-54a9-b42b-162bec685451",
+      "whenBody": "End of your Fight phase.",
+      "targetBody": "One HARLEQUINS MOUNTED unit from your army that was eligible to fight this phase.",
+      "effectBody": "If your unit is not within Engagement Range of one or more enemy units, it can make a Normal move. Otherwise, your unit can make a Fall Back move of up to 6\"."
     },
     {
       "id": "1bf33188-5ca9-5dff-98c3-733073f9fe57",
@@ -8891,6 +9055,12 @@
       "effectBody": "Your unit can make a Normal move of up to D6\", or a Normal move of up to 6\" instead if it is wholly within 6\" of one or more friendly THOUSAND SONS units."
     },
     {
+      "id": "1f58de83-add9-5c42-9d3a-8bec5d88a8d0",
+      "whenBody": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+      "targetBody": "One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
+    },
+    {
       "id": "1fcffc03-990c-5c1c-916c-4bede678112f",
       "whenBody": "Fight phase.",
       "targetBody": "One ABERRANTS, BIOPHAGUS or PURESTRAIN GENESTEALERS unit from your army that has not been selected to fight this phase.",
@@ -8908,6 +9078,12 @@
       "whenBody": "Your Shooting phase or the Fight phase.",
       "targetBody": "One RAVENWING MOUNTED unit from your army that has not been selected to shoot or fight this phase.",
       "effectBody": "Until the end of the phase, each time a model in your unit makes an attack that targets an INFANTRY CHARACTER or MOUNTED CHARACTER unit, add 1 to the Wound roll."
+    },
+    {
+      "id": "205e2aa4-96dd-551d-8589-c03cab63edff",
+      "whenBody": "Your Movement phase.",
+      "targetBody": "One HERETIC ASTARTES unit from your army that arrived from Reserves this turn.",
+      "effectBody": "Select one enemy unit (excluding MONSTER and VEHICLE units) within 12\" of and visible to your unit: that unit must take a Battle‑shock test, subtracting 1 from the result."
     },
     {
       "id": "20807830-37c7-5744-aaf2-ef220126e538",
@@ -9600,10 +9776,22 @@
       "effectBody": "Until the end of the phase, each time you would allocate an attack to a model in your KABAL or BLADES FOR HIRE unit, if your DRUKHARI unit is within Engagement Range of the attacking model, no saving throw is made for that attack; instead, your DRUKHARI unit suffers a number of mortal wounds equal to the Damage characteristic of that attack."
     },
     {
+      "id": "3b37daed-83aa-5880-bcde-637ec45d24fe",
+      "whenBody": "Your Movement phase or your Charge phase.",
+      "targetBody": "One EMPEROR'S CHILDREN DAEMON unit from your army that has not been selected to move or charge this phase.",
+      "effectBody": "Until the end of the phase, each time your unit makes a Normal, Advance or Charge move, it can move horizontally through terrain features."
+    },
+    {
       "id": "3b499388-d4e9-5be8-80f1-62a58af1ab0c",
       "whenBody": "Your Command phase.",
       "targetBody": "One SHADOW LEGION unit from your army.",
       "effectBody": "One model in your unit regains up to 3 lost wounds. In addition, If your unit has the TZEENTCH keyword, return up to one destroyed model (excluding CHARACTER models) to your unit with its full wounds remaining."
+    },
+    {
+      "id": "3b601130-eb94-5123-8d89-8ebb6f69112d",
+      "whenBody": "Your Movement phase, just after an ADEPTUS ASTARTES unit from your army Advances.",
+      "targetBody": "That ADEPTUS ASTARTES unit.",
+      "effectBody": "Until the end of the turn, your unit is eligible to either shoot or declare a charge in a turn in which it Advanced. You can instead choose for your unit to give in to the Red Thirst; if it does, it becomes Battle-shocked (but the effects of this Stratagem still apply to it), and until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Advanced."
     },
     {
       "id": "3b6f112b-8cce-51f8-9a4d-553d0da635b2",
@@ -9640,6 +9828,12 @@
       "whenBody": "Any phase.",
       "targetBody": "One WORLD EATERS MONSTER or WORLD EATERS TITANIC unit from your army that was just destroyed by an enemy unit. You can use this Stratagem on that unit even though it was just destroyed.",
       "effectBody": "Until the end of the battle, each time a model in a JAKHALS or GOREMONGERS unit from your army makes an attack that targets the enemy unit that just destroyed your unit, you can re-roll the Hit roll."
+    },
+    {
+      "id": "3ce00062-e7e2-585e-b66c-a6c5ae79593c",
+      "whenBody": "Your Shooting phase.",
+      "targetBody": "One HARLEQUINS VEHICLE unit from your army that has not been selected to shoot this phase.",
+      "effectBody": "After your unit has shot, if it is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\". Until the end of the turn, your unit is not eligible to declare a charge."
     },
     {
       "id": "3ce3ed38-2028-5777-bf0b-8f7a7c4dc2fa",
@@ -9682,6 +9876,12 @@
       "whenBody": "Your Movement phase.",
       "targetBody": "One LEGIONES DAEMONICA unit from your army that is arriving using the Deep Strike ability this phase.",
       "effectBody": "Your unit can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy models."
+    },
+    {
+      "id": "3df8f1bb-8f90-578f-be98-8cebcbdbfb7e",
+      "whenBody": "Your Movement phase, just after a HERETIC ASTARTES INFANTRY unit from your army Falls Back.",
+      "targetBody": "That HERETIC ASTARTES unit.",
+      "effectBody": "Until the end of the turn, your unit is eligible to shoot and declare a charge in a turn in which it Fell Back."
     },
     {
       "id": "3e8b77bf-b92e-5c7b-b68b-1fafca6a8fea",
@@ -9922,6 +10122,12 @@
       "whenBody": "End of any of your phases, if units from your army have Hostile Acquisition.",
       "targetBody": "One LEAGUES OF VOTANN TRANSPORT unit from your army.",
       "effectBody": "One LEAGUES OF VOTANN unit embarked within your TRANSPORT can disembark. When doing so, models in that unit can be set up anywhere on the battlefield wholly within 6\" of your TRANSPORT. That unit cannot declare a charge in the same turn, but can otherwise act normally in the remainder of the turn."
+    },
+    {
+      "id": "45c4f503-bbf6-5a02-b359-60e3c559d980",
+      "whenBody": "Start of the Fight phase.",
+      "targetBody": "One TROUPE unit from your army.",
+      "effectBody": "Until the end of the phase, when using your unit's Dance of Death ability, you can select three of the abilities for your unit to gain, instead of one."
     },
     {
       "id": "45d18a05-c761-5960-b44d-5ca29d3d53de",
@@ -10282,6 +10488,12 @@
       "effectBody": "Remove those units from the battlefield and place them into Strategic Reserves."
     },
     {
+      "id": "58669fdd-ec4a-51dc-893f-a63c24bb3275",
+      "whenBody": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+      "targetBody": "One DEATH COMPANY unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability."
+    },
+    {
       "id": "58a524fb-4b5e-58c2-b4f8-a25c221759ce",
       "whenBody": "Your Shooting phase.",
       "targetBody": "One PLATOON unit from your army that has not been selected to shoot this phase.",
@@ -10322,6 +10534,12 @@
       "whenBody": "Fight phase.",
       "targetBody": "One SLAANESH BEASTS, SLAANESH INFANTRY or SLAANESH MOUNTED unit from your army that has not been selected to fight this phase.",
       "effectBody": "Until the end of the phase, each time a model in your unit makes a Pile-in or Consolidation move, it can move up to 6\" instead of up to 3\". When doing so, it does not need to end that move closer to the closest enemy model, provided it ends that move as close as possible to the closest enemy unit."
+    },
+    {
+      "id": "5a587b57-14a3-5a6f-a4f7-3848d852a8aa",
+      "whenBody": "End of your opponent's Fight phase.",
+      "targetBody": "One HARLEQUINS VEHICLE or HARLEQUINS MOUNTED unit from your army.",
+      "effectBody": "If your unit is not within Engagement Range of one or more enemy units, you can remove it from the battlefield and place it into Strategic Reserves."
     },
     {
       "id": "5a716e5b-fa54-59ac-a162-fb3f03b85869",
@@ -10444,6 +10662,12 @@
       "whenBody": "End of your Movement phase.",
       "targetBody": "One TYRANIDS unit from your army that is wholly within 9\" of one or more of your Tunnel Markers and not within Engagement Range of one or more enemy units.",
       "effectBody": "Remove your unit from the battlefield and set it up again, wholly within 9\" of another Tunnel Marker you placed, and more than 6\" horizontally away from all enemy units."
+    },
+    {
+      "id": "5f71d5a1-4d7a-519a-a9dd-5e4b1f03cf5a",
+      "whenBody": "Your Shooting phase or the Fight phase.",
+      "targetBody": "One HERETIC ASTARTES INFANTRY unit from your army that has not been selected to shoot or fight this phase.",
+      "effectBody": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle‑shocked and/or Below Half‑strength, improve the Armour Penetration characteristic of that attack by 1."
     },
     {
       "id": "5f86aefc-cdda-5c5b-bb53-346fce4e1382",
@@ -10964,6 +11188,12 @@
       "restrictionBody": "You cannot use this Stratagem during the fourth or fifth battle rounds."
     },
     {
+      "id": "7169bbb3-6396-5520-a750-dc29f2e43a15",
+      "whenBody": "Your Shooting phase or the Fight phase.",
+      "targetBody": "One HERETIC ASTARTES INFANTRY unit from your army that has not been selected to shoot or fight this phase.",
+      "effectBody": "Until the end of the phase, each time a model in your unit makes an attack that targets a unit that is Battle‑shocked and/or Below Half‑strength, you can re‑roll the Hit roll."
+    },
+    {
       "id": "71739d9e-3771-5bc7-8fcc-8166fce544f5",
       "whenBody": "Your Charge phase.",
       "targetBody": "One DEATHWING INFANTRY unit from your army that just ended a Charge move.",
@@ -11058,6 +11288,12 @@
       "whenBody": "Fight phase, just after an enemy unit has selected its targets.",
       "targetBody": "One DEATHWING unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
       "effectBody": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6, adding 1 if your unit is within range of your Vowed objective marker. On a 4+, do not remove the destroyed model from play; it can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    },
+    {
+      "id": "743a20b5-1686-50d9-af30-ec17c86e3160",
+      "whenBody": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
+      "targetBody": "One ADEPTUS ASTARTES unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1."
     },
     {
       "id": "7449d099-a574-505c-bdca-b8b89b599e48",
@@ -11501,6 +11737,12 @@
       "effectBody": "Until the end of the phase, improve the Attacks, Stength and Armour Penetration characteristics of melee weapons equipped by models in your unit by 1 and, unless your unit is within 12\" of one or more friendly CHAPLAIN models, until the end of the phase, those weapons have the HAZARDOUS ability."
     },
     {
+      "id": "87d709f5-ab82-5b3a-b2aa-636cb4152f64",
+      "whenBody": "Your Shooting phase.",
+      "targetBody": "One EMPEROR'S CHILDREN unit from your army that has not been selected to shoot this phase.",
+      "effectBody": "Until the end of the phase, each time an EMPEROR'S CHILDREN model in your unit makes an attack that targets an eligible unit within 12\", improve the Strength and  Armour Penetration characteristics of that attack by 1."
+    },
+    {
       "id": "8838fa6b-9f77-5a03-8db0-1907048ef814",
       "whenBody": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
       "targetBody": "One DEATHWATCH unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
@@ -11657,7 +11899,7 @@
       "id": "8e09187d-7fda-5a01-8bae-62365a064804",
       "whenBody": "Any phase, just after an ADEPTA SORORITAS unit from your army suffers a mortal wound.",
       "targetBody": "That ADEPTA SORORITAS unit, or one friendly ADEPTA SORORITAS JUMP PACK unit within 3\" of it.",
-      "effectBody": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability against mortal wounds. If you targeted an ADEPTA SORORITAS JUMP PACK unit from your army with this Stratagem, then until the end of the phase, while a friendly ADEPTA SORORITAS unit is unit is within 3\" of your unit, models in that unit have the Feel No Pain 5+ ability against mortal wounds."
+      "effectBody": "Until the end of the phase, models in your unit have the Feel No Pain 5+ ability against mortal wounds. If you targeted an ADEPTA SORORITAS JUMP PACK unit from your army with this Stratagem, then until the end of the phase, while a friendly ADEPTA SORORITAS unit is within 3\" of your unit, models in that unit have the Feel No Pain 5+ ability against mortal wounds."
     },
     {
       "id": "8f4ab3c3-7755-5a82-a86f-67b7b2712bed",
@@ -11694,6 +11936,12 @@
       "whenBody": "Fight phase.",
       "targetBody": "One CTHONIAN BESERKS unit from your army that has not been selected to fight this phase.",
       "effectBody": "Each time you use this Stratagem, you can spend 2YP. Until the end of the phase, each time a model in your unit makes an attack, re‑roll a Wound roll of 1. If you spent YP during this use of this Stratagem, you can re‑roll the Wound roll instead."
+    },
+    {
+      "id": "90876532-4058-5d1a-a875-85b8c5c35377",
+      "whenBody": "Your opponent's Shooting phase, just after an enemy unit has shot.",
+      "targetBody": "One SPACE WOLVES unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Your unit can make a Normal move of up to D6\"."
     },
     {
       "id": "90b80b93-9ca1-5651-aa5e-1704fb5a8116",
@@ -11768,6 +12016,12 @@
       "whenBody": "Your Charge phase, just after you make a Charge roll for an ADEPTUS ASTARTES unit from your army that disembarked from a TRANSPORT this turn.",
       "targetBody": "That ADEPTUS ASTARTES unit.",
       "effectBody": "Until the end of the phase, each time your unit makes a Charge move, models in your unit can move through models (when doing so, its models can move within Engagement Range of enemy models, but they can only end that move within Engagement Range of enemy models if those enemy models belong to a unit that your unit declared a charge against this turn)."
+    },
+    {
+      "id": "93890ffa-8dac-51a6-9d1d-9801a0505903",
+      "whenBody": "Your Movement phase or your Charge phase.",
+      "targetBody": "One ADEPTUS ASTARTES MOUNTED or ADEPTUS ASTARTES WALKER unit from your army that has not been selected to move or charge this phase.",
+      "effectBody": "Until the end of the phase, each time a model in your unit makes a Normal, Advance, Fall Back or Charge move, it can move horizontally through models (excluding TITANIC models) and terrain features. When doing so, it can move within Engagement Range of enemy models, but cannot end a Normal, Advance or Fall Back move within Engagement Range of them."
     },
     {
       "id": "93f85c6e-7cc8-59fc-8578-4e6b95fb7563",
@@ -11908,6 +12162,12 @@
       "whenBody": "Any phase, just after an enemy unit ends a move within 9\" of one or more of your Cult Ambush markers.",
       "targetBody": "Select one of those Cult Ambush markers.",
       "effectBody": "You can set up that Cult Ambush marker anywhere on the battlefield that is more than 9\" horizontally away from all enemy units."
+    },
+    {
+      "id": "9a998058-870b-5f7b-9753-beb82e244ae1",
+      "whenBody": "Your Shooting phase.",
+      "targetBody": "One ASTRA MILITARUM unit from your army that has not been selected to shoot this phase.",
+      "effectBody": "Until the end of the phase, ranged weapons equipped by models in your unit have the IGNORES COVER ability."
     },
     {
       "id": "9a9add10-d53c-57b1-851f-03089f3d8d84",
@@ -12264,6 +12524,12 @@
       "effectBody": "Until the end of the phase, each time a model in your unit makes an attack, improve the Armour Penetration characteristic of that attack by 1. If one or more enemy models are destroyed as the result of any of those attacks, you gain 1 Miracle dice."
     },
     {
+      "id": "a8b175e5-60af-59a8-9304-161cfbb927c2",
+      "whenBody": "Your Shooting phase.",
+      "targetBody": "One ASTRA MILITARUM INFANTRY unit from your army affected by the First Rank, Fire! Second Rank, Fire! Order.",
+      "effectBody": "Until the end of the phase, each time a model in your unit makes an attack, improve the Strength characteristic of that attack by 1."
+    },
+    {
       "id": "a8be1a8c-1db9-52c3-b045-791c27152d05",
       "whenBody": "Your Shooting phase.",
       "targetBody": "One LEAGUES OF VOTANN unit from your army.",
@@ -12420,6 +12686,18 @@
       "effectBody": "Return 1 destroyed model (excluding CHARACTER models) to your unit."
     },
     {
+      "id": "ae11c380-498e-51cc-9d1b-6a2ab42de2b8",
+      "whenBody": "Your Shooting phase.",
+      "targetBody": "One ASTRA MILITARUM unit from your army affected by an Order that has not been selected to shoot this phase.",
+      "effectBody": "If your unit is within range of an objective marker, until the end of the phase, ranged weapons equipped by models in your unit have the LETHAL HITS ability."
+    },
+    {
+      "id": "ae366611-ad7d-5daa-8adc-02d761bd02ce",
+      "whenBody": "Your opponent's Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move.",
+      "targetBody": "One HARLEQUINS INFANTRY unit from your army that is within 9\" of that enemy unit.",
+      "effectBody": "Your unit can make a Normal move of up to 6\"."
+    },
+    {
       "id": "ae475954-dfdb-5233-a0ba-bfd84a35ec3d",
       "whenBody": "Your opponent's Shooting phase, just after an enemy unit has selected its targets.",
       "targetBody": "One LEGIONES DAEMONICA KHORNE unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
@@ -12515,6 +12793,12 @@
       "whenBody": "Fight phase, just after an enemy unit has selected its targets.",
       "targetBody": "One YNNARI unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
       "effectBody": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    },
+    {
+      "id": "b1554f7a-21a1-5af5-b5f5-942a3167b178",
+      "whenBody": "Your Command phase.",
+      "targetBody": "One ADEPTUS ASTARTES unit from your army.",
+      "effectBody": "Select one Hunting Pack from the Master of Wolves Detachment rule. Until the start of your next Command phase, that Hunting Pack is active for your unit instead of any other Hunting Pack that is active, even if you have already selected that Hunting Pack this battle."
     },
     {
       "id": "b15fa38a-61a6-5c28-80a3-45b51a10609b",
@@ -12713,9 +12997,15 @@
       "restrictionBody": "You cannot use this Stratagem on the same ADEPTUS CUSTODES CHARACTER model more than once per battle."
     },
     {
+      "id": "bbd120bd-28fc-57c7-9096-ca55fe188c2d",
+      "whenBody": "Start of any phase.",
+      "targetBody": "One ASTRA MILITARUM OFFICER unit from your army.",
+      "effectBody": "Your unit's OFFICER model can issue 1 Order as if it were your Command phase."
+    },
+    {
       "id": "bbe08147-014e-5b91-addb-ae68a3947d01",
       "whenBody": "End of the Fight phase.",
-      "targetBody": "One ASURYANI unit from your army and one friendly TRANSPORT it is able to embark within.",
+      "targetBody": "One ASURYANI unit from your army that was eligible to fight this phase and one friendly TRANSPORT it is able to embark within.",
       "effectBody": "If your ASURYANI unit is not within Engagement Range of one or more enemy units and is wholly within 6\" of that TRANSPORT, it can embark within it."
     },
     {
@@ -12845,6 +13135,12 @@
       "whenBody": "Fight phase.",
       "targetBody": "One DESTROYER CULT or FLAYED ONES unit from your army that has just destroyed an enemy unit, or just caused an enemy unit that was not Below Half-strength to become Below Half-strength.",
       "effectBody": "Your unit's Reanimation Protocols activate."
+    },
+    {
+      "id": "c14fcad3-44e1-595f-aa95-1d3db30099ff",
+      "whenBody": "Your Charge phase.",
+      "targetBody": "One HARLEQUINS unit from your army.",
+      "effectBody": "Until the end of the phase, your unit is eligible to declare a charge in a turn in which it Advanced."
     },
     {
       "id": "c15f1fe1-0f9d-5910-a2da-41a7eecde9be",
@@ -13039,6 +13335,12 @@
       "effectBody": "Until the start of your next Command phase, add 3\" to the Move characteristic of models in your unit and add 1 to Advance and Charge rolls made for it."
     },
     {
+      "id": "c8816099-b505-55c2-aa2e-13e2933df70b",
+      "whenBody": "Any phase.",
+      "targetBody": "One BLOOD ANGELS unit from your army that was just destroyed while it was within range of one or more objective markers you controlled at the end of the previous phase. You can use this Stratagem on that unit even though it was just destroyed.",
+      "effectBody": "Select one of those objective markers. That objective marker remains under your control until your opponent's Level of Control over that objective marker is greater than yours at the end of a phase."
+    },
+    {
       "id": "c8a7ac81-2712-5a89-862f-892ba370190f",
       "whenBody": "Your opponent's Charge phase, just after an enemy unit ends a Charge move.",
       "targetBody": "One ADEPTUS ASTARTES unit from your army within Engagement Range of that enemy unit.",
@@ -13215,7 +13517,7 @@
       "whenBody": "Your Shooting phase, just after an ASURYANI INFANTRY unit from your army (excluding AIRCRAFT, ASURMEN and WRAITH CONSTRUCT units) has shot.",
       "targetBody": "That ASURYANI unit.",
       "effectBody": "Your unit can make a Normal move of up to D6+1\".",
-      "restrictionBody": "Until the end of the turn, your unit is not eligible to declare a charge."
+      "restrictionBody": "Until the end of the turn, your unit is not eligible to declare a charge or embark within a TRANSPORT."
     },
     {
       "id": "d0452e18-7239-5a12-82cf-0c469c1c8257",
@@ -13229,6 +13531,12 @@
       "whenBody": "End of your opponent's Fight phase.",
       "targetBody": "One ASURYANI INFANTRY unit from your army that is wholly within 9\" of one or more battlefield edges.",
       "effectBody": "If your unit is not within Engagement Range of one or more enemy units, remove it from the battlefield and place it into Strategic Reserves."
+    },
+    {
+      "id": "d07a0ff5-3404-5f19-8267-407a243eef5a",
+      "whenBody": "Your Shooting phase.",
+      "targetBody": "One ADEPTUS ASTARTES unit from your army that has not been selected to shoot this phase.",
+      "effectBody": "Until the end of the phase, each time a model in your unit makes an attack, you can add 1 to the Wound roll."
     },
     {
       "id": "d0c021c2-5bb6-5470-bdc3-a146405f67a8",
@@ -13757,6 +14065,12 @@
       "effectBody": "Spend 1 Pain token. Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1. At the end of the phase, if your unit is still on the battlefield and it is a HAEMONCULUS COVENS unit, you gain 1 Pain token."
     },
     {
+      "id": "e5ed1b9f-f587-5c56-9b83-216dee80c28f",
+      "whenBody": "Your Charge phase.",
+      "targetBody": "One EMPEROR'S CHILDREN DAEMON unit from your army.",
+      "effectBody": "Until the end of the phase, you can re-roll Charge rolls for friendly EMPEROR'S CHILDREN units within 6\" of your unit."
+    },
+    {
       "id": "e6059683-1e5c-59e8-9112-f1cd1b8e3ab5",
       "whenBody": "Start of your opponent's Charge phase.",
       "targetBody": "One IMPERIAL KNIGHTS TITANIC unit from your army that is on your defensive line.",
@@ -13874,6 +14188,12 @@
       "restrictionBody": "Until the end of the turn, your unit is not eligible to declare a charge."
     },
     {
+      "id": "e9e13315-4937-55cd-8538-0fef01cd4da0",
+      "whenBody": "Fight phase.",
+      "targetBody": "One ADEPTUS ASTARTES unit from your army that made a Charge move this turn.",
+      "effectBody": "Select either the Strength or Armour Penetration characteristic of melee weapons equipped by models in your unit. Until the end of the phase, add 1 to the selected characteristic. You can instead choose for your unit to give in to the Red Thirst; if it does, it becomes Battle‑shocked (but the effects of this Stratagem still apply to it), and until the end of the phase, add 1 to the Strength and Armour Penetration characteristics of melee weapons equipped by models in your unit."
+    },
+    {
       "id": "ea08ac3c-4c3d-5105-af7f-d439a5883511",
       "whenBody": "Your Shooting phase, just after a BRÔKHYR, IRONKIN STEELJACKS or ARKANYST EVALUATOR unit from your army has shot.",
       "targetBody": "That BRÔKHYR, IRONKIN STEELJACKS or ARKANYST EVALUATOR unit.",
@@ -13942,6 +14262,12 @@
       "restrictionBody": "You cannot select SAINT CELESTINE as the target of this Stratagem. You cannot select the same CHARACTER as the target of this Stratagem more than once per battle."
     },
     {
+      "id": "ed11ea92-c3da-5c07-b512-3eb5f903e321",
+      "whenBody": "Fight phase.",
+      "targetBody": "One EMPEROR'S CHILDREN unit from your army that has not been selected to fight this phase.",
+      "effectBody": "Until the end of the phase, each time a model in your unit makes an attack that targets a CHARACTER unit, you can re-roll the Hit roll and you can re‑roll the Wound roll."
+    },
+    {
       "id": "ed4c7829-c495-5e8b-91a6-d9b51ef74cba",
       "whenBody": "The Reinforcements step of your Movement phase.",
       "targetBody": "One ASTRA MILITARUM INFANTRY unit from your army that is in Reserves and has the Deep Strike ability.",
@@ -13979,6 +14305,12 @@
       "effectBody": "Until the end of the phase, each time an attack is allocated to a model in your unit, subtract 1 from the Damage characteristic of that attack."
     },
     {
+      "id": "eded095c-f8fb-532c-bc95-50310b01a7db",
+      "whenBody": "Your opponent's Shooting phase, just after an enemy unit has shot.",
+      "targetBody": "One EMPEROR'S CHILDREN unit from your army that lost one or more wounds as a result of those attacks.",
+      "effectBody": "Your unit can make a Stimulus move. To do so, roll one D6: models in your unit move a number of inches up to the result, but your unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit."
+    },
+    {
       "id": "ee422fb6-47e0-500f-b6cf-ef9289f78eb1",
       "whenBody": "End of your Shooting phase.",
       "targetBody": "Up to two KABALITE WARRIORS units from your army, or one other DRUKHARI unit from your army (excluding SCOURGES and AIRCRAFT).",
@@ -13996,6 +14328,12 @@
       "whenBody": "Start of the Fight phase.",
       "targetBody": "One DEATH GUARD unit from your army that includes two CHARACTER models.",
       "effectBody": "Until the end of the phase, your unit has the Fights First ability."
+    },
+    {
+      "id": "ef0762ac-178f-55ff-ba47-df16fb46476c",
+      "whenBody": "Your Command phase.",
+      "targetBody": "One ASTRA MILITARUM unit from your army affected by the Duty and Honour! Order.",
+      "effectBody": "If your unit is within range of an objective marker you control, that objective marker remains under your control, even if you have no models within range of it, until your opponent controls it at the start or end of a phase."
     },
     {
       "id": "ef3509e8-b097-5bda-8628-de8a982825b4",
@@ -14079,7 +14417,7 @@
       "id": "f1ef0d4d-451a-5c4e-911f-516455bf4952",
       "whenBody": "Your opponent's Shooting phase or the Fight phase, just after an enemy unit has selected its targets.",
       "targetBody": "One ADEPTA SORORITAS unit from your army that was selected as the target of one or more of the attacking unit's attacks, or one friendly ADEPTA SORORITAS JUMP PACK unit within 3\" of such a unit.",
-      "effectBody": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll. If you targeted an ADEPTA SORORITAS JUMP PACK unit from your army with this Stratagem, then until the end of the phase, while a friendly ADEPTA SORORITAS unit is unit is within 3\" of your unit, each time an attack targets that unit, subtract 1 from the Hit roll."
+      "effectBody": "Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll. If you targeted an ADEPTA SORORITAS JUMP PACK unit from your army with this Stratagem, then until the end of the phase, while a friendly ADEPTA SORORITAS unit is within 3\" of your unit, each time an attack targets that unit, subtract 1 from the Hit roll."
     },
     {
       "id": "f1fb21ad-efb1-560e-8741-b7e3319c88c4",
@@ -14258,6 +14596,18 @@
       "effectBody": "You can spend 1 Pain token. Until the end of the phase, each time a model in each of those units makes an attack that targets an enemy unit that is Below Half‑strength, add 1 to the Hit roll. If you spent 1 Pain token, add 1 to the Wound roll as well."
     },
     {
+      "id": "f8173a00-fe6a-5b83-abca-1cf9d48e670a",
+      "whenBody": "Fight phase, just after an enemy unit has selected its targets.",
+      "targetBody": "One DEATH COMPANY unit from your army that was selected as the target of one or more of the attacking unit's attacks.",
+      "effectBody": "Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, do not remove it from play. The destroyed model can fight after the attacking unit has finished making its attacks, and is then removed from play."
+    },
+    {
+      "id": "f8cbea2b-aebf-5c2c-a9ca-194dcb861b36",
+      "whenBody": "Fight phase, just after a HERETIC ASTARTES unit from your army destroys an enemy unit.",
+      "targetBody": "That HERETIC ASTARTES unit.",
+      "effectBody": "Each enemy unit within 6\" of and visible to your unit (excluding MONSTER and VEHICLE units) must take a Battle‑shock test."
+    },
+    {
       "id": "f95e791a-81f2-5f90-a24e-5e79594642bc",
       "whenBody": "Any phase, just after your focus of hatred is destroyed.",
       "targetBody": "One HERETIC ASTARTES CHARACTER unit from your army (excluding Damned units).",
@@ -14421,6 +14771,12 @@
       "targetBody": "One CHAOS KNIGHTS unit from your army that is not Empowered.",
       "effectBody": "Your unit makes a Malefic Surge.",
       "restrictionBody": "You cannot select the same unit as the target of this Stratagem more than once per battle round."
+    },
+    {
+      "id": "ff270b63-9455-5359-9bed-b12fdbd627fc",
+      "whenBody": "Your opponent's Shooting phase or the Fight phase.",
+      "targetBody": "One EMPEROR'S CHILDREN unit from your army.",
+      "effectBody": "Until the end of the phase, each time an attack targets your unit, if the Strength characteristic of that attack is greater than the Toughness characteristic of your unit, subtract 1 from the Wound roll."
     },
     {
       "id": "ff52207d-cc46-519c-8a76-86f37cfa3b75",
@@ -15403,6 +15759,10 @@
     {
       "id": "26cf9adc-f69b-54fe-8cc7-fbc8f6563e38",
       "body": "Each time this model's unit ends a Charge move, select one enemy unit within Engagement Range of this model, then roll one D6: on a 2-3, that enemy unit suffers 1 mortal wound; on a 4-5, that enemy unit suffers D3 mortal wounds; on a 6, that enemy unit suffers D3+3 mortal wounds."
+    },
+    {
+      "id": "26e1b3fd-f2ee-5882-a99e-15df6e897928",
+      "body": "While this model is within 3\" of one or more friendly LEGIONES DAEMONICA INFANTRY units, this model has the Lone Operative ability."
     },
     {
       "id": "26ea2dab-376d-5857-a352-b58063d1b830",
@@ -17026,7 +17386,7 @@
     },
     {
       "id": "6bf01da1-c636-52a1-b1fe-b614a3706c68",
-      "body": "Each time this unit ends a Charge move, each enemy unit within Engagement Range of this unit must take a Battle-shock test."
+      "body": "At the start of the Fight phase, each enemy unit within Engagement Range of this unit must take a Battle-shock test."
     },
     {
       "id": "6c16b771-1060-5f03-a71e-44b72b083fb5",
@@ -17655,6 +18015,10 @@
     {
       "id": "864bce56-2e02-54db-8310-618212471e9c",
       "body": "Each time this model makes a ranged attack that targets the closest eligible target within 18\", you can re-roll the Hit roll."
+    },
+    {
+      "id": "8673b93a-c16e-5e98-9a23-6483246fa719",
+      "body": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this model's unit, if this unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\"."
     },
     {
       "id": "86ca76c7-de4f-5058-b7ec-1edfdc5840fb",
@@ -22220,7 +22584,7 @@
     },
     {
       "id": "f86f2c33-8e4f-5a0a-a0ea-5d4f2e08d2f3",
-      "body": "This model has a transport capacity of 6 DRUKHARI INFANTRY models (excluding JUMP PACK models).\n\nBefore the battle, at the start of the Declare Battle Formations step, you can select one KABALITE WARRIORS or WYCHES unit from your army that has not already been split. If you do, that unit is split into two units, each containing as equal a number of models as possible (when splitting a unit in this way, make a note of which models form each of the two new units). One of these units must start the battle embarked within this model; the other can start the battle embarked within another TRANSPORT, or it can be deployed as a separate unit."
+      "body": "This model has a transport capacity of 6 DRUKHARI INFANTRY models (excluding JUMP PACK models). \n\nBefore the battle, at the start of the Declare Battle Formations step, you can select one KABALITE WARRIORS, HAND OF THE ARCHON or WYCHES unit from your army that has not already been split. If you do, that unit is split into two units, each containing as equal a number of models as possible (when splitting a unit in this way, make a note of which models form each of the two new units). One of these units must start the battle embarked within this model; the other can start the battle embarked within another TRANSPORT, or it can be deployed as a separate unit."
     },
     {
       "id": "f8758406-2b2d-5b09-8795-9fdea5dba4bb",
@@ -22862,7 +23226,7 @@
     },
     {
       "id": "d8efc106-caac-531d-8df3-17760aee030b",
-      "body": "Once per battle for each Aspect Shrine token this unit has, you can change the result of one Hit roll or one Wound roll made for a model in this unit to an unmodified 6.\n\nDesigner's Note: Place an Aspect Shrine token next to the unit for each Aspect Shrine token it has, removing one each time this ability is used."
+      "body": "Once per battle for each Aspect Shrine token this unit has, you can change the result of one Hit roll or one Wound roll made for a model in this unit (excluding CHARACTER models) to an unmodified 6.\n\nDesigner's Note: Place an Aspect Shrine token next to the unit for each Aspect Shrine token it has, removing one each time this ability is used."
     },
     {
       "id": "d9d820af-629b-5430-8824-276c5cd5a0c0",
@@ -22975,10 +23339,6 @@
       "body": "Each time this weapon scores a hit against a MONSTER or VEHICLE unit, until the end of the turn, if the bearer selects that unit as a target of a charge, add 2 to Charge rolls made for the bearer and enemy units cannot use the Fire Overwatch Stratagem to shoot at the bearer."
     },
     {
-      "id": "0af8698d-68a8-57b7-a65e-0cb901dd1d13",
-      "body": "Once per battle for each Plasmacyte this unit has, when this unit is selected to fight, you can use this ability. If you do, until the end of the phase, melee weapons equipped by models in this unit have the DEVASTATING WOUNDS ability.\n\nDesigner's Note: Place the relevant number of Plasmacyte tokens next to the unit, removing one each time this unit uses this ability."
-    },
-    {
       "id": "0bbf91f9-4f2f-5b58-9562-d2ca169d8066",
       "body": "Weapons with ANTI-KEYWORD X+ in their profile are known as Anti weapons. Each time an attack is made with such a weapon against a target with the keyword after the word 'Anti-', an unmodified Wound roll of 'x+' scores a Critical Wound."
     },
@@ -22993,10 +23353,6 @@
     {
       "id": "0fb6186d-dc11-5067-ba9f-4a117f4605f9",
       "body": "Weapons with RAPID FIRE X in their profile are known as Rapid Fire weapons. Each time such a weapon targets a unit within half that weapon's range, the Attacks characteristic of that weapon is increased by the amount denoted by 'x'."
-    },
-    {
-      "id": "11f1ef28-eb5a-5194-b190-a2b2f0671bb3",
-      "body": "Ranged weapons equipped by models in the bearer's unit have the IGNORES COVER ability."
     },
     {
       "id": "1219f7b3-7d08-5cef-a0c5-6775297dead3",
@@ -23025,10 +23381,6 @@
     {
       "id": "1c638306-6db5-5662-874b-f9c16611ed40",
       "body": "Weapons with MELTA X in their profile are known as Melta weapons. Each time an attack made with such a weapon targets a unit within half that weapon's range, that attack's Damage characteristic is increased by the amount denoted by 'x'."
-    },
-    {
-      "id": "22fb290a-6bbb-57a8-b0a4-99492f3a64a4",
-      "body": "The bearer's unit has the Feel No Pain 6+ ability."
     },
     {
       "id": "24b6ff4c-35e2-5802-b949-b243c3702976",
@@ -23123,16 +23475,8 @@
       "body": "Weapons with IGNORES COVER in their profile are known as Ignores Cover weapons. Each time an attack is made with such a weapon, the target cannot have the Benefit of Cover against that attack."
     },
     {
-      "id": "6fb2a82d-4f28-5864-90fa-0bc3a0ecb8cd",
-      "body": "Once per turn, in your Shooting phase, one model with this ability can use it when it is selected to shoot. If it does, you must spend 1YP and, until the end of the phase, ranged weapons equipped by that model have the SUSTAINED HITS 1 ability and, after that model has shot this phase, if one or more enemy units were destroyed by those attacks, you can gain up to 2YP."
-    },
-    {
       "id": "728b4dfb-2e25-5430-8af8-9c9fa921e080",
       "body": "Weapons with MELTA X in their profile are known as Melta weapons. Each time an attack made with such a weapon targets a unit within half that weapon's range, that attack's Damage characteristic is increased by the amount denoted by 'x'."
-    },
-    {
-      "id": "7387151d-95fe-5ef7-9801-e450914cac05",
-      "body": "Weapons with RAPID FIRE X in their profile are known as Rapid Fire weapons. Each time such a weapon targets a unit within half that weapon's range, the Attacks characteristic of that weapon is increased by the amount denoted by 'x'."
     },
     {
       "id": "73c43536-8ac9-544f-ae5f-9d347e508c00",
@@ -23167,20 +23511,12 @@
       "body": "Weapons with SUSTAINED HITS X in their profile are known as Sustained Hits weapons. Each time an attack is made with such a weapon, if a Critical Hit is rolled, that attack scores a number of additional hits on the target as denoted by 'x'."
     },
     {
-      "id": "88769b60-c8c8-5617-a331-ce711588b595",
-      "body": "Models in the bearer's unit have the Feel No Pain 6+ ability."
-    },
-    {
       "id": "89258c79-f0b0-54f9-b302-b6bd89af2522",
       "body": "Weapons with ANTI-KEYWORD X+ in their profile are known as Anti weapons. Each time an attack is made with such a weapon against a target with the keyword after the word 'Anti-', an unmodified Wound roll of 'x+' scores a Critical Wound."
     },
     {
       "id": "8a365d2b-d309-548d-aaac-f21e25e92222",
       "body": "Each time you select a Psyker unit as the target for this weapon, until those attacks are resolved, change the Attacks characteristic of this weapon to 6."
-    },
-    {
-      "id": "8b884db3-2f86-54da-939b-0c8cbc56b9fa",
-      "body": "While this model is leading a unit, models in that unit have the Feel No Pain 4+ ability against Psychic Attacks."
     },
     {
       "id": "8c1e2023-1e67-59dc-b951-638a688d4b20",
@@ -23235,19 +23571,11 @@
       "body": "Weapons with ANTI-KEYWORD X+ in their profile are known as Anti weapons. Each time an attack is made with such a weapon against a target with the keyword after the word 'Anti-', an unmodified Wound roll of 'x+' scores a Critical Wound."
     },
     {
-      "id": "b4dca8b0-903f-5e62-8098-c79b1e682396",
-      "body": "Each time an enemy unit is set up or ends a Normal, Advance or Fall Back move within range of this weapon, if that enemy unit is an eligible target, the bearer can shoot this weapon at that target as if it were your Shooting phase. The bearer can shoot up to four times in this way in your opponent's Movement phase."
-    },
-    {
       "id": "b58291f8-63f9-5d6f-b704-2338e4b74df7",
       "body": "Weapons with SUSTAINED HITS X in their profile are known as Sustained Hits weapons. Each time an attack is made with such a weapon, if a Critical Hit is rolled, that attack scores a number of additional hits on the target as denoted by 'x'."
     },
     {
       "id": "b6fdb5a1-eb91-53e1-9d49-1b778419d970",
-      "body": "Weapons with ANTI-KEYWORD X+ in their profile are known as Anti weapons. Each time an attack is made with such a weapon against a target with the keyword after the word 'Anti-', an unmodified Wound roll of 'x+' scores a Critical Wound."
-    },
-    {
-      "id": "c490504f-5610-5416-82ec-ad4c9ff7c741",
       "body": "Weapons with ANTI-KEYWORD X+ in their profile are known as Anti weapons. Each time an attack is made with such a weapon against a target with the keyword after the word 'Anti-', an unmodified Wound roll of 'x+' scores a Critical Wound."
     },
     {
@@ -23283,16 +23611,8 @@
       "body": "Weapons with HEAVY in their profile are known as Heavy weapons. Each time an attack is made with such a weapon, if the attacking model's unit Remained Stationary this turn, add 1 to that attack's Hit roll."
     },
     {
-      "id": "db02f6f9-7f00-5939-ab65-7d2d7ad7bcdd",
-      "body": "Weapons with MELTA X in their profile are known as Melta weapons. Each time an attack made with such a weapon targets a unit within half that weapon's range, that attack's Damage characteristic is increased by the amount denoted by 'x'."
-    },
-    {
       "id": "deafea29-dc7d-5f11-ae25-160813a5f34e",
       "body": "Weapons with ANTI-KEYWORD X+ in their profile are known as Anti weapons. Each time an attack is made with such a weapon against a target with the keyword after the word 'Anti-', an unmodified Wound roll of 'x+' scores a Critical Wound."
-    },
-    {
-      "id": "e3195d05-c0a6-5d93-829c-80ee6dfb8664",
-      "body": "Each time a model in this unit makes an attack with a phosphor torch that targets an enemy unit within range of an objective marker, re-roll a Wound roll of 1. If this unit is also within 6\" of one or more friendly ADEPTUS MECHANICUS BATTLELINE units, each time such an attack targets such a unit, you can re-roll the Wound roll instead."
     },
     {
       "id": "e58448fa-8b31-5e16-84e4-04cb06ccc85e",
@@ -23321,22 +23641,6 @@
     {
       "id": "f2aaa340-64d2-5c73-b74a-8416abbaf4d1",
       "body": "Weapons with SUSTAINED HITS X in their profile are known as Sustained Hits weapons. Each time an attack is made with such a weapon, if a Critical Hit is rolled, that attack scores a number of additional hits on the target as denoted by 'x'."
-    },
-    {
-      "id": "f442d729-2272-52ba-b7e6-51b736903b61",
-      "body": "Weapons with ANTI-KEYWORD X+ in their profile are known as Anti weapons. Each time an attack is made with such a weapon against a target with the keyword after the word 'Anti-', an unmodified Wound roll of 'x+' scores a Critical Wound."
-    },
-    {
-      "id": "f4c7dc4c-7349-533a-93bf-828bf27b73c6",
-      "body": "Each time an enemy unit is set up or ends a Normal, Advance or Fall Back move within range of this weapon, if that enemy unit is an eligible target, the bearer can shoot with this weapon at that unit as if it were your Shooting phase (the bearer can do so up to four times per phase)."
-    },
-    {
-      "id": "f5c5319b-b6de-5479-94ac-84e352bf73cf",
-      "body": "While this model is within 3\" of one or more other friendly LEAGUES OF VOTANN INFANTRY units (excluding units with the Lone Operative ability), this model has the Lone Operative ability."
-    },
-    {
-      "id": "fd783be7-33f1-599b-af19-2cd3b0ba568f",
-      "body": "Add 1 to the Objective Control characteristic of models in the bearer's unit."
     }
   ],
   "allyAbilities": [
