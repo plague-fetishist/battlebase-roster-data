@@ -791,6 +791,10 @@
       "compositionBody": "• 1 Miasmic Malignifier\n\nThis model is equipped with: miasmic gouts."
     },
     {
+      "id": "1fd40a6c-766d-5401-a738-c1492b7782fd",
+      "compositionBody": "• 1 Ri'Lantar - EPIC HERO\n• 1 Ri'Locai - EPIC HERO\n\nRi'Lantar is equipped with: 1 fusion eliminator; 1 XV pulse pistol; 1 shardstorm burst system; 1 MV15 gun drone.\n\nRi'Locai is equipped with: 1 ion scattercannon; 1 XV pulse pistol; 1 shardstorm burst system; 1 MV15 gun drone."
+    },
+    {
       "id": "20200087-c1bf-516f-9363-a3b7e4086887",
       "damageBody": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Defiler\n\nThis model is equipped with: battle cannon; reaper autocannon; twin heavy flamer; Defiler claws."
@@ -1596,10 +1600,6 @@
       "compositionBody": "• 1 Chaos Predator Destructor\n\nThis model is equipped with: Predator autocannon; armoured tracks."
     },
     {
-      "id": "50b52057-4bb8-5b43-89aa-6d2297621b71",
-      "compositionBody": "• 1 Marneus Calgar - EPIC HERO\n• 2 Victrix Honour Guard\n\nMarneus Calgar is equipped with: Gauntlets of Ultramar.\nEvery Victrix Honour Guard is equipped with: Victrix power sword."
-    },
-    {
       "id": "50c6188b-eccf-5405-9f16-70a36645ac51",
       "compositionBody": "• 1 Neurothrope\n• 2-5 Zoanthropes\n\nEvery model is equipped with: Warp Blast; chitinous claws and teeth"
     },
@@ -1655,6 +1655,10 @@
       "compositionBody": "• 1 Spoilpox Scrivener\n\nThis model is equipped with: disgusting sneezes; plaguesword and distended maw."
     },
     {
+      "id": "5308cd51-e9d3-5f5f-a64f-7344e7c099ce",
+      "compositionBody": "• 1 Berehk Stornbröw - EPIC HERO\n\nThis model is equipped with: Kromlôk's Revenge; Warforge Gauntlets."
+    },
+    {
       "id": "53248590-5d33-51bf-8ec7-1705d4002ca6",
       "compositionBody": "• 1 Chaos Rhino\n\nThis model is equipped with: inferno combi-bolter; armoured tracks."
     },
@@ -1670,6 +1674,10 @@
     {
       "id": "536d190c-398f-5d96-8003-14a9581be1a1",
       "compositionBody": "• 1 Kapricus Carrier\n\nThis model is equipped with: magna‑coil autocannon; twin magna‑coil autocannon; armoured hull."
+    },
+    {
+      "id": "54cae717-b310-5504-8c0a-a760841c4b3c",
+      "compositionBody": "• 1 Tyranid Prime with Lash Whip\n\nThis model is equipped with: 1 rending claw; 1 lash whip; 1 scything talons"
     },
     {
       "id": "54ce2624-dbdd-5cd4-961f-29e8e712e753",
@@ -3507,10 +3515,6 @@
       "compositionBody": "• 1 Aethon Shaan - EPIC HERO\n\nThis model is equipped with: 1 heavy bolt pistol; 1 Claws of Severax"
     },
     {
-      "id": "c3aa7e4b-05db-5c5c-bcba-a5b1456bf8c4",
-      "compositionBody": "• 1 Captain Sicarius - EPIC HERO\n\nThis model is equipped with: artisan plasma pistol; Talassarian Tempest Blade."
-    },
-    {
       "id": "c41db8aa-06db-5665-ac23-cd7567bb4964",
       "damageBody": "While this model has 1-5 wounds remaining, each time this model makes an attack, subtract 1 from the Hit roll.",
       "compositionBody": "• 1 Avatar of Khaine - EPIC HERO\n\nThis model is equipped with: the Wailing Doom"
@@ -5223,7 +5227,7 @@
     },
     {
       "id": "a7f8a2f5-c078-52ea-9652-4e9b1b6ae31e",
-      "body": "HERETIC ASTARTES models from your army lose the Dark Pacts ability.\n\nRanged weapons equipped by HERETIC ASTARTES models from your army have the ASSAULT ability.\n\nVendetta\n\nAt the start of your Command phase, select one unit from your opponent's army. Until the start of your next Command phase, that enemy unit is your Vendetta target. Each time a HERETIC ASTARTES model from your army (excluding DAMNED models) makes an attack that targets your Vendetta target, you can re‑roll the Hit roll.\n\nTwisted Doctrine\n\nIn your Movement phase, each time you set up or select a HERETIC ASTARTES unit (excluding Battle‑shocked units) from your army to move, it can choose to Default to Doctrine. If it does, it must first take a Battle‑shock test. Then, select one of the following:\n\n• Until the end of the turn, this unit is eligible to shoot and declare a charge in a turn in which it Fell Back.\n• Until the end of the turn, this unit is eligible to declare a charge in a turn in which it Advanced."
+      "body": "HERETIC ASTARTES models from your army lose the Dark Pacts ability.\n\nRanged weapons equipped by HERETIC ASTARTES models from your army have the ASSAULT ability.\n\nWhen mustering your army, you cannot use the Cults of the Dark Gods rule.\n\nVendetta\n\nAt the start of your Command phase, select one unit from your opponent's army. Until the start of your next Command phase, that enemy unit is your Vendetta target. Each time a HERETIC ASTARTES model from your army (excluding DAMNED models) makes an attack that targets your Vendetta target, you can re‑roll the Hit roll.\n\nTwisted Doctrine\n\nIn your Movement phase, each time you set up or select a HERETIC ASTARTES unit (excluding Battle‑shocked units) from your army to move, it can choose to Default to Doctrine. If it does, it must first take a Battle‑shock test. Then, select one of the following:\n\n• Until the end of the turn, this unit is eligible to shoot and declare a charge in a turn in which it Fell Back.\n• Until the end of the turn, this unit is eligible to declare a charge in a turn in which it Advanced."
     },
     {
       "id": "a86f034e-e9db-5302-8338-1983a9069647",
@@ -5239,7 +5243,7 @@
     },
     {
       "id": "aeb2f9da-7b9a-5ea2-9bf5-49a75fbebfef",
-      "body": "Each time a NECRONS model from your army makes an attack that targets a unit within range of one or more objective markers, add 1 to the Hit roll. In addition, ranged weapons equipped by NECRONS VEHICLE and NECRONS MOUNTED models (excluding TITANIC models) from your army have the ASSAULT ability."
+      "body": "Each time a NECRONS model (excluding MONSTER models) from your army makes an attack that targets a unit within range of one or more objective markers, add 1 to the Hit roll. In addition, ranged weapons equipped by NECRONS VEHICLE and NECRONS MOUNTED models (excluding TITANIC models) from your army have the ASSAULT ability."
     },
     {
       "id": "af1c1178-e147-5ea0-a8e2-f6754ca4367a",
@@ -7097,7 +7101,7 @@
     },
     {
       "id": "798ab73d-5e53-5db2-8931-a94327f1d14c",
-      "body": "HERETIC ASTARTES model only. At the start of your Command phase, after you have selected your Vendetta target, select a second enemy unit. Until the start of your next Command phase, if your Vendetta target is destroyed, that second enemy unit becomes your Vendetta target until you select a new one."
+      "body": "HERETIC ASTARTES model only. Once per battle round, after your Vendetta target is destroyed, if the bearer is on the battlefield, you can select one enemy unit visible to the bearer. That enemy unit becomes your Vendetta target until you select a new one."
     },
     {
       "id": "79ea5348-d6f5-558d-bb4b-291b441fbad0",
@@ -8117,7 +8121,7 @@
     },
     {
       "id": "d9a0a411-5691-5797-a2eb-977b527582ca",
-      "body": "OVERLORD or CATACOMB COMMAND BARGE model only. While a friendly NECRONS unit (excluding TITANIC units) is within 6\" of the bearer, each time a model in that unit makes an attack, re‑roll a Hit roll of 1 and re‑roll a Wound roll of 1."
+      "body": "OVERLORD or CATACOMB COMMAND BARGE model only. While a friendly NECRONS unit (excluding MONSTER and TITANIC units) is within 6\" of the bearer, each time a model in that unit makes an attack, re‑roll a Hit roll of 1 and re‑roll a Wound roll of 1."
     },
     {
       "id": "da8bdbdc-c029-5c67-b4ae-46a1b1defc69",
@@ -8738,7 +8742,7 @@
     {
       "id": "05381247-fddc-505e-af56-3dc7c993227c",
       "whenBody": "End of your Fight phase.",
-      "targetBody": "One NECRONS unit (excluding TITANIC units) from your army that is within range of one or more objective markers you control.",
+      "targetBody": "One NECRONS unit (excluding MONSTER and TITANIC units) from your army that is within range of one or more objective markers you control.",
       "effectBody": "Your unit's Reanimation Protocols activate."
     },
     {
@@ -10508,7 +10512,7 @@
     },
     {
       "id": "45b964ed-f8a2-5e62-94da-6ef518e707ee",
-      "whenBody": "End of any of your phases, if units from your army have Hostile Acquisition.",
+      "whenBody": "End of any of your phases",
       "targetBody": "One LEAGUES OF VOTANN TRANSPORT unit from your army.",
       "effectBody": "One LEAGUES OF VOTANN unit embarked within your TRANSPORT can disembark. When doing so, models in that unit can be set up anywhere on the battlefield wholly within 6\" of your TRANSPORT. That unit cannot declare a charge in the same turn, but can otherwise act normally in the remainder of the turn."
     },
@@ -11467,7 +11471,7 @@
     {
       "id": "6be5dac8-8ed1-585d-8b82-bd1b965af143",
       "whenBody": "Your Shooting phase or the Fight phase.",
-      "targetBody": "One NECRONS unit (excluding TITANIC units) from your army that has not been selected to shoot or fight this phase.",
+      "targetBody": "One NECRONS unit (excluding MONSTER and TITANIC units) from your army that has not been selected to shoot or fight this phase.",
       "effectBody": "Until the end of the phase, each time a model in your unit makes an attack, if the target of that attack is within range of one or more objective markers, add 1 to the Wound roll."
     },
     {
@@ -13647,7 +13651,7 @@
     {
       "id": "bcd0317a-1919-510d-99e7-336a5acf8da2",
       "whenBody": "Your opponent's Shooting phase, just after an enemy unit has shot.",
-      "targetBody": "One NECRONS unit from your army (excluding TITANIC units) that was the target of one or more of the attacking unit's attacks.",
+      "targetBody": "One NECRONS unit from your army (excluding MONSTER and TITANIC units) that was the target of one or more of the attacking unit's attacks.",
       "effectBody": "Your unit can make a Normal move of up to D6\"."
     },
     {
@@ -16014,10 +16018,6 @@
       "body": "While this unit contains Ancient Gadriel, add 1 to the Objective Control characteristic of models in this unit. While this unit contains Ancient Gadriel and CAPTAIN TITUS, improve the Leadership characteristic of models in this unit by 1 as well."
     },
     {
-      "id": "15039681-8e43-5f00-9d84-f05a26ef923f",
-      "body": "Once per turn, when an enemy unit ends a Normal, Advance or Fall Back move within 9\" of this model, if this model's unit is not within Engagement Range of one or more enemy units, it can make a Normal move of up to 6\"."
-    },
-    {
       "id": "1507da68-92d9-5807-a0a3-264186236fb8",
       "body": "Each time this model ends a Normal move, you can select one enemy unit it moved across during that move and roll six D6: for each 4+, that unit suffers 1 mortal wound."
     },
@@ -16136,10 +16136,6 @@
     {
       "id": "199f237d-e58b-53ee-9636-90bd930e8815",
       "body": "Each time this model makes a ranged attack that targets a unit that cannot FLY, add 1 to the Hit roll."
-    },
-    {
-      "id": "19a7c450-037e-554f-b075-d809a992ecf0",
-      "body": "At the start of your Command phase, if this unit's Marneus Calgar model is your WARLORD and is on the battlefield, you gain 1CP."
     },
     {
       "id": "19af5ffd-838c-5c0b-9fee-618bf06a72dc",
@@ -16350,6 +16346,10 @@
       "body": "Each time a ranged attack is allocated to a model, if that model is not fully visible to every model in the attacking unit because of this FORTIFICATION, that model has the Benefit of Cover against that attack."
     },
     {
+      "id": "21f502ae-06b8-577b-82aa-34e6cc50e46f",
+      "body": "At the start of your opponent's Charge phase, you can select one enemy unit (excluding MONSTER and VEHICLE units) within 12\" of this unit. That unit must take a Battle‑shock test and, until the end of the turn, subtract 1 from Charge rolls made for that unit."
+    },
+    {
       "id": "21fe285a-bcbb-5974-9dad-e9f41c8105a6",
       "body": "In your Shooting phase, after this model has shot, select one enemy INFANTRY unit hit by one or more of those attacks made with its Plague Wind. Until the end of your opponent's next turn, that unit is enfeebled. While a unit is enfeebled, subtract 2\" from the Move characteristic of models in that unit."
     },
@@ -16452,10 +16452,6 @@
     {
       "id": "24f9b0a8-615e-574c-adcb-0d3d8d66dac1",
       "body": "At the start of your Command phase, this model regains 1 lost wound."
-    },
-    {
-      "id": "257f8317-1deb-5a6b-a2e8-34e97717058b",
-      "body": "While this unit is leading a unit and contains a MARNEUS CALGAR model, that unit is eligible to shoot and declare a charge in a turn in which it Advanced or Fell Back."
     },
     {
       "id": "25d19a31-9a4c-5fea-9b33-8bd7207a3ad8",
@@ -16766,6 +16762,10 @@
       "body": "Each time this model makes a Charge move, until the end of the turn, add 1 to the Attacks characteristic of this model's reaper chain‑cleaver - strike profile, and add 2 to the Attacks characteristic of this model's reaper chain‑cleaver - sweep profile."
     },
     {
+      "id": "30f88268-9bc0-5ef2-ae86-24ccd7ce5b9c",
+      "body": "At the end of the Fight phase, this unit can either make a Normal move of up to 6\" or a Fall Back move"
+    },
+    {
       "id": "3133ec47-82fa-5541-8899-b9b25a600417",
       "body": "While this unit contains an OFFICER, ranged weapons equipped by models in this unit have the ASSAULT ability."
     },
@@ -16839,7 +16839,7 @@
     },
     {
       "id": "34a4706e-683e-5505-b9e9-7aa69e333211",
-      "body": "At the start of the battle round, select one Triarch ability. Until the start of the next battle round, this unit has that ability.\n\nPhaeron of the Blades (Aura)\n\nWhile a friendly NECRONS unit is within 6\" of this unit's Szarekh model, you can re-roll Charge rolls made for that unit and each time a model in that unit makes a melee attack, add 1 to the Strength characteristic of that attack.\n\nRelentless March (Aura)\n\nWhile a friendly NECRONS unit is within 6\" of this unit's Szarekh model, add 2\" to the Move characteristic of models in that unit.\n\nPhaeron of the Stars (Aura)\n\nWhile a friendly NECRONS unit is within 6\" of this unit's Szarekh model, each time a model in that unit makes an attack, re-roll a Hit roll of 1 and re-roll a Wound roll of 1."
+      "body": "At the start of the battle round, select one Triarch ability. Until the start of the next battle round, this unit has that ability.\n\nPhaeron of the Blades (Aura)\n\nWhile a friendly NECRONS unit (excluding MONSTER units) is within 6\" of this unit's Szarekh model, you can re-roll Charge rolls made for that unit and each time a model in that unit makes a melee attack, add 1 to the Strength characteristic of that attack.\n\nRelentless March (Aura)\n\nWhile a friendly NECRONS unit (excluding MONSTER units) is within 6\" of this unit's Szarekh model, add 2\" to the Move characteristic of models in that unit.\n\nPhaeron of the Stars (Aura)\n\nWhile a friendly NECRONS unit (excluding MONSTER units) is within 6\" of this unit's Szarekh model, each time a model in that unit makes an attack, re-roll a Hit roll of 1 and re-roll a Wound roll of 1."
     },
     {
       "id": "34ca4d17-4869-589e-b91b-f91affa138a2",
@@ -16932,10 +16932,6 @@
     {
       "id": "36eb4b6d-3e63-5495-bac9-a603c379f279",
       "body": "In your Command phase, select one friendly ASTRA MILITARUM VEHICLE model within 3\" of this model. That VEHICLE model regains up to D3 lost wounds and, until the start of your next Command phase, that VEHICLE model has a 4+ invulnerable save. Each model can only be selected for this ability once per turn."
-    },
-    {
-      "id": "37217202-fc49-5fd5-bcdf-8d16127c9426",
-      "body": "While this unit contains one or more Victrix Honour Guard models, this unit's MARNEUS CALGAR model has the Feel No Pain 4+ ability."
     },
     {
       "id": "372e8593-9017-5fff-8418-d9ed46ab0f88",
@@ -17500,6 +17496,10 @@
     {
       "id": "4f161d94-c4db-5292-9243-f7e6b0ce1aa9",
       "body": "Some TRANSPORT models have 'Firing Deck x' listed in their abilities. Each time such a model is selected to shoot in the Shooting phase, you can select up to 'x' models embarked within it whose units have not already shot this phase. Then, for each of those embarked models, you can select one ranged weapon that embarked model is equipped with (excluding weapons with the ONE SHOT ability). Until that TRANSPORT model has resolved all of its attacks, it counts as being equipped with all of the weapons you selected in this way, in addition to its other weapons. Until the end of the phase, those selected models' units are not eligible to shoot."
+    },
+    {
+      "id": "4f26271d-2b70-59fa-9ba1-2dbff8d03932",
+      "body": "Each time a model in this unit makes a ranged attack that targets the closest eligible target, that attack has the SUSTAINED HITS 1 and IGNORES COVER abilities."
     },
     {
       "id": "4f45bf69-4f05-53db-978a-5c48d06e66b4",
@@ -18866,6 +18866,10 @@
       "body": "You can re‑roll Advance and Charge rolls made for this unit."
     },
     {
+      "id": "8aca2c1b-0a7a-58a2-bc3d-81f51ef6157a",
+      "body": "Melee weapons equipped by models in this model's unit have the SUSTAINED HITS 1 ability"
+    },
+    {
       "id": "8aefa1b2-b407-5a4f-86bd-e9e94e18007e",
       "body": "While this model is leading a unit, each time a model in that unit makes a melee attack, add 1 to the Hit roll."
     },
@@ -19224,6 +19228,10 @@
     {
       "id": "9a038600-b298-5b9f-84cc-e2e5a36c396d",
       "body": "Each time an enemy unit (excluding MONSTERS and VEHICLES) within Engagement Range of this unit Falls Back, all models in that enemy unit must take a Desperate Escape test. When doing so, if that enemy unit is Battle-shocked, subtract 1 from each of those tests."
+    },
+    {
+      "id": "9a105a17-89fb-5bf8-8ef8-f1f69fa42a65",
+      "body": "You can target this model's unit with the Heroic Intervention Stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase."
     },
     {
       "id": "9a734ab5-4d8a-52cb-9248-7f768cc3f7b3",
@@ -20758,6 +20766,10 @@
       "body": "While an enemy unit is within 9\" of this model, subtract 1 from Battle-shock and Leadership tests taken for that unit."
     },
     {
+      "id": "de4e63de-0add-564e-83be-5f967286979d",
+      "body": "In your opponent's Shooting phase, each time an enemy unit has shot, if any models from this unit were destroyed as a result of those attacks, this unit can make a Surge move. To do so, roll one D6: models in this unit move a number of inches up to this result, but this unit must end that move as close as possible to the closest enemy unit (excluding AIRCRAFT). When doing so, those models can be moved within Engagement Range of that enemy unit. This unit cannot make a Surge move while it is Battle-shocked or within Engagement Range of one or more enemy units, and can only make one Surge move per phase."
+    },
+    {
       "id": "de54d76b-cee7-562d-967b-1719cbb79959",
       "body": "Each time this model makes an attack, you can re-roll the Wound roll."
     },
@@ -21011,7 +21023,7 @@
     },
     {
       "id": "ea6d137f-f6be-5e99-a7cb-fbc34f583db2",
-      "body": "While a friendly NECRONS unit (excluding TITANIC units) is within 6” of this model, each time a model in that unit makes an attack, if that model has the DESTROYER CULT keyword or that enemy unit is the closest eligible target, that attack has the SUSTAINED HITS 1 ability."
+      "body": "While a friendly NECRONS unit (excluding MONSTER and TITANIC units) is within 6” of this model, each time a model in that unit makes an attack, if that model has the DESTROYER CULT keyword or that enemy unit is the closest eligible target, that attack has the SUSTAINED HITS 1 ability."
     },
     {
       "id": "ea8e9f1c-f152-5b16-b0c7-a71401702cde",
@@ -21512,10 +21524,6 @@
     {
       "id": "ffacfdf9-8753-5399-9b55-6321b8680d1a",
       "body": "While a friendly TZEENTCH LEGIONES DAEMONICA unit is within 6\" of this model, each time a model in that unit makes a ranged attack, add 1 to the Strength characteristic of that attack."
-    },
-    {
-      "id": "fff42f3f-642a-54d4-972f-ce11296b2fd3",
-      "body": "While this model is leading a unit, models in that unit have the Scouts 6\" ability and ranged weapons equipped by models in that unit have the ASSAULT ability."
     }
   ],
   "datasheetRules": [
@@ -22001,7 +22009,7 @@
     },
     {
       "id": "3a7debf7-7655-5a18-984d-4d863ff149cd",
-      "body": "This model can be attached to the following units:\n\n• ASSAULT INTERCESSOR SQUAD\n• DESOLATION SQUAD\n• DEVASTATOR SQUAD\n• HELLBLASTER SQUAD\n• INFERNUS SQUAD\n• INTERCESSOR SQUAD\n• TACTICAL SQUAD\n• STERNGUARD VETERAN SQUAD\n\nYou can attach this model to one of the above units, even if one CAPTAIN, CHAPTER MASTER or LIEUTENANT model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
+      "body": "This model can be attached to the following units:\n\n• ASSAULT INTERCESSOR SQUAD\n• BLADEGUARD VETERAN SQUAD\n• DESOLATION SQUAD\n• DEVASTATOR SQUAD\n• HELLBLASTER SQUAD\n• INFERNUS SQUAD\n• INTERCESSOR SQUAD\n• TACTICAL SQUAD\n• STERNGUARD VETERAN SQUAD\n\nYou can attach this model to one of the above units, even if one CAPTAIN, CHAPTER MASTER or LIEUTENANT model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths."
     },
     {
       "id": "3b2c51a4-a91d-592d-83a1-c77a815a380c",
@@ -22456,6 +22464,10 @@
       "body": "This model has a transport capacity of 12 HERETIC ASTARTES INFANTRY models (excluding OBLITERATOR and JUMP PACK models). Each POSSESSED and TERMINATOR model takes up the space of 2 models."
     },
     {
+      "id": "777170ab-c76d-5a79-8c96-e946fea1a8d7",
+      "body": "This model can be attached to the following unit:\n\n• CTHONIAN BESERKS"
+    },
+    {
       "id": "77af05d2-0d2a-5329-8ecd-db2c9d7823b3",
       "body": "If this model is in your army, it must be your WARLORD."
     },
@@ -22682,10 +22694,6 @@
     {
       "id": "91c4fd29-8d6e-50df-a18e-3f14e1a40da4",
       "body": "This unit can be attached to the following units:\n\n• SERAPHIM SQUAD\n• ZEPHYRIM SQUAD"
-    },
-    {
-      "id": "91d0fd9b-26dd-5211-b97e-bcfd4ed081b8",
-      "body": "This model can be attached to the following units:\n\n• ASSAULT INTERCESSOR SQUAD\n• BLADEGUARD VETERAN SQUAD\n• COMPANY HEROES\n• STERNGUARD VETERAN SQUAD\n• TACTICAL SQUAD"
     },
     {
       "id": "91e47e02-fb38-5c8c-8a2a-17c825f8eb19",
@@ -23356,6 +23364,10 @@
       "body": "This model can be attached to the following units:\n\n• ASSAULT INTERCESSORS WITH JUMP PACKS\n• VANGUARD VETERAN SQUAD WITH JUMP PACKS"
     },
     {
+      "id": "eeeee40c-c11a-5ffd-a613-28942b21af99",
+      "body": "This model can be attached to the following units:\n\n• HORMAGAUNTS\n• TERMAGANTS\n• TYRANID WARRIORS WITH MELEE BIO‑WEAPONS\n• TYRANID WARRIORS WITH RANGED BIO‑WEAPONS"
+    },
+    {
       "id": "eefa15d7-462d-5bc7-8459-d5c6193692af",
       "body": "This OFFICER can issue up to 2 Orders to SQUADRON units."
     },
@@ -23430,10 +23442,6 @@
     {
       "id": "fa278d46-6f3f-5ebc-8873-59a8a3d79a4a",
       "body": "This unit can be attached to the following unit:\n\n• TEMPESTUS SCIONS"
-    },
-    {
-      "id": "fa5a2e48-60d1-5738-a22e-589dbf3724d8",
-      "body": "This unit can be attached to the following units:\n\n• AGGRESSOR SQUAD\n• ASSAULT INTERCESSOR SQUAD\n• BLADEGUARD VETERAN SQUAD\n• COMPANY HEROES\n• ERADICATOR SQUAD\n• HEAVY INTERCESSOR SQUAD\n• INFERNUS SQUAD\n• INTERCESSOR SQUAD\n• STERNGUARD VETERAN SQUAD\n• TACTICAL SQUAD"
     },
     {
       "id": "fad19ad1-03c0-52b4-a001-71da2bd82c97",
@@ -23792,6 +23800,10 @@
     {
       "id": "66127e7d-ccae-5e39-ae3c-300cc7e54471",
       "body": "The bearer has a 4+ invulnerable save."
+    },
+    {
+      "id": "662dc1fb-e459-54b5-b0a9-efa5973241b9",
+      "body": "The bearer is equipped with 1 twin pulse blaster."
     },
     {
       "id": "6691c147-cf7c-50e5-be43-403ca570020b",
