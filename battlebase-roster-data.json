@@ -4695,7 +4695,7 @@
     },
     {
       "id": "23392cb1-1502-569d-ac8e-a17e5abfb036",
-      "body": "At the start of the battle round, select one objective marker. Until the start of the next battle round, that objective marker is your loot objective.\n\nEach time a model in an ORKS INFANTRY, ORKS MOUNTED or ORKS WALKER unit from your army makes an attack, that attack has the SUSTAINED HITS 1 ability if either or both of the following are true:\n\n•  That model's unit is within range of your loot objective.\n• That attack targets a unit within range of your loot objective."
+      "body": "At the start of your Command phase, select one objective marker. Until the start of your next Command phase, that objective marker is your loot objective.\n\nEach time a model in an ORKS INFANTRY, ORKS MOUNTED or ORKS WALKER unit from your army makes an attack, that attack has the SUSTAINED HITS 1 ability if either or both of the following are true:\n\n\n• That model's unit is within range of your loot objective.\n• That attack targets a unit within range of your loot objective."
     },
     {
       "id": "236d117e-a3e3-5e0c-896b-167b7b795334",
@@ -4959,7 +4959,7 @@
     },
     {
       "id": "6f00447c-8086-58bc-8c4d-e48e715f38ba",
-      "body": "TYRANID WARRIORS and WINGED TYRANID PRIME units from your army have a 5+ invulnerable save."
+      "body": "TYRANID WARRIORS, TYRANID PRIME WITH LASH WHIP and WINGED TYRANID PRIME units from your army have a 5+ invulnerable save."
     },
     {
       "id": "6f1248b8-9b4e-5fcc-810c-7953be31fd95",
@@ -16698,6 +16698,10 @@
       "body": "While this model is leading a unit, weapons equipped by models in that unit have the SUSTAINED HITS 1 ability."
     },
     {
+      "id": "2e5a1bbe-1d3f-5d5f-a444-131d3771071d",
+      "body": "Weapons equipped by models in this model's unit have the SUSTAINED HITS 1 ability."
+    },
+    {
       "id": "2e5dc98e-3a09-56b4-b649-f5444f320a1e",
       "body": "Enemy units that are set up on the battlefield as Reinforcements cannot be set up within 12\" horizontally of this model."
     },
@@ -16763,7 +16767,7 @@
     },
     {
       "id": "30f88268-9bc0-5ef2-ae86-24ccd7ce5b9c",
-      "body": "At the end of the Fight phase, this unit can either make a Normal move of up to 6\" or a Fall Back move"
+      "body": "At the end of the Fight phase, if this unit was eligible to fight this phase, this unit can either make a Normal move of up to 6\" or a Fall Back move."
     },
     {
       "id": "3133ec47-82fa-5541-8899-b9b25a600417",
@@ -22048,10 +22052,6 @@
       "body": "This model can be attached to the following units:\n\n■ INFRACTORS\n■ NOISE MARINES \n■ TORMENTORS"
     },
     {
-      "id": "4602332a-7851-5d53-981f-3b7c6ec9f72b",
-      "body": "Your army cannot include more than one CAPTAIN SICARIUS unit."
-    },
-    {
       "id": "47da0fd5-0a8c-541d-9bb7-ca42f50ffed3",
       "body": "This model has a transport capacity of 14 WORLD EATERS INFANTRY models. Each POSSESSED and TERMINATOR model takes up the space of 2 models."
     },
@@ -22628,6 +22628,10 @@
       "body": "This model can be attached to the following units:\n\n• BROTHERHOOD TERMINATOR SQUAD\n• PALADIN SQUAD"
     },
     {
+      "id": "8cda6d13-5ce7-53c1-ad78-a00a188c7866",
+      "body": "This model can be attached to the following units:\n\n• HORMAGAUNTS\n• TERMAGANTS\n• TYRANID WARRIORS WITH MELEE BIO‑WEAPONS\n• TYRANID WARRIORS WITH RANGED BIO‑WEAPONS"
+    },
+    {
       "id": "8cf4e4e0-e8b7-5064-a56d-e69bb0efda79",
       "body": "This model has a transport capacity of 20 GARGOYLES models and 1 WINGED TYRANID PRIME model."
     },
@@ -22754,10 +22758,6 @@
     {
       "id": "9a71282e-ca95-596d-aa40-16b4629a8ead",
       "body": "If your army includes COMMANDER FARSIGHT, it cannot include any ETHEREAL units. If your army includes any ETHEREAL units, it cannot include COMMANDER FARSIGHT."
-    },
-    {
-      "id": "9a83083b-d990-5e79-959d-8b5d362cce46",
-      "body": "Your army cannot include more than one MARNEUS CALGAR unit."
     },
     {
       "id": "9ab29bd5-d90b-518f-9f44-e9c758c4872b",
@@ -23362,10 +23362,6 @@
     {
       "id": "ee3c6209-1fd8-5f3f-ab79-cacd105da604",
       "body": "This model can be attached to the following units:\n\n• ASSAULT INTERCESSORS WITH JUMP PACKS\n• VANGUARD VETERAN SQUAD WITH JUMP PACKS"
-    },
-    {
-      "id": "eeeee40c-c11a-5ffd-a613-28942b21af99",
-      "body": "This model can be attached to the following units:\n\n• HORMAGAUNTS\n• TERMAGANTS\n• TYRANID WARRIORS WITH MELEE BIO‑WEAPONS\n• TYRANID WARRIORS WITH RANGED BIO‑WEAPONS"
     },
     {
       "id": "eefa15d7-462d-5bc7-8459-d5c6193692af",
@@ -24282,6 +24278,10 @@
     {
       "id": "51041f36-bb71-51be-b539-4958591bdaf5",
       "body": "Weapons with RAPID FIRE X in their profile are known as Rapid Fire weapons. Each time such a weapon targets a unit within half that weapon's range, the Attacks characteristic of that weapon is increased by the amount denoted by 'x'."
+    },
+    {
+      "id": "52ef074b-4bb1-590a-858b-775c174a4597",
+      "body": "Each time an attack made with this weapon targets an enemy unit that is not within 12\", an unmodified successful Hit roll of 4+ scores a Critical Hit."
     },
     {
       "id": "5408e1d6-cff0-5617-87cd-e0ed1bec2a88",
