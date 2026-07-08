@@ -6,7 +6,7 @@
     },
     {
       "id": "00dce0f8-bfa0-5e4c-9bcf-5733258b0f37",
-      "body": "\nPain Abilities\n\nAll DRUKHARI units have a Pain ability, tagged with the word 'Pain'. Pain abilities only apply to a unit while it is Empowered. If your Army Faction is DRUKHARI, you can Empower units from your army with Pain abilities by spending Pain tokens (see below).\n\nDesigner's Note: You can also spend Pain tokens to activate additional effects in certain other rules such as Enhancements and Stratagems.\n\nGaining Pain Tokens\n\nIf your Army Faction is DRUKHARI, you gain Pain tokens as follows:\n\n• 1 Pain token at the start of your Command phase.\n• 1 Pain token each time an enemy unit is destroyed.\n• 1 Pain token each time an enemy unit fails a Battle‑shock test.\n\nEach time you gain a Pain token, keep it to one side - this is your Pain token pool. Each time you spend a Pain token, reduce your Pain token pool by the same amount.\n\nEmpowered Through Pain\n\nEach Pain ability will state when you can spend Pain tokens to Empower that unit. When you do, until the end of the phase, that unit is Empowered and all Pain abilities it has take effect. While an Attached unit is Empowered, the Pain abilities of all Leader and Bodyguard units in that unit take effect - you do not need to spend additional Pain tokens to activate each of those Pain abilities.\nExample: At the start of your Charge phase, you spend 1 Pain token to Empower a unit of Wyches. The unit becomes Empowered, and so its Acrobatic Gladiators ability takes effect until the end of the phase. A Succubus is leading the unit, and so its Lithe Agility ability also takes effect until the end of the phase (no additional Pain token is required to activate that ability as well)."
+      "body": "Pain Abilities\n\nAll DRUKHARI units have a Pain ability, tagged with the word 'Pain'. Pain abilities only apply to a unit while it is Empowered. If your Army Faction is DRUKHARI, you can Empower units from your army with Pain abilities by spending Pain tokens (see below).\n\nDesigner's Note: You can also spend Pain tokens to activate additional effects in certain other rules such as Enhancements and Stratagems.\n\nGaining Pain Tokens\n\nIf your Army Faction is DRUKHARI, you gain Pain tokens as follows:\n\n• 1 Pain token at the start of your Command phase.\n• 1 Pain token each time an enemy unit is destroyed.\n• 1 Pain token each time an enemy unit fails a Battle‑shock test.\n\nEach time you gain a Pain token, keep it to one side - this is your Pain token pool. Each time you spend a Pain token, reduce your Pain token pool by the same amount.\n\nEmpowered Through Pain\n\nEach Pain ability will state when you can spend Pain tokens to Empower that unit. When you do, until the end of the phase, that unit is Empowered and all Pain abilities it has take effect. While an Attached unit is Empowered, the Pain abilities of all Leader and Bodyguard units in that unit take effect - you do not need to spend additional Pain tokens to activate each of those Pain abilities.\nExample: At the start of your Charge phase, you spend 1 Pain token to Empower a unit of Wyches. The unit becomes Empowered, and so its Acrobatic Gladiators ability takes effect until the end of the phase. A Succubus is leading the unit, and so its Lithe Agility ability also takes effect until the end of the phase (no additional Pain token is required to activate that ability as well)."
     },
     {
       "id": "05baa4c2-d1af-5249-a501-bee382654ec0",
@@ -26,7 +26,7 @@
     },
     {
       "id": "10340f95-115f-5338-b7d3-cb1d06dc6289",
-      "body": "If your Army Faction is THOUSAND SONS, at the start of your Shooting phase, one or more models from your army with this ability can attempt Rituals from those listed on the right. To do so, select one model from your army with this ability that has not yet attempted a Ritual this turn and select one Ritual no model from your army has attempted to manifest this turn, then take a Psychic test for that model by following the sequence below.\n\nPsychic Test Sequence\n\nRoll 2D6\nRoll 2D6\nChannel the Warp\n(Optional)\nOptionally, you can roll one additional D6.\nThen, if one or more doubles or triples were rolled during this test, that model's unit suffers D3 mortal wounds.\nIf that model is not destroyed, the combined total of all the dice rolled during this test is the Psychic test result. If this equals or exceeds the Warp Charge value of the Ritual being attempted, that model manifests that Ritual and you resolve its effects.\nSelect one enemy unit within 24\" of and visible to the manifesting model. Until the end of the phase, each time a THOUSAND SONS or SCINTILLATING LEGIONS model from your army makes an attack that targets that unit, re-roll a Hit roll of 1. If the Psychic test result for this Ritual was 10+, you can re-roll the Hit roll instead.\nSelect one friendly THOUSAND SONS or SCINTILLATING LEGIONS unit that is not within Engagement Range of one or more enemy units and is within 24\" of and visible to the manifesting model. That unit can make a Normal move of up to D6\". If the Psychic test result for this Ritual was 10+, that unit can make a Normal move of up to 6\" instead. In either case, until the end of the turn, that unit is not eligible to declare a charge.\nSelect one enemy unit within 24\" of and visible to the manifesting model (excluding units with the Lone Operative ability that are not part of an Attached unit and are not within 12\" of the manifesting model); that unit suffers D3 mortal wounds. If the Psychic test result for this Ritual was 11+, that unit suffers D3+3 mortal wounds instead.\nSelect one enemy unit within 24\" of and visible to the manifesting model. Until the end of the phase, each time a THOUSAND SONS or SCINTILLATING LEGIONS model from your army makes an attack that targets that unit, improve the Armour Penetration characteristic of that attack by 1. If the Psychic test result for this Ritual was 12+, improve the Armour Penetration characteristic of that attack by 2 instead."
+      "body": "If your Army Faction is THOUSAND SONS, at the start of your Shooting phase, one or more models from your army with this ability can attempt Rituals from those listed on the right. To do so, select one model from your army with this ability that has not yet attempted a Ritual this turn and select one Ritual no model from your army has attempted to manifest this turn, then take a Psychic test for that model by following the sequence below.\n\nPsychic Test Sequence\n\nRoll 2D6\nRoll 2D6\nChannel the Warp\n(Optional)\nOptionally, you can roll one additional D6.\nThen, if one or more doubles or triples were rolled during this test, that model's unit suffers D3 mortal wounds.\nIf that model is not destroyed, the combined total of all the dice rolled during this test is the Psychic test result. If this equals or exceeds the Warp Charge value of the Ritual being attempted, that model manifests that Ritual and you resolve its effects.\n\nDestiny's Ruin (Psychic)\nSelect one enemy unit within 24\" of and visible to the manifesting model. Until the end of the phase, each time a THOUSAND SONS or SCINTILLATING LEGIONS model from your army makes an attack that targets that unit, re-roll a Hit roll of 1. If the Psychic test result for this Ritual was 10+, you can re-roll the Hit roll instead.\n\n\nTemporal Surge (Psychic)\nSelect one friendly THOUSAND SONS or SCINTILLATING LEGIONS unit that is not within Engagement Range of one or more enemy units and is within 24\" of and visible to the manifesting model. That unit can make a Normal move of up to D6\". If the Psychic test result for this Ritual was 10+, that unit can make a Normal move of up to 6\" instead. In either case, until the end of the turn, that unit is not eligible to declare a charge.\n\n\nDoombolt (Psychic)\nSelect one enemy unit within 24\" of and visible to the manifesting model (excluding units with the Lone Operative ability that are not part of an Attached unit and are not within 12\" of the manifesting model); that unit suffers D3 mortal wounds. If the Psychic test result for this Ritual was 11+, that unit suffers D3+3 mortal wounds instead.\n\n\nTwist of Fate (Psychic)\nSelect one enemy unit within 24\" of and visible to the manifesting model. Until the end of the phase, each time a THOUSAND SONS or SCINTILLATING LEGIONS model from your army makes an attack that targets that unit, improve the Armour Penetration characteristic of that attack by 1. If the Psychic test result for this Ritual was 12+, improve the Armour Penetration characteristic of that attack by 2 instead."
     },
     {
       "id": "13872dd0-a010-5046-a8d3-c489ef8ab8ad",
@@ -62,7 +62,7 @@
     },
     {
       "id": "2536988e-908a-57ed-a3e2-60e199e6ac05",
-      "body": "If your Army Faction is DEATH GUARD, while an enemy unit is within Contagion Range of one or more DEATH GUARD models from your army, it is Afflicted (see below).\n\nCONTAGION RANGE\n\nContagion Range changes over the course of the battle:\nIn the first battle round, the Contagion Range is three inches.\nIn the second battle round, the Contagion Range is six inches.\nFrom the third battle round, the Contagion Range is nine inches.\nContagion Range cannot be greater than 12\" after modifiers.\n\nAfflicted\n\nDuring the Declare Battle Formations step, select one of the Plagues below. Until the end of the battle, while an enemy unit is Afflicted, subtract 1 from the Toughness characteristic of models in that unit, and that unit has the effect of your chosen Plague.\nThis horrifying affliction sees the minds and senses of the victim gnawed gradually away from within.\n\nEach time a model in this unit makes a melee attack, subtract 1 from the Hit roll.\nLimbs shuddering with fever palsy, bones turned brittle as glass, these warriors can barely act to defend themselves.\n\nWorsen the Save characteristic of models in this unit by 1.\nVictims of this insidious ailment become glassy eyed and morose as their very animus and essence decay.\n\nWorsen the Move, Leadership, and Objective Control characteristics of models in this unit by 1 (this rule can only worsen a model's Objective Control characteristic to a minimum of 1)."
+      "body": "If your Army Faction is DEATH GUARD, while an enemy unit is within Contagion Range of one or more DEATH GUARD models from your army, it is Afflicted (see below).\n\nCONTAGION RANGE\n\nContagion Range changes over the course of the battle:\nIn the first battle round, the Contagion Range is three inches.\nIn the second battle round, the Contagion Range is six inches.\nFrom the third battle round, the Contagion Range is nine inches.\nContagion Range cannot be greater than 12\" after modifiers.\n\nAfflicted\n\nDuring the Declare Battle Formations step, select one of the Plagues below. Until the end of the battle, while an enemy unit is Afflicted, subtract 1 from the Toughness characteristic of models in that unit, and that unit has the effect of your chosen Plague.\n\nSkullsquirm Blight\nThis horrifying affliction sees the minds and senses of the victim gnawed gradually away from within.\n\nEach time a model in this unit makes a melee attack, subtract 1 from the Hit roll.\n\n\nRattlejoint Ague\nLimbs shuddering with fever palsy, bones turned brittle as glass, these warriors can barely act to defend themselves.\n\nWorsen the Save characteristic of models in this unit by 1.\n\n\nScabrous Soulrot\nVictims of this insidious ailment become glassy eyed and morose as their very animus and essence decay.\n\nWorsen the Move, Leadership, and Objective Control characteristics of models in this unit by 1 (this rule can only worsen a model's Objective Control characteristic to a minimum of 1)."
     },
     {
       "id": "2769a207-98ad-5d60-b728-7f7af4d03487",
@@ -154,7 +154,7 @@
     },
     {
       "id": "9c8a5fd4-9b2a-5d6b-9cf6-f5d31b3e7252",
-      "body": "If your Army Faction is IMPERIAL KNIGHTS, at the end of the Read Mission Objectives step, you must determine your army's Oath for the coming battle. An Oath consists of two parts - one Deed and one Quality. There are three options for each part, shown below.\n\nTo determine your army's Deed, you can either select one Deed or you can randomly select one Deed by rolling a D6 and consulting the relevant table below. The selected Deed will describe what needs to be achieved in order to complete that Deed.\n\nTo determine your army's Quality, you can either select one Quality or you can randomly select one Quality by rolling a D6 and consulting the relevant table below. Until the end of the battle, the ability described in the Quality selected applies to all models in your army with this ability.\n\nThe first time your selected Deed is completed your Oath is fulfilled and, until the end of the battle, your army becomes Honoured and you gain 2CP, or 3CP if you randomly selected your Deed and/or Quality (CP gained in this way are an exemption to the Core Rules that limit the maximum number of CP you can gain per battle round to 1).\n\nDeed\n\nAt the start of the battle, select one CHARACTER model in your opponent's army. This Deed is completed at the end of a turn if that CHARACTER is destroyed.\nThis deed is completed at the end of your opponent's turn if you control more objective markers than your opponent.\nThis deed is completed at the end of the battle round if the number of enemy units destroyed this battle round is greater than the battle round number even if those units are subsequently returned to the battlefield (for example, two destroyed enemy units in the first battle round).\n\nQuality\n\nEach time this model is selected to shoot or fight, you can re‑roll one Hit roll and you can re‑roll one Wound roll.\nAdd 2” to this model's Move characteristic and add 1 to Advance and Charge rolls made for this model.\nImprove this model's Objective Control characteristic by 2 and its Leadership characteristic by 1."
+      "body": "If your Army Faction is IMPERIAL KNIGHTS, at the end of the Read Mission Objectives step, you must determine your army's Oath for the coming battle. An Oath consists of two parts - one Deed and one Quality. There are three options for each part, shown below.\n\nTo determine your army's Deed, you can either select one Deed or you can randomly select one Deed by rolling a D6 and consulting the relevant table below. The selected Deed will describe what needs to be achieved in order to complete that Deed.\n\nTo determine your army's Quality, you can either select one Quality or you can randomly select one Quality by rolling a D6 and consulting the relevant table below. Until the end of the battle, the ability described in the Quality selected applies to all models in your army with this ability.\n\nThe first time your selected Deed is completed your Oath is fulfilled and, until the end of the battle, your army becomes Honoured and you gain 2CP, or 3CP if you randomly selected your Deed and/or Quality (CP gained in this way are an exemption to the Core Rules that limit the maximum number of CP you can gain per battle round to 1).\n\nDeed\n\n\nWe vow to lay low the tyrant...\nAt the start of the battle, select one CHARACTER model in your opponent's army. This Deed is completed at the end of a turn if that CHARACTER is destroyed.\n\n\nWe swear to reclaim the realm...\nThis deed is completed at the end of your opponent's turn if you control more objective markers than your opponent.\n\n\nWe pledge to reap a great tally...\nThis deed is completed at the end of the battle round if the number of enemy units destroyed this battle round is greater than the battle round number even if those units are subsequently returned to the battlefield (for example, two destroyed enemy units in the first battle round).\n\n\nQuality\n\n\n...with all our martial valour risen over all.\nEach time this model is selected to shoot or fight, you can re‑roll one Hit roll and you can re‑roll one Wound roll.\n\n\n...and we are eager for the challenge.\nAdd 2” to this model's Move characteristic and add 1 to Advance and Charge rolls made for this model.\n\n\n...yet shall our legacy be unsullied.\nImprove this model's Objective Control characteristic by 2 and its Leadership characteristic by 1."
     },
     {
       "id": "a24b6229-cf6e-5de1-9ef0-38801dcce44a",
@@ -174,7 +174,7 @@
     },
     {
       "id": "b8871277-ca23-57dd-b361-9f8ccc55949e",
-      "body": "If your Army Faction is CHAOS KNIGHTS, each unit from your army with this ability gains Dread abilities, depending which are active for your army (see below). The Deathly Terror ability is active for your army from the start of the battle. In addition, at the start of the first, third and fifth battle rounds, you can either select one of the other Dread abilities or randomly select two Dread abilities to apply by rolling two D6 and applying the results rolled, from those numbered 1-6 below.\n\nAny Dread abilities that have been selected are active until the end of the battle. You cannot select the same Dread ability more than once, and any duplicated Dread abilities (as a result of randomly selecting them) have no additional effect.\nWhile an enemy unit is within 9\" of this model, worsen the Leadership characteristic of models in that unit by 1\nWhile an enemy unit is within 9\" of this model, worsen the Leadership characteristic of models in that unit by 1. This is cumulative with the Deathly Terror ability [see above].\nEach time this model makes an attack, if the target of that attack is Battle-shocked, add 1 to the Wound roll.\nThis model has Stealth.\nIn the Battle-shock step of your opponent's Command phase, for each enemy unit that is below its Starting Strength and within 9\" of this model, that enemy unit must take a Battle-shock test.\nWhile an enemy unit that is Below Half-strength is within 9\" of this model, each time that unit fails a Battle-shock test, it suffers D3 mortal wounds.\nAdd 3\" to the range of this model's Aura abilities."
+      "body": "If your Army Faction is CHAOS KNIGHTS, each unit from your army with this ability gains Dread abilities, depending which are active for your army (see below). The Deathly Terror ability is active for your army from the start of the battle. In addition, at the start of the first, third and fifth battle rounds, you can either select one of the other Dread abilities or randomly select two Dread abilities to apply by rolling two D6 and applying the results rolled, from those numbered 1-6 below.\n\nAny Dread abilities that have been selected are active until the end of the battle. You cannot select the same Dread ability more than once, and any duplicated Dread abilities (as a result of randomly selecting them) have no additional effect.\n\nN/A - Deathly Terror (Aura)\nWhile an enemy unit is within 9\" of this model, worsen the Leadership characteristic of models in that unit by 1\n\n\n1 - Despair (Aura)\nWhile an enemy unit is within 9\" of this model, worsen the Leadership characteristic of models in that unit by 1. This is cumulative with the Deathly Terror ability [see above].\n\n\n2 - Doom\nEach time this model makes an attack, if the target of that attack is Battle-shocked, add 1 to the Wound roll.\n\n\n3 - Darkness\nThis model has Stealth.\n\n\n4 - Dismay (Aura)\nIn the Battle-shock step of your opponent's Command phase, for each enemy unit that is below its Starting Strength and within 9\" of this model, that enemy unit must take a Battle-shock test.\n\n\n5 - Delirium (Aura)\nWhile an enemy unit that is Below Half-strength is within 9\" of this model, each time that unit fails a Battle-shock test, it suffers D3 mortal wounds.\n\n\n6 - Dominion\nAdd 3\" to the range of this model's Aura abilities."
     },
     {
       "id": "bcc0a9c2-571b-5796-a857-9e38d886d2d6",
@@ -4869,7 +4869,7 @@
     },
     {
       "id": "2ff7d8fc-a828-58a9-b356-91738a937376",
-      "body": "\nOn My Signal\n\nThis Order can only be issued to ARMOURED SKIRMISHER units (see Keywords). Each time an enemy unit ends a Normal or Advance move within 8\" of this unit, this unit can make a Normal move of up to D6\". Each unit can only move in this way once per turn."
+      "body": "On My Signal\n\nThis Order can only be issued to ARMOURED SKIRMISHER units (see Keywords). Each time an enemy unit ends a Normal or Advance move within 8\" of this unit, this unit can make a Normal move of up to D6\". Each unit can only move in this way once per turn."
     },
     {
       "id": "30899df1-9788-56fa-b58f-8ee919af9916",
@@ -4929,7 +4929,7 @@
     },
     {
       "id": "389f83a2-f12f-50ec-949a-ca5011e211e8",
-      "body": "In your Shooting phase, when a friendly Interceptor Squad unit has shot, if that unit did not make an ingress move this turn, you can use this ability. If you do:\rThat unit cannot use its Personal Teleporters ability.\rThat unit can make a surge move of up to D6+1\". "
+      "body": "In your Shooting phase, when a friendly Interceptor Squad unit has shot, if that unit did not make an ingress move this turn, you can use this ability. If you do:\rThat unit cannot use its Personal Teleporters ability.\rThat unit can make a surge move of up to D6+1\"."
     },
     {
       "id": "390a1496-c6d3-5355-acb4-2d93e23a406e",
@@ -5037,7 +5037,7 @@
     },
     {
       "id": "4d1f3f74-fbfc-5b81-ac11-e40490153844",
-      "body": "OFFICIO ASSASSINORUM units from your army can use the Overkill, Soulless Horror and Shieldbreaker abilities twice per battle, instead of once per battle (but cannot use such an ability more than once in the same battle round).\n\nWhen mustering your army, each OFFICIO ASSASSINORUM unit from your army has the relevant Extremis ability shown below, and you must increase the points cost of each of those units by the amount shown. If this causes your army to exceed the points limit for the battle you are playing, you cannot include that unit in your army.\n\nExtremis Abilities\n\nThe agents of the Callidus Temple are known to utilisevat‐grown doubles to confound their foes.\n\nCALLIDUS ASSASSIN models only. Twice per battle, in your Movement phase, you can select one other friendly INFANTRY model that is on the battlefield and not within Engagement Range of one or more enemy units. The selected model is destroyed (ignoring any rules that are triggered when a model is destroyed) and this model is removed from the battlefield and set up again as close as possible to where that destroyed model was and not within Engagement Range of one or more enemy units. This ability cannot be used more than once in the same battle round.\nThis Culexus operative has been outfitted with various grenades tailored to destroy their assigned targets.\n\nCULEXUS ASSASSIN models only. Each time this model is targeted with the Grenades Stratagem, 1 mortal wound is inflicted for each D6 roll of 3+ instead of for each 4+.\nThis Eversor agent's neurons have been surgically spliced to enhance awareness and speed of thought.\n\nEVERSOR ASSASSIN model only. You can target this unit with the Heroic Intervention stratagem, regardless of any other uses of that stratagem this phase. If you do:\n\n▪ That use is -1 CP.\n▪ That use does not prevent any uses of that stratagem on other units this phase.\nThese projectiles are tipped with miniaturised melta charges that detonate on impact.\n\nVINDICARE ASSASSIN models only. This model's exitus rifle has the ANTI‑MONSTER 4+ and ANTI‑VEHICLE 4+ abilities."
+      "body": "OFFICIO ASSASSINORUM units from your army can use the Overkill, Soulless Horror and Shieldbreaker abilities twice per battle, instead of once per battle (but cannot use such an ability more than once in the same battle round).\n\nWhen mustering your army, each OFFICIO ASSASSINORUM unit from your army has the relevant Extremis ability shown below, and you must increase the points cost of each of those units by the amount shown. If this causes your army to exceed the points limit for the battle you are playing, you cannot include that unit in your army.\n\nExtremis Abilities\n\n\nDecoy Targets\nThe agents of the Callidus Temple are known to utilisevat‐grown doubles to confound their foes.\n\nCALLIDUS ASSASSIN models only. Twice per battle, in your Movement phase, you can select one other friendly INFANTRY model that is on the battlefield and not within Engagement Range of one or more enemy units. The selected model is destroyed (ignoring any rules that are triggered when a model is destroyed) and this model is removed from the battlefield and set up again as close as possible to where that destroyed model was and not within Engagement Range of one or more enemy units. This ability cannot be used more than once in the same battle round.\n\n\nEsoteric Explosives\nThis Culexus operative has been outfitted with various grenades tailored to destroy their assigned targets.\n\nCULEXUS ASSASSIN models only. Each time this model is targeted with the Grenades Stratagem, 1 mortal wound is inflicted for each D6 roll of 3+ instead of for each 4+.\n\n\nIntraneural Biotech\nThis Eversor agent's neurons have been surgically spliced to enhance awareness and speed of thought.\n\nEVERSOR ASSASSIN model only. You can target this unit with the Heroic Intervention stratagem, regardless of any other uses of that stratagem this phase. If you do:\n\n▪ That use is -1 CP.\n▪ That use does not prevent any uses of that stratagem on other units this phase.\n\n\nMicromelta Rounds\nThese projectiles are tipped with miniaturised melta charges that detonate on impact.\n\nVINDICARE ASSASSIN models only. This model's exitus rifle has the ANTI‑MONSTER 4+ and ANTI‑VEHICLE 4+ abilities."
     },
     {
       "id": "4d37c7d3-2fc2-556d-b5f5-1596555725c3",
@@ -5053,7 +5053,7 @@
     },
     {
       "id": "4ddb6023-cdbd-59bc-a8ff-f828b26fd67d",
-      "body": "Friendly SEKHETAR ROBOTS unit's attacks have [Psychic].\rFriendly Thousand Sons Psyker units have the following ability:\r\n\nInfusion (Aura): While a friendly SEKHETAR ROBOTS unit is within 12\" of this unit, that unit's melee attacks have +1 WS.\n"
+      "body": "Friendly SEKHETAR ROBOTS unit's attacks have [Psychic].\rFriendly Thousand Sons Psyker units have the following ability:\r\n\nInfusion (Aura): While a friendly SEKHETAR ROBOTS unit is within 12\" of this unit, that unit's melee attacks have +1 WS."
     },
     {
       "id": "4f8c0955-fc36-577b-8d8c-76574932583e",
@@ -5093,7 +5093,7 @@
     },
     {
       "id": "56bb1b58-ab19-58d4-8851-f0efb47fc02f",
-      "body": "Friendly TOMB BLADES units have Deep Strike.\rWhen a friendly TOMB BLADES unit is selected to shoot, if that unit made an ingress move this turn, that unit's ranged attacks have +1 to hit rolls. "
+      "body": "Friendly TOMB BLADES units have Deep Strike.\rWhen a friendly TOMB BLADES unit is selected to shoot, if that unit made an ingress move this turn, that unit's ranged attacks have +1 to hit rolls."
     },
     {
       "id": "56e354dd-fcc4-5674-9a7c-89fb027f9fa9",
@@ -5329,7 +5329,7 @@
     },
     {
       "id": "8e00afaa-7c5b-5c6e-ab5a-9bb162d8e36c",
-      "body": "Friendly Norn Emissary/Norn Assimilator units have the following ability:\r\n\nProtean Purpose: (Once per battle, per unit) In your Command phase, you can use this ability. If you do, this unit can make a selection for its Singular Purpose ability (this replaces the previous selection).\n"
+      "body": "Friendly Norn Emissary/Norn Assimilator units have the following ability:\r\n\nProtean Purpose: (Once per battle, per unit) In your Command phase, you can use this ability. If you do, this unit can make a selection for its Singular Purpose ability (this replaces the previous selection)."
     },
     {
       "id": "8ed48c57-8cb6-552b-898a-4969d3c42d0f",
@@ -5441,7 +5441,7 @@
     },
     {
       "id": "9cfbb41b-b175-533c-87af-cb5f827d3e99",
-      "body": "NECRONS MONSTER units from your army have the following ability:\n\nDistortion Fields (Aura): While an enemy unit is within 6\" of this unit, it is unravelling. While an enemy unit is unravelling, each time an attack targets that unit, improve the Armour Penetration characteristic of that attack by 1.\n\nAt the start of each phase, for each NECRONS MONSTER unit from your army, that unit can suffer 3 mortal wounds. If it does, until the end of the phase, the range of that unit's Distortion Fields Aura ability is increased to 9\".\n\nDesigner's Note: If your army contains more than one TRANSCENDENT C'TAN unit, each of those units must take the Reletavistic Tether ability.\n\nNecrodermal Binding Abilities\n\nThis eldritch device fetters and directs the Deceiver's powers within a vortex that devours lesser wits entirely.\n\nC'TAN SHARD OF THE DECEIVER model only. This model has the following ability:\n\nLord of Deceit (Aura): Each time your opponent targets a unit from their army with a Stratagem, if that unit is within 12\" of this model, increase the cost of that use of that Stratagem by 1CP.\nThe energies of this binding latch onto enemy targets and shunt the shard into alignment with them.\n\nC'TAN SHARD OF THE NIGHTBRINGER model only. This model is eligible to declare a charge in a turn in which it Advanced.\nThis device bleeds off the Void Dragon shard's energies and earths them violently through nearby machines.\n\nC'TAN SHARD OF THE VOID DRAGON model only. Once per turn, at the start of your opponent's Shooting phase, select one enemy VEHICLE unit visible to the bearer. That unit must take a Leadership test. Until the end of the phase, each time a model in that unit makes an attack, subtract 1 from the Hit roll and, if that Leadership test was failed, subtract 1 from the Wound roll as well.\nThis binding uses atomic resonance magnetism to compel the shard into the midst of the foe.\n\nTRANSCENDENT C'TAN model only. In your turn, each time this model is set up on the battlefield using the Deep Strike or Transdimensional Displacement abilities, it can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units. When doing so, if this model is set up within 9\" of one or more enemy units, until the end of the turn, it is not eligible to declare a charge."
+      "body": "NECRONS MONSTER units from your army have the following ability:\n\nDistortion Fields (Aura): While an enemy unit is within 6\" of this unit, it is unravelling. While an enemy unit is unravelling, each time an attack targets that unit, improve the Armour Penetration characteristic of that attack by 1.\n\nAt the start of each phase, for each NECRONS MONSTER unit from your army, that unit can suffer 3 mortal wounds. If it does, until the end of the phase, the range of that unit's Distortion Fields Aura ability is increased to 9\".\n\nDesigner's Note: If your army contains more than one TRANSCENDENT C'TAN unit, each of those units must take the Reletavistic Tether ability.\n\nNecrodermal Binding Abilities\n\n\nSingularity Matrix\nThis eldritch device fetters and directs the Deceiver's powers within a vortex that devours lesser wits entirely.\n\nC'TAN SHARD OF THE DECEIVER model only. This model has the following ability:\n\nLord of Deceit (Aura): Each time your opponent targets a unit from their army with a Stratagem, if that unit is within 12\" of this model, increase the cost of that use of that Stratagem by 1CP.\n\n\nQuantum Goad\nThe energies of this binding latch onto enemy targets and shunt the shard into alignment with them.\n\nC'TAN SHARD OF THE NIGHTBRINGER model only. This model is eligible to declare a charge in a turn in which it Advanced.\n\n\nAnimus Damper\nThis device bleeds off the Void Dragon shard's energies and earths them violently through nearby machines.\n\nC'TAN SHARD OF THE VOID DRAGON model only. Once per turn, at the start of your opponent's Shooting phase, select one enemy VEHICLE unit visible to the bearer. That unit must take a Leadership test. Until the end of the phase, each time a model in that unit makes an attack, subtract 1 from the Hit roll and, if that Leadership test was failed, subtract 1 from the Wound roll as well.\n\n\nReletavistic Tether\nThis binding uses atomic resonance magnetism to compel the shard into the midst of the foe.\n\nTRANSCENDENT C'TAN model only. In your turn, each time this model is set up on the battlefield using the Deep Strike or Transdimensional Displacement abilities, it can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units. When doing so, if this model is set up within 9\" of one or more enemy units, until the end of the turn, it is not eligible to declare a charge."
     },
     {
       "id": "9d338001-f399-5323-8773-d52a124ee7f7",
@@ -5589,7 +5589,7 @@
     },
     {
       "id": "b907f665-afcf-5bb5-8788-8ec40546d842",
-      "body": "In your Shooting phase, when a friendly Heretic Astartes Psyker unit (excluding Daemon units) is selected to shoot, if that unit makes a Dark Pact, that unit's ranged attacks have +1 S.\rIn the Fight phase, when a friendly Heretic Astartes Daemon Prince unit (excluding Khorne units) is selected to fight, if that unit makes a Dark Pact, that unit's melee attacks have:\r+2 S.\r+1 AP. "
+      "body": "In your Shooting phase, when a friendly Heretic Astartes Psyker unit (excluding Daemon units) is selected to shoot, if that unit makes a Dark Pact, that unit's ranged attacks have +1 S.\rIn the Fight phase, when a friendly Heretic Astartes Daemon Prince unit (excluding Khorne units) is selected to fight, if that unit makes a Dark Pact, that unit's melee attacks have:\r+2 S.\r+1 AP."
     },
     {
       "id": "bb2fdd64-cfce-5f61-9c09-8bf2b47d65dc",
@@ -5797,7 +5797,7 @@
     },
     {
       "id": "e64cd50a-46ac-5269-b0dd-a4d21aba2772",
-      "body": "If your Army Faction is LEGIONES DAEMONICA, you can use this Shadow Legion Detachment rule.\n\nFirst Prince of Chaos\n\nUnits from your army have the relevant abilities presented below.\nThe most murderous seek not to hide in the Dark Master's pall. The shadows extend before them, offering a rapid route to slaughter.\n\nSHADOW LEGION KHORNE units only. This unit is eligible to shoot and declare a charge in a turn in which it Advanced.\nMutative agents of change, touched by the Dark Master's umbral aura, summon llusory magicks to confound and confuse their desperate foes.\n\nSHADOW LEGION TZEENTCH units only. This unit has Stealth. Each time a melee attack targets this unit, subtract 1 from the Hit roll.\nBorne upon the gloaming wisp of Be'lakor's shadow, this debilitating curse atrophies muscle and withers flesh, greatly weakening its victims.\n\nSHADOW LEGION NURGLE units only. Each time an attack targets this unit, if the Strength characteristic of that attack is greater than this unit's Toughness characteristic, subtract 1 from the Wound roll.\nThe Dark Master's shadow falls across his thralls, masking their approach.\n\nSHADOW LEGION SLAANESH units only. Enemy units cannot target this unit with snap shooting attacks.\nBe'lakor's immortal ego draws into his orbit those as yet unclaimed by any one Chaos God. Their hate‐filled pacts are made to the entire fell pantheon, and the dangerous boons they receive see them plunged along paths of perpetual night straight into the enemy's midst.\n\nSHADOW LEGION UNDIVIDED units only.\n• This unit has the Dark Pacts army rule, and can use it as described in Codex: Chaos Space Marines, even though your Army Faction is not HERETIC ASTARTES. If this unit is BE'LAKOR, it automatically passes the Leadership test required for Dark Pacts.\n• SHADOW LEGION HERETIC ASTARTES models in this unit have the Deep Strike ability."
+      "body": "If your Army Faction is LEGIONES DAEMONICA, you can use this Shadow Legion Detachment rule.\n\nFirst Prince of Chaos\n\nUnits from your army have the relevant abilities presented below.\n\nMurderer's Cowl\nThe most murderous seek not to hide in the Dark Master's pall. The shadows extend before them, offering a rapid route to slaughter.\n\nSHADOW LEGION KHORNE units only. This unit is eligible to shoot and declare a charge in a turn in which it Advanced.\n\n\nPenumbral Puppetry\nMutative agents of change, touched by the Dark Master's umbral aura, summon llusory magicks to confound and confuse their desperate foes.\n\nSHADOW LEGION TZEENTCH units only. This unit has Stealth. Each time a melee attack targets this unit, subtract 1 from the Hit roll.\n\n\nGloam Rot\nBorne upon the gloaming wisp of Be'lakor's shadow, this debilitating curse atrophies muscle and withers flesh, greatly weakening its victims.\n\nSHADOW LEGION NURGLE units only. Each time an attack targets this unit, if the Strength characteristic of that attack is greater than this unit's Toughness characteristic, subtract 1 from the Wound roll.\n\n\nShadow's Caress\nThe Dark Master's shadow falls across his thralls, masking their approach.\n\nSHADOW LEGION SLAANESH units only. Enemy units cannot target this unit with snap shooting attacks.\n\n\nDisciples of Be'lakor\nBe'lakor's immortal ego draws into his orbit those as yet unclaimed by any one Chaos God. Their hate‐filled pacts are made to the entire fell pantheon, and the dangerous boons they receive see them plunged along paths of perpetual night straight into the enemy's midst.\n\nSHADOW LEGION UNDIVIDED units only.\n• This unit has the Dark Pacts army rule, and can use it as described in Codex: Chaos Space Marines, even though your Army Faction is not HERETIC ASTARTES. If this unit is BE'LAKOR, it automatically passes the Leadership test required for Dark Pacts.\n• SHADOW LEGION HERETIC ASTARTES models in this unit have the Deep Strike ability."
     },
     {
       "id": "e699d61e-5bac-55f3-8c01-db9d7a4ba838",
@@ -5857,7 +5857,7 @@
     },
     {
       "id": "f1f03d89-d7d3-5e96-a839-3201f4cf9e27",
-      "body": "Friendly Adepta Sororitas Infantry Fly units have the following ability:\r\n\nCondemnatory Psalms: In your Shooting phase, this unit can select one visible enemy unit within 12\". That enemy unit is condemned: \n\rWhile a unit is condemned, that unit has +3\" detection range. "
+      "body": "Friendly Adepta Sororitas Infantry Fly units have the following ability:\r\n\nCondemnatory Psalms: In your Shooting phase, this unit can select one visible enemy unit within 12\". That enemy unit is condemned: \n\rWhile a unit is condemned, that unit has +3\" detection range."
     },
     {
       "id": "f237329c-2eb8-52d2-95e6-3e3fdb747c1a",
@@ -5961,7 +5961,7 @@
     },
     {
       "id": "fe5e90b3-b52b-516a-8cac-25927a99b5ec",
-      "body": "Friendly Death Guard Character units have +3\" to their Contagion Range (to a maximum of 12\"). "
+      "body": "Friendly Death Guard Character units have +3\" to their Contagion Range (to a maximum of 12\")."
     },
     {
       "id": "fe98cf9a-5c5a-5b63-bb78-05f1968c9095",
@@ -6012,10 +6012,6 @@
     {
       "id": "01f6631f-0299-548e-91ae-070e33810c2d",
       "body": "Chaos Lord with Jump Pack model only.\rThis model has Daemon.\rThis model's melee attacks have +1 A."
-    },
-    {
-      "id": "0240d4fd-ffd3-5741-9e1a-38fcbfad82a5",
-      "body": "VINDICARE ASSASSIN models only. This model's exitus rifle has the ANTI‑MONSTER 4+ and ANTI‑VEHICLE 4+ abilities."
     },
     {
       "id": "033dcf3a-7ccb-53a9-8d1f-cac1063b265f",
@@ -6702,10 +6698,6 @@
       "body": "Orks Infantry unit only. This unit's ranged attacks have:\r[Rapid Fire 1].\rOr: If that attack already has [Rapid Fire], +1 to the value of that [Rapid Fire] (e.g. [Rapid Fire 1] becomes [Rapid Fire 2])."
     },
     {
-      "id": "3163de07-d2e8-5f11-9019-9e420e18e8fc",
-      "body": "CALLIDUS ASSASSIN models only. Twice per battle, in your Movement phase, you can select one other friendly INFANTRY model that is on the battlefield and not within Engagement Range of one or more enemy units. The selected model is destroyed (ignoring any rules that are triggered when a model is destroyed) and this model is removed from the battlefield and set up again as close as possible to where that destroyed model was and not within Engagement Range of one or more enemy units. This ability cannot be used more than once in the same battle round."
-    },
-    {
       "id": "31bea69e-993b-5404-bc61-fb6dc16e5814",
       "body": "Upgrade: 'Ardmob Wartrakk unit only. This unit has:3+ Sv.4+ InSv."
     },
@@ -7130,10 +7122,6 @@
       "body": "HERETIC ASTARTES model only (excluding DAMNED models). The bearer's unit is eligible to shoot and declare a charge in a turn in which it Fell Back. Each time a model in the bearer's unit makes an attack that targets your focus of hatred, if the bearer's unit Fell Back this turn, add 1 to the Hit roll, and each time you select your focus of hatred as a target of that unit's charge, add 1 to the Charge roll."
     },
     {
-      "id": "4ce5ebe3-061b-5da8-9ce6-efa91b138d8f",
-      "body": "C'TAN SHARD OF THE NIGHTBRINGER model only. This model is eligible to declare a charge in a turn in which it Advanced."
-    },
-    {
       "id": "4d0ee922-6aac-5d34-9e88-78330cea8125",
       "body": "MEMNYR STRATEGIST model only. At the end of your turn, if the bearer is on the battlefield and you gained fewer than 3YP this turn, you gain an amount of YP equal to the difference."
     },
@@ -7188,10 +7176,6 @@
     {
       "id": "502432a1-7d73-5a41-b87f-7e5ed12db2e9",
       "body": "MEK model only. Ranged weapons equipped by models in the bearer's unit have the IGNORES COVER ability."
-    },
-    {
-      "id": "5088618f-b35c-5499-aeef-42d95d4daf10",
-      "body": "CULEXUS ASSASSIN models only. Each time this model is targeted with the Grenades Stratagem, 1 mortal wound is inflicted for each D6 roll of 3+ instead of for each 4+."
     },
     {
       "id": "50a5317e-f9ae-537c-a7b9-d7078bde9ee3",
@@ -7982,10 +7966,6 @@
       "body": "Upgrade: Claw of Ascension Achilles Ridgerunners unit only. This unit's Achilles missile launcher weapon has +1 A, S and AP."
     },
     {
-      "id": "8365493d-d13d-5b32-a491-312fd16afffa",
-      "body": "C'TAN SHARD OF THE DECEIVER model only. This model has the following ability:\n\nLord of Deceit (Aura): Once per turn, when your opponent targets a unit from their army within 12” of this model with a stratagem, you can use this ability. If you do increase the CP cost of that use of that stratagem by 1CP.'"
-    },
-    {
       "id": "83d1f59d-5228-5dae-b24b-cc95b299211b",
       "body": "Adeptus Astartes Psyker model only. This unit's ranged attacks have: \r[Anti‑Monster/Vehicle 5+].\rIf this unit has the Pyromancy Discipline ability, [Sustained Hits 1]."
     },
@@ -8048,10 +8028,6 @@
     {
       "id": "88d2f9ac-8640-563f-b43a-07992cee1f55",
       "body": "HERETIC ASTARTES INFANTRY model only. At the start of your Command phase, you can select one other HERETIC ASTARTES INFANTRY CHARACTER model from your army (excluding EPIC HEROES). Until the start of your next Command phase, the bearer gains the PSYKER keyword, and replace the bearer's datasheet abilities with the datasheet abilities of the CHARACTER you selected."
-    },
-    {
-      "id": "8a307ce5-9f9c-5248-b64e-f2120d0d858e",
-      "body": "EVERSOR ASSASSIN models only. Once per battle round, you can target this model with the Heroic Intervention or Counter‑offensive Stratagem for 0CP, and can do so even if you have already used that Stratagem on a different unit this phase."
     },
     {
       "id": "8a6df342-59ca-55d6-9a4b-fdca29daafe1",
@@ -8930,10 +8906,6 @@
       "body": "OVERLORD model only. The bearer's melee weapons have the PRECISION and ANTI-INFANTRY 5+ abilities."
     },
     {
-      "id": "c92740e4-7f04-59de-b527-7b04b23ecdb1",
-      "body": "C'TAN SHARD OF THE VOIDDRAGON model only. Once per turn, at the start of your opponent's Shooting phase, select one enemy Vehicle unit visible to the bearer. That unit must take a Leadership test. Until the end of the phase, each time a model in that unit makes an attack, subtract 1 from the Hit roll and, if that Leadership test was failed, subtract 1 from the Wound roll as well."
-    },
-    {
       "id": "c93b7b3d-f8b5-560b-a77c-78b4ba7a9bd0",
       "body": "GREY KNIGHTS model only. While the bearer's unit is not Battle‑shocked, add 3 to the bearer's Objective Control characteristic."
     },
@@ -9156,10 +9128,6 @@
     {
       "id": "d7378605-e312-5665-9ad5-441113dda4c7",
       "body": "Flawless Blades unit only. This unit has +2\" M."
-    },
-    {
-      "id": "d73ff825-816a-565d-9a34-bf5f91e35517",
-      "body": "TRANSCENDENT C'TAN model only. In your turn, each time this model is set up on the battlefield using the Deep Strike or Transdimensional Displacement abilities, it can be set up anywhere on the battlefield that is more than 6\" horizontally away from all enemy units. When doing so, if this model is set up within 9\" of one or more enemy units, until the end of the turn, it is not eligible to declare a charge."
     },
     {
       "id": "d7a7607d-e7b7-57ac-8c81-d832d2042234",
@@ -27280,7 +27248,7 @@
     },
     {
       "id": "e9fda377-ddce-567c-988c-3ce7d6d3e87c",
-      "body": "In your Shooting phase, each time an attack is made with a [HEAVY] weapon, add 1 to the hit roll if all of the following apply to the attacking unit:That unit is unengaged.\u0007That unit was not set up on the battlefield this turn.No model in that unit has moved moret han 3\" this turn."
+      "body": "In your Shooting phase, each time an attack is made with a [HEAVY] weapon, add 1 to the hit roll if all of the following apply to the attacking unit:That unit is unengaged.\u0007That unit was not set up on the battlefield this turn.No model in that unit has moved more than 3\" this turn."
     },
     {
       "id": "f09ad009-c545-55c8-906d-a16eb53c7a84",
