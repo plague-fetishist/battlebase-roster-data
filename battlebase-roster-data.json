@@ -5435,7 +5435,7 @@
     },
     {
       "id": "920a0562-294f-503d-93fd-bf44be9cc4c4",
-      "body": "Friendly ASTRA MILITARUM units (&#x65;xcluding TITANIC unit&#x73;) have Stealth."
+      "body": "Friendly ASTRA MILITARUM units (excluding TITANIC units) have Stealth."
     },
     {
       "id": "929c65b3-24e1-5925-af04-cbb75b2cc031",
@@ -5635,7 +5635,7 @@
     },
     {
       "id": "b3e6aa28-e1e0-5bd4-84c3-001f6a6d3cc5",
-      "body": "In your Command phase, select one of the following abilities. Until the start of your next Command phase, each HERETIC ASTARTES INFANTRY unit from your army has that ability. At the start of each phase, if such a unit is visible to a friendly HURON BLACKHEART model, until the end of the phase, it has both of the following abilities.\n\nHuron's Elite\n\nEach time a model in this unit makes an attack, add 1 to the Hit roll.\n\nMobile Marauders\n\nThis unit is eligible to shoot and declare a charge in a turn in which it Fell Back.\n\nDesigner's Not&#x65;: If a unit is gaining eligibility to shoot and declare a charge in a turn in which it Fell Back as a result of being visible to Huron Blackheart, but after making a Fall Back move it is no longer visible to Huron Blackheart, that unit will not be eligible to shoot in your Shooting phase or to declare a charge in your Charge phase unless it is visible again at the start of the respective phase."
+      "body": "In your Command phase, select one of the following abilities. Until the start of your next Command phase, each HERETIC ASTARTES INFANTRY unit from your army has that ability. At the start of each phase, if such a unit is visible to a friendly HURON BLACKHEART model, until the end of the phase, it has both of the following abilities.\n\nHuron's Elite\n\nEach time a model in this unit makes an attack, add 1 to the Hit roll.\n\nMobile Marauders\n\nThis unit is eligible to shoot and declare a charge in a turn in which it Fell Back.\n\nDesigner's Note: If a unit is gaining eligibility to shoot and declare a charge in a turn in which it Fell Back as a result of being visible to Huron Blackheart, but after making a Fall Back move it is no longer visible to Huron Blackheart, that unit will not be eligible to shoot in your Shooting phase or to declare a charge in your Charge phase unless it is visible again at the start of the respective phase."
     },
     {
       "id": "b5afce1c-9a6c-54ef-9af1-15da2a6edf6e",
@@ -7781,7 +7781,7 @@
     },
     {
       "id": "78dd1936-ab61-5e53-88b5-92aa387846a8",
-      "body": "LEGIONES DAEMONICA TZEENTCH MONSTER model onl&#x79;. In your Shooting phase, when this unit is selected to shoot, while an enemy unit is visible to a friendly LEGIONES DAEMONICA TZEENTCH unit, that enemy unit has +9\" detection range until this unit has shot."
+      "body": "LEGIONES DAEMONICA TZEENTCH MONSTER model only. In your Shooting phase, when this unit is selected to shoot, while an enemy unit is visible to a friendly LEGIONES DAEMONICA TZEENTCH unit, that enemy unit has +9\" detection range until this unit has shot."
     },
     {
       "id": "795945cc-bdb9-582e-a429-c59a22426db3",
